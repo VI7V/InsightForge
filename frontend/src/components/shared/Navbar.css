@@ -1,0 +1,70 @@
+.navbar {
+  position: sticky; top: 0; z-index: 100;
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(20px);
+}
+
+.navbar__inner {
+  max-width: 1400px; margin: 0 auto;
+  display: flex; align-items: center; gap: 16px;
+  padding: 0 24px; height: 58px;
+}
+
+.navbar__brand {
+  display: flex; align-items: center; gap: 10px;
+  background: none; border: none; cursor: pointer;
+  font-family: var(--font-display); font-size: 17px; font-weight: 700;
+  color: var(--text-primary); flex-shrink: 0;
+}
+
+.navbar__logo {
+  width: 34px; height: 34px; border-radius: 8px; overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.navbar__tabs {
+  display: flex; align-items: center; gap: 2px;
+  flex: 1; overflow-x: auto; scrollbar-width: none;
+}
+.navbar__tabs::-webkit-scrollbar { display: none; }
+
+.navbar__tab {
+  padding: 6px 14px; border-radius: var(--radius-md);
+  font-size: 13px; font-weight: 500; font-family: var(--font-body);
+  border: none; background: none; cursor: pointer;
+  color: var(--text-secondary); transition: all 0.18s; white-space: nowrap;
+}
+.navbar__tab:hover { color: var(--text-primary); background: var(--bg-hover); }
+.navbar__tab--active { color: var(--accent); background: var(--accent-glow); }
+
+.navbar__actions { display: flex; align-items: center; gap: 10px; margin-left: auto; flex-shrink: 0; }
+
+.navbar__theme-btn {
+  width: 34px; height: 34px; border-radius: var(--radius-md);
+  background: var(--bg-hover); border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; color: var(--text-secondary); transition: all 0.2s;
+}
+.navbar__theme-btn:hover { color: var(--text-primary); border-color: var(--border-strong); }
+
+.navbar__user { display: flex; align-items: center; gap: 8px; }
+.navbar__avatar {
+  width: 30px; height: 30px; border-radius: 50%;
+  background: var(--accent); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 13px; font-weight: 700; font-family: var(--font-display);
+}
+.navbar__username { font-size: 14px; font-weight: 500; color: var(--text-primary); }
+
+@media (max-width: 768px) {
+  .navbar__name { display: none; }
+  .navbar__username { display: none; }
+  .navbar__tabs { gap: 0; }
+  .navbar__tab { padding: 6px 10px; font-size: 12px; }
+  .navbar__inner { padding: 0 14px; gap: 8px; }
+}
+
+@media (max-width: 480px) {
+  .navbar__tabs { display: none; }
+}

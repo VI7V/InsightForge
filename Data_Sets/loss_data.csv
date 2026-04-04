@@ -1,0 +1,1001 @@
+date,customer_id,customer_name,sales_amount,product_category,region,purchase_frequency,recency_days,customer_lifetime_value,feedback_text,channel
+2023-07-12,CUST1001,"Uma Allen",752.80,Electronics,South,19,174,11814.44,"Highly recommend to everyone!",Email
+2024-01-31,CUST1002,"David Brown",871.04,Food & Beverage,West,6,316,3574.75,"Complete waste of money, avoid this.",Phone
+2024-03-28,CUST1003,"Nancy Stewart",617.41,Home & Garden,West,20,83,11323.30,"Worst purchase I have ever made.",In-Store
+2024-11-30,CUST1004,"Quinn Robinson",907.58,Automotive,West,10,228,7006.52,"Product doesn't match the description online.",Online
+2023-11-19,CUST1005,"Carol White",961.66,Sports,Central,1,232,738.55,"Product doesn't match the description online.",In-Store
+2023-02-03,CUST1006,"Kevin Evans",717.56,Home & Garden,South,17,117,10771.29,"Returned the product, wasn't as advertised.",Online
+2023-02-14,CUST1007,"Chris Carter",696.01,Automotive,North,4,70,2589.16,"Quality is shockingly bad for the price.",Mobile App
+2023-07-13,CUST1008,"Frank Wilson",695.49,Health,West,5,43,3327.92,"Quality is shockingly bad for the price.",Mobile App
+2023-06-29,CUST1009,"Frank Wilson",763.45,Automotive,West,13,108,8852.97,"Never received my order, no response.",Email
+2024-06-25,CUST1010,"Iris Chen",630.80,Clothing,North,20,128,11001.15,"Stopped working after just two days.",Phone
+2024-08-02,CUST1011,"Mia Jackson",891.81,Beauty,South,18,91,14591.80,"Product doesn't match the description online.",In-Store
+2023-07-11,CUST1012,"Fiona Roberts",823.55,Beauty,North,7,63,5401.66,"Customer service was completely unhelpful.",In-Store
+2024-09-22,CUST1013,"Karen Anderson",833.89,Home & Garden,East,15,360,8005.34,"Exceeded all my expectations completely!",Phone
+2024-11-14,CUST1014,"Henry Taylor",993.18,Electronics,South,7,276,5033.44,"Total disappointment, requesting a refund now.",Online
+2024-07-09,CUST1015,"Frank Wilson",722.01,Toys,West,9,223,5049.02,"Packaging was terrible, item was damaged.",Phone
+2023-09-02,CUST1016,"Karen Anderson",1014.72,Health,East,8,157,6843.27,"Customer service was completely unhelpful.",In-Store
+2023-04-28,CUST1017,"Eva Martinez",687.18,Books,Central,18,309,8547.14,"Wonderful experience, very satisfied!",In-Store
+2024-07-21,CUST1018,"Carol White",829.47,Automotive,North,12,148,8480.50,"Mediocre quality for the price paid.",Mobile App
+2024-12-06,CUST1019,"Frank Wilson",866.26,Food & Beverage,North,17,4,14667.51,"Product doesn't match the description online.",Online
+2024-05-03,CUST1020,"Yara Scott",742.47,Sports,South,20,220,11582.53,"Highly recommend to everyone!",Email
+2024-08-10,CUST1021,"Aaron Baker",882.44,Food & Beverage,Central,4,214,2774.39,"Mediocre quality for the price paid.",Email
+2024-09-11,CUST1022,"David Brown",1031.60,Health,Central,3,1,3091.71,"Product doesn't match the description online.",In-Store
+2023-02-25,CUST1023,"Victor Young",804.41,Home & Garden,North,10,155,6797.26,"Complete waste of money, avoid this.",Email
+2023-03-19,CUST1024,"Xavier Wright",626.08,Clothing,Central,14,34,8467.11,"Quality is shockingly bad for the price.",In-Store
+2023-12-05,CUST1025,"Grace Lee",831.44,Health,West,20,352,10775.46,"Customer service was completely unhelpful.",In-Store
+2023-05-18,CUST1026,"Fiona Roberts",700.86,Automotive,East,1,44,670.02,"Excellent product, very happy with my purchase!",Online
+2023-05-29,CUST1027,"David Brown",727.58,Clothing,East,10,91,6613.70,"Product is okay but not worth the price.",Phone
+2023-10-18,CUST1028,"Kevin Evans",822.29,Books,South,12,322,6690.15,"Very poor customer service experience.",Online
+2024-12-02,CUST1029,"Olivia Martin",893.66,Sports,Central,13,169,9654.21,"Very poor customer service experience.",Mobile App
+2023-09-25,CUST1030,"Carol White",818.70,Automotive,Central,1,355,528.06,"Quality is shockingly bad for the price.",Phone
+2023-02-28,CUST1031,"Julia Parker",737.94,Food & Beverage,West,3,214,1740.06,"Disappointed with the product durability.",Phone
+2023-10-04,CUST1032,"Karen Anderson",994.42,Toys,South,13,344,8480.41,"Disappointed with the product durability.",Online
+2024-08-21,CUST1033,"Peter Garcia",870.51,Health,North,10,153,7373.22,"Excellent product, very happy with my purchase!",In-Store
+2024-06-27,CUST1034,"Laura Edwards",674.84,Home & Garden,East,7,164,3949.16,"Complete waste of money, avoid this.",Mobile App
+2024-11-23,CUST1035,"Frank Wilson",1035.27,Toys,Central,17,299,12337.31,"Customer service was completely unhelpful.",Phone
+2023-02-18,CUST1036,"Iris Chen",765.72,Beauty,Central,6,258,3408.99,"Works as described, nothing more nothing less.",Phone
+2023-11-18,CUST1037,"Peter Garcia",1035.34,Health,Central,1,167,862.44,"Complete waste of money, avoid this.",In-Store
+2024-06-20,CUST1038,"Henry Taylor",769.61,Beauty,South,12,242,7000.37,"Product broke after one week, very disappointed.",In-Store
+2024-04-27,CUST1039,"Peter Garcia",584.72,Toys,Central,3,306,1217.39,"Returned the product, wasn't as advertised.",Email
+2023-11-19,CUST1040,"Laura Edwards",852.11,Clothing,East,8,30,6612.37,"Mediocre quality for the price paid.",Online
+2023-06-07,CUST1041,"Wendy King",711.33,Clothing,West,17,2,12068.42,"Product broke after one week, very disappointed.",Phone
+2023-07-11,CUST1042,"Eva Martinez",783.96,Clothing,South,3,9,2330.71,"Returned the product, wasn't as advertised.",Phone
+2024-06-21,CUST1043,"Aaron Baker",743.55,Sports,East,3,239,1697.52,"Disappointed with the product durability.",In-Store
+2024-09-19,CUST1044,"Ian Campbell",933.53,Health,South,6,30,5433.14,"Quality is shockingly bad for the price.",Email
+2023-10-31,CUST1045,"Diana Mitchell",1011.99,Toys,Central,1,298,710.42,"Returned the product, wasn't as advertised.",Email
+2024-08-10,CUST1046,"Peter Garcia",858.23,Health,South,11,139,8128.30,"Packaging was terrible, item was damaged.",Phone
+2024-07-10,CUST1047,"Kevin Evans",841.41,Health,North,19,52,15155.48,"Stopped working after just two days.",Phone
+2024-10-02,CUST1048,"Karen Anderson",1042.90,Toys,North,13,131,11781.64,"Product arrived late and was missing parts.",Online
+2024-07-01,CUST1049,"David Brown",662.96,Automotive,North,17,237,8599.25,"Instructions were unclear but product works well.",Phone
+2024-07-19,CUST1050,"Henry Taylor",738.83,Food & Beverage,West,14,59,9733.35,"Worst purchase I have ever made.",Email
+2023-11-24,CUST1051,"Beth Nelson",800.48,Books,Central,3,43,2298.18,"Disappointed with the product durability.",Online
+2023-11-16,CUST1052,"Olivia Martin",835.60,Books,South,13,225,8418.67,"Very poor customer service experience.",Email
+2024-08-11,CUST1053,"Yara Scott",794.15,Sports,South,18,170,11864.60,"Complete waste of money, avoid this.",Email
+2024-02-07,CUST1054,"Grace Lee",662.86,Beauty,East,4,338,1755.25,"Best purchase I've made this year!",Mobile App
+2023-04-07,CUST1055,"Grace Lee",620.08,Sports,South,15,170,7720.00,"Never received my order, no response.",Phone
+2024-10-19,CUST1056,"Laura Edwards",1043.22,Toys,North,9,77,8666.03,"Never received my order, no response.",Email
+2023-08-02,CUST1057,"Olivia Martin",800.63,Food & Beverage,East,2,341,1055.23,"Mediocre quality for the price paid.",In-Store
+2024-09-05,CUST1058,"Laura Edwards",1022.20,Food & Beverage,South,11,101,10108.54,"Customer service was completely unhelpful.",Online
+2023-09-06,CUST1059,"Noah Harris",887.29,Food & Beverage,North,9,61,7498.49,"Product broke after one week, very disappointed.",Mobile App
+2023-10-14,CUST1060,"Ian Campbell",885.07,Clothing,West,3,241,2015.30,"Very poor customer service experience.",In-Store
+2024-03-25,CUST1061,"Kevin Evans",720.77,Books,Central,10,11,7128.42,"Great product, easy to use!",Phone
+2023-07-01,CUST1062,"David Brown",667.38,Automotive,South,7,5,4648.30,"Exceeded all my expectations completely!",Mobile App
+2024-06-12,CUST1063,"Victor Young",754.16,Beauty,North,5,21,3691.61,"Product arrived late and was missing parts.",Online
+2024-09-05,CUST1064,"Aaron Baker",982.96,Toys,West,1,323,665.46,"Product broke after one week, very disappointed.",Email
+2024-01-23,CUST1065,"Peter Garcia",682.59,Beauty,East,6,273,2977.46,"Disappointed with the product durability.",Email
+2023-12-11,CUST1066,"Nancy Stewart",754.57,Home & Garden,Central,19,237,10939.00,"Packaging was terrible, item was damaged.",Online
+2024-09-27,CUST1067,"Diana Mitchell",997.16,Food & Beverage,West,10,12,9851.94,"Product arrived late and was missing parts.",In-Store
+2024-03-19,CUST1068,"Wendy King",647.75,Toys,Central,16,104,9286.14,"Total disappointment, requesting a refund now.",Email
+2023-09-10,CUST1069,"Victor Young",853.68,Books,West,13,248,8345.58,"Mediocre quality for the price paid.",Email
+2023-07-23,CUST1070,"Yara Scott",720.99,Automotive,North,12,301,6047.66,"Very poor customer service experience.",Phone
+2024-01-13,CUST1071,"Zoe Green",719.72,Food & Beverage,Central,1,96,650.63,"Disappointed with the product durability.",Phone
+2023-06-13,CUST1072,"Peter Garcia",776.53,Beauty,East,3,314,1598.10,"Fantastic experience from start to finish!",Phone
+2024-09-25,CUST1073,"David Brown",859.69,Sports,West,9,109,6893.85,"Packaging was terrible, item was damaged.",Email
+2023-10-31,CUST1074,"Tina Hall",899.66,Automotive,Central,2,90,1637.38,"Will definitely order again soon!",Phone
+2023-06-10,CUST1075,"Laura Edwards",643.08,Beauty,East,17,145,9347.17,"Very poor customer service experience.",Phone
+2023-04-20,CUST1076,"Julia Parker",616.83,Electronics,West,3,353,1197.27,"Decent product, could be better packaged.",Email
+2023-04-18,CUST1077,"Chris Carter",684.42,Clothing,Central,17,94,10541.44,"Very poor customer service experience.",Mobile App
+2024-05-08,CUST1078,"Zoe Green",686.19,Home & Garden,East,18,193,9967.60,"Decent product, could be better packaged.",In-Store
+2024-01-22,CUST1079,"Mike Collins",851.81,Health,North,20,338,11277.96,"Disappointed with the product durability.",Phone
+2024-04-04,CUST1080,"Grace Lee",614.80,Health,West,4,214,1932.93,"Decent product, could be better packaged.",Email
+2024-10-13,CUST1081,"Kevin Evans",828.78,Home & Garden,North,11,23,8906.90,"Product broke after one week, very disappointed.",In-Store
+2023-09-22,CUST1082,"Tina Hall",910.13,Electronics,North,6,132,4739.96,"Disappointed with the product durability.",Online
+2024-08-19,CUST1083,"Diana Mitchell",703.82,Health,Central,20,253,10515.07,"Total disappointment, requesting a refund now.",Online
+2024-09-10,CUST1084,"Eva Martinez",757.05,Electronics,North,18,125,11923.54,"Worst purchase I have ever made.",Email
+2023-01-05,CUST1085,"Uma Allen",697.23,Clothing,East,9,322,4254.50,"Complete waste of money, avoid this.",Phone
+2024-07-23,CUST1086,"Frank Wilson",819.75,Books,East,6,256,3659.36,"Total disappointment, requesting a refund now.",Online
+2024-01-20,CUST1087,"Laura Edwards",751.40,Books,North,6,76,4165.76,"Never received my order, no response.",Email
+2024-01-18,CUST1088,"James Davis",759.82,Books,Central,4,241,2306.81,"Disappointed with the product durability.",Email
+2024-01-27,CUST1089,"Eva Martinez",833.97,Food & Beverage,East,10,242,6321.49,"Product doesn't match the description online.",Online
+2023-09-04,CUST1090,"Yara Scott",924.84,Clothing,South,3,245,2094.76,"Product doesn't match the description online.",Mobile App
+2024-01-26,CUST1091,"Frank Wilson",663.82,Home & Garden,West,15,304,6930.28,"Returned the product, wasn't as advertised.",Online
+2024-08-03,CUST1092,"Uma Allen",771.71,Health,South,10,113,6845.07,"Quality is shockingly bad for the price.",Mobile App
+2023-06-17,CUST1093,"Peter Garcia",749.68,Health,West,19,185,11608.79,"Worst purchase I have ever made.",Email
+2023-10-24,CUST1094,"Rachel Lewis",953.60,Health,South,2,97,1722.20,"Works as described, nothing more nothing less.",In-Store
+2024-03-01,CUST1095,"Peter Garcia",685.56,Books,North,7,354,3100.10,"Product doesn't match the description online.",Mobile App
+2024-07-04,CUST1096,"Grace Lee",809.74,Health,West,13,98,9495.01,"Mediocre quality for the price paid.",Online
+2023-02-06,CUST1097,"Noah Harris",581.37,Health,East,9,159,4400.39,"Total disappointment, requesting a refund now.",Online
+2023-02-17,CUST1098,"Samuel Walker",686.87,Books,East,9,188,5019.65,"Total disappointment, requesting a refund now.",Online
+2023-01-18,CUST1099,"Karen Anderson",745.58,Automotive,East,4,137,2573.74,"Shipping was slow but product quality is great.",Email
+2023-09-17,CUST1100,"Kevin Evans",765.83,Toys,Central,15,223,8925.75,"Mediocre quality for the price paid.",Mobile App
+2024-01-30,CUST1101,"Mike Collins",837.33,Automotive,West,7,117,5175.54,"Product arrived late and was missing parts.",Mobile App
+2023-10-19,CUST1102,"Julia Parker",759.93,Clothing,Central,14,284,7617.54,"Five stars for quality and service!",Online
+2023-03-04,CUST1103,"Ethan Perez",588.34,Beauty,West,8,66,4396.08,"Quality is shockingly bad for the price.",Phone
+2024-01-30,CUST1104,"Liam Thomas",742.16,Home & Garden,Central,11,123,7159.62,"Complete waste of money, avoid this.",In-Store
+2023-10-19,CUST1105,"Karen Anderson",789.83,Home & Garden,North,12,264,6975.78,"Product broke after one week, very disappointed.",Phone
+2023-10-17,CUST1106,"Chris Carter",818.40,Sports,East,8,229,5047.89,"Stopped working after just two days.",Phone
+2023-05-13,CUST1107,"Beth Nelson",607.05,Electronics,North,14,60,7988.78,"Superb quality and quick shipping!",Phone
+2023-06-07,CUST1108,"Alice Johnson",686.97,Books,North,10,207,5447.67,"Quality is shockingly bad for the price.",Mobile App
+2023-04-24,CUST1109,"Ian Campbell",515.61,Clothing,Central,15,286,5522.18,"Packaging was terrible, item was damaged.",Phone
+2024-09-02,CUST1110,"Quinn Robinson",833.66,Food & Beverage,North,9,235,5739.75,"Disappointed with the product durability.",Email
+2023-08-02,CUST1111,"Alice Johnson",734.97,Automotive,Central,2,229,1133.32,"Mediocre quality for the price paid.",Phone
+2024-10-27,CUST1112,"Kevin Evans",870.39,Food & Beverage,North,2,210,1375.22,"Packaging was terrible, item was damaged.",Mobile App
+2024-04-02,CUST1113,"Eva Martinez",525.10,Automotive,North,9,192,3818.53,"Disappointed with the product durability.",Phone
+2023-08-01,CUST1114,"Ethan Perez",849.24,Food & Beverage,North,8,114,6019.41,"Product doesn't match the description online.",Mobile App
+2023-01-28,CUST1115,"Mike Collins",778.35,Beauty,North,1,92,706.74,"Disappointed with the product durability.",Email
+2024-11-07,CUST1116,"Ethan Perez",966.07,Health,North,3,314,1988.17,"Total disappointment, requesting a refund now.",In-Store
+2023-04-27,CUST1117,"Karen Anderson",529.49,Beauty,West,16,277,6125.14,"Complete waste of money, avoid this.",Online
+2024-03-25,CUST1118,"Julia Parker",611.41,Automotive,Central,4,151,2076.35,"Complete waste of money, avoid this.",Online
+2023-09-12,CUST1119,"Wendy King",884.02,Electronics,South,9,140,6842.31,"Returned the product, wasn't as advertised.",Phone
+2023-02-18,CUST1120,"Chris Carter",716.44,Automotive,East,12,107,7677.37,"Highly recommend to everyone!",In-Store
+2023-01-21,CUST1121,"Yara Scott",773.29,Home & Garden,West,13,25,9801.45,"Will definitely order again soon!",Email
+2024-10-12,CUST1122,"Carol White",926.11,Sports,West,6,103,4984.32,"Returned the product, wasn't as advertised.",Mobile App
+2023-02-05,CUST1123,"Frank Wilson",638.30,Home & Garden,East,6,13,3780.01,"Highly recommend to everyone!",In-Store
+2023-02-24,CUST1124,"Liam Thomas",645.28,Food & Beverage,North,9,67,5418.42,"Total disappointment, requesting a refund now.",Email
+2023-04-05,CUST1125,"Diana Mitchell",542.32,Sports,South,15,175,6711.21,"Amazing value for money, will buy again!",In-Store
+2024-12-19,CUST1126,"Tina Hall",770.31,Electronics,South,19,200,11708.71,"Decent product, could be better packaged.",Mobile App
+2024-09-19,CUST1127,"Fiona Roberts",890.68,Toys,South,16,41,13666.59,"Product broke after one week, very disappointed.",Phone
+2024-12-06,CUST1128,"Noah Harris",757.91,Electronics,Central,17,253,9624.70,"Never received my order, no response.",Mobile App
+2023-03-23,CUST1129,"Aaron Baker",657.74,Automotive,South,4,337,1744.33,"Product arrived late and was missing parts.",Phone
+2024-11-27,CUST1130,"Mike Collins",777.87,Books,North,17,347,8635.13,"Decent product, could be better packaged.",In-Store
+2023-06-07,CUST1131,"Bob Smith",643.59,Beauty,South,16,249,7733.38,"Superb quality and quick shipping!",Online
+2023-09-30,CUST1132,"Mike Collins",856.43,Books,West,18,137,13303.78,"Worst purchase I have ever made.",Mobile App
+2023-02-15,CUST1133,"Diana Mitchell",675.22,Electronics,Central,4,359,1731.26,"Best purchase I've made this year!",Email
+2024-12-03,CUST1134,"Tina Hall",702.79,Beauty,West,6,278,3044.49,"Stopped working after just two days.",Email
+2024-01-05,CUST1135,"Samuel Walker",762.71,Electronics,South,17,69,12071.41,"Very poor customer service experience.",Online
+2023-07-14,CUST1136,"Frank Wilson",718.97,Home & Garden,Central,1,182,588.12,"Complete waste of money, avoid this.",Mobile App
+2023-08-30,CUST1137,"Julia Parker",850.96,Toys,South,12,270,7454.41,"Customer service was completely unhelpful.",Phone
+2023-09-28,CUST1138,"Zoe Green",814.71,Electronics,South,19,364,9844.96,"Excellent product, very happy with my purchase!",Mobile App
+2024-03-01,CUST1139,"Yara Scott",600.95,Clothing,Central,5,96,2716.29,"Average product, nothing special about it.",Email
+2024-04-12,CUST1140,"Grace Lee",570.63,Toys,Central,14,262,5895.75,"Worst purchase I have ever made.",Mobile App
+2023-01-14,CUST1141,"Laura Edwards",757.20,Food & Beverage,West,16,19,11885.01,"Disappointed with the product durability.",Online
+2023-07-30,CUST1142,"Tina Hall",635.41,Beauty,West,12,336,5062.95,"Decent product, could be better packaged.",Email
+2024-05-30,CUST1143,"Peter Garcia",617.00,Electronics,East,4,76,2280.43,"Product arrived late and was missing parts.",Email
+2024-09-23,CUST1144,"Nancy Stewart",819.23,Beauty,Central,19,154,13168.30,"Stopped working after just two days.",Mobile App
+2023-10-11,CUST1145,"Yara Scott",958.16,Clothing,Central,11,206,8368.57,"Packaging was terrible, item was damaged.",Online
+2023-02-03,CUST1146,"Frank Wilson",564.90,Electronics,Central,20,311,7784.32,"Excellent product, very happy with my purchase!",Online
+2024-04-04,CUST1147,"Zoe Green",618.54,Automotive,Central,11,169,5654.07,"Quality is shockingly bad for the price.",Email
+2023-02-02,CUST1148,"James Davis",577.73,Food & Beverage,South,14,24,7894.10,"Quality is shockingly bad for the price.",Email
+2023-10-01,CUST1149,"Wendy King",776.66,Clothing,North,13,271,7360.41,"Fantastic experience from start to finish!",Online
+2023-09-06,CUST1150,"Laura Edwards",844.36,Health,North,10,111,7506.36,"Customer service was completely unhelpful.",Phone
+2024-09-04,CUST1151,"Uma Allen",802.40,Electronics,East,12,60,9051.07,"Product doesn't match the description online.",In-Store
+2023-02-09,CUST1152,"Laura Edwards",610.34,Beauty,South,10,1,6097.30,"Worst purchase I have ever made.",In-Store
+2024-12-06,CUST1153,"Rachel Lewis",838.74,Toys,West,15,191,10178.11,"Average product, nothing special about it.",Online
+2024-08-26,CUST1154,"Xavier Wright",763.37,Toys,Central,16,119,10760.46,"Amazing value for money, will buy again!",Phone
+2023-10-27,CUST1155,"Peter Garcia",936.18,Home & Garden,North,12,222,8740.18,"Stopped working after just two days.",Online
+2024-01-23,CUST1156,"Ian Campbell",786.81,Toys,West,2,162,1318.69,"Returned the product, wasn't as advertised.",Mobile App
+2024-06-04,CUST1157,"Uma Allen",621.97,Home & Garden,South,11,98,6171.19,"Worst purchase I have ever made.",Mobile App
+2024-12-18,CUST1158,"Mike Collins",860.88,Sports,West,12,286,7376.02,"Never received my order, no response.",In-Store
+2024-08-26,CUST1159,"Beth Nelson",737.52,Health,North,19,271,10215.39,"Worst purchase I have ever made.",Email
+2024-03-22,CUST1160,"Henry Taylor",641.67,Home & Garden,North,8,63,4809.96,"Average product, nothing special about it.",Phone
+2023-03-02,CUST1161,"Nancy Stewart",591.88,Sports,West,18,86,9737.61,"Returned the product, wasn't as advertised.",Email
+2023-01-31,CUST1162,"Liam Thomas",634.78,Automotive,Central,10,301,4437.11,"Very poor customer service experience.",Mobile App
+2023-07-19,CUST1163,"Uma Allen",788.53,Health,South,7,162,4625.52,"Stopped working after just two days.",In-Store
+2023-03-25,CUST1164,"David Brown",563.82,Home & Garden,West,9,280,3653.55,"Worst purchase I have ever made.",In-Store
+2024-05-07,CUST1165,"Mike Collins",623.03,Toys,East,19,124,10369.71,"Returned the product, wasn't as advertised.",Mobile App
+2024-06-20,CUST1166,"Bob Smith",600.56,Automotive,North,17,44,9760.30,"Product broke after one week, very disappointed.",Online
+2023-12-17,CUST1167,"David Brown",809.07,Toys,Central,2,44,1546.94,"Product doesn't match the description online.",Email
+2023-06-25,CUST1168,"George Turner",680.48,Electronics,Central,2,137,1174.51,"Excellent product, very happy with my purchase!",Mobile App
+2024-05-18,CUST1169,"Xavier Wright",638.22,Automotive,West,8,343,3354.48,"Returned the product, wasn't as advertised.",In-Store
+2023-02-25,CUST1170,"Julia Parker",689.02,Books,East,7,364,3067.52,"Very poor customer service experience.",Mobile App
+2024-06-06,CUST1171,"Bob Smith",704.33,Food & Beverage,East,18,322,8595.64,"Total disappointment, requesting a refund now.",Online
+2023-08-04,CUST1172,"Olivia Martin",770.41,Automotive,South,12,161,7756.49,"Mediocre quality for the price paid.",Online
+2023-02-01,CUST1173,"Bob Smith",593.91,Sports,North,17,8,10015.70,"Disappointed with the product durability.",Mobile App
+2024-11-21,CUST1174,"Rachel Lewis",842.13,Clothing,North,20,168,14013.04,"Mediocre quality for the price paid.",Online
+2024-09-25,CUST1175,"Noah Harris",784.50,Home & Garden,South,2,205,1247.36,"Quality is shockingly bad for the price.",In-Store
+2024-06-07,CUST1176,"Quinn Robinson",652.50,Home & Garden,South,2,346,853.47,"Average product, nothing special about it.",Phone
+2023-06-01,CUST1177,"Carol White",566.64,Electronics,Central,7,272,2887.60,"Stopped working after just two days.",Phone
+2024-01-16,CUST1178,"George Turner",726.67,Electronics,East,2,38,1398.11,"Never received my order, no response.",Mobile App
+2024-05-13,CUST1179,"Karen Anderson",582.09,Clothing,North,18,204,8340.19,"It does the job but nothing exceptional.",Email
+2024-11-04,CUST1180,"Rachel Lewis",907.40,Books,South,17,231,11862.44,"Product arrived late and was missing parts.",In-Store
+2023-09-04,CUST1181,"Noah Harris",740.55,Health,West,16,155,10012.24,"Very poor customer service experience.",Online
+2023-09-29,CUST1182,"Tina Hall",719.71,Electronics,South,16,132,9995.33,"Average product, nothing special about it.",In-Store
+2023-02-03,CUST1183,"Chris Carter",674.45,Food & Beverage,South,12,198,6490.91,"Stopped working after just two days.",Email
+2024-01-13,CUST1184,"Samuel Walker",769.21,Beauty,South,5,98,3469.14,"Mediocre quality for the price paid.",In-Store
+2023-07-14,CUST1185,"Mia Jackson",750.65,Sports,West,12,41,8638.48,"Returned the product, wasn't as advertised.",Phone
+2024-12-07,CUST1186,"Victor Young",699.29,Beauty,South,17,115,10520.82,"Decent product, could be better packaged.",Mobile App
+2024-03-12,CUST1187,"Quinn Robinson",624.80,Home & Garden,West,13,262,5994.33,"Returned the product, wasn't as advertised.",Email
+2024-11-05,CUST1188,"Mike Collins",733.02,Clothing,Central,19,311,9595.96,"Quality is shockingly bad for the price.",In-Store
+2024-02-27,CUST1189,"Liam Thomas",575.57,Food & Beverage,Central,17,309,6761.22,"Total disappointment, requesting a refund now.",Email
+2023-04-15,CUST1190,"Kevin Evans",559.32,Health,East,17,324,6427.71,"Absolutely love it, perfect product!",Online
+2024-08-16,CUST1191,"Mia Jackson",658.90,Health,Central,7,317,3150.20,"Instructions were unclear but product works well.",Online
+2024-05-28,CUST1192,"Zoe Green",620.92,Home & Garden,West,18,103,10025.37,"Product is okay but not worth the price.",Mobile App
+2024-12-13,CUST1193,"David Brown",823.50,Home & Garden,East,17,165,11689.58,"Quality is shockingly bad for the price.",Online
+2023-12-29,CUST1194,"Yara Scott",762.01,Books,South,18,269,10026.53,"Customer service was completely unhelpful.",Online
+2024-01-16,CUST1195,"Kevin Evans",701.95,Sports,North,19,200,10669.64,"Returned the product, wasn't as advertised.",In-Store
+2024-11-05,CUST1196,"Noah Harris",728.93,Clothing,West,9,94,5943.70,"Product doesn't match the description online.",Mobile App
+2023-04-19,CUST1197,"Rachel Lewis",486.49,Books,West,7,288,2424.67,"It does the job but nothing exceptional.",Email
+2023-09-26,CUST1198,"Hannah Phillips",907.94,Beauty,East,7,191,5141.66,"Product doesn't match the description online.",Phone
+2024-04-28,CUST1199,"Rachel Lewis",534.89,Food & Beverage,Central,7,303,2609.73,"Stopped working after just two days.",Phone
+2023-03-10,CUST1200,"Samuel Walker",481.35,Clothing,West,5,110,2142.01,"Very poor customer service experience.",Phone
+2023-05-27,CUST1201,"Xavier Wright",25.37,Toys,East,13,6,327.83,"Total disappointment, requesting a refund now.",In-Store
+2023-09-26,CUST1202,"Wendy King",37.23,Books,South,9,112,297.54,"Best purchase I've made this year!",In-Store
+2024-07-17,CUST1203,"Iris Chen",29.14,Electronics,East,10,44,278.58,"Average product, nothing special about it.",In-Store
+2023-10-06,CUST1204,"Zoe Green",45.70,Clothing,West,10,236,349.15,"Excellent product, very happy with my purchase!",Mobile App
+2023-10-25,CUST1205,"Eva Martinez",45.96,Home & Garden,East,13,205,475.00,"It does the job but nothing exceptional.",Online
+2023-04-28,CUST1206,"Yara Scott",30.20,Food & Beverage,East,9,189,220.43,"Disappointed with the product durability.",Phone
+2024-06-01,CUST1207,"Henry Taylor",28.17,Home & Garden,West,18,198,406.66,"Disappointed with the product durability.",Email
+2024-03-01,CUST1208,"Quinn Robinson",28.53,Electronics,Central,8,119,201.08,"Total disappointment, requesting a refund now.",Mobile App
+2024-07-25,CUST1209,"Noah Harris",35.25,Health,North,16,120,496.32,"Quality is shockingly bad for the price.",Mobile App
+2023-11-26,CUST1210,"Xavier Wright",43.67,Beauty,North,18,291,557.32,"Instructions were unclear but product works well.",Mobile App
+2024-01-21,CUST1211,"Bob Smith",37.20,Clothing,East,8,202,237.48,"Very poor customer service experience.",Email
+2023-12-14,CUST1212,"Victor Young",802.38,Automotive,West,11,87,8058.30,"Complete waste of money, avoid this.",Email
+2023-02-06,CUST1213,"Ethan Perez",584.20,Sports,North,1,310,403.10,"Absolutely love it, perfect product!",Mobile App
+2024-11-27,CUST1214,"Alice Johnson",820.73,Toys,West,2,264,1208.11,"Total disappointment, requesting a refund now.",Phone
+2023-02-02,CUST1215,"Xavier Wright",575.75,Books,West,18,295,7306.27,"Worst purchase I have ever made.",Email
+2023-02-08,CUST1216,"Beth Nelson",555.16,Beauty,East,17,83,8654.39,"Product arrived late and was missing parts.",Online
+2023-11-01,CUST1217,"Quinn Robinson",855.91,Home & Garden,West,14,180,9825.85,"Stopped working after just two days.",Online
+2023-06-09,CUST1218,"Noah Harris",691.54,Food & Beverage,Central,11,357,4891.26,"Stopped working after just two days.",Phone
+2023-06-10,CUST1219,"Beth Nelson",595.91,Beauty,West,9,103,4810.78,"Confusing setup process but works once done.",Mobile App
+2023-04-20,CUST1220,"Mia Jackson",503.24,Sports,Central,4,221,1568.10,"Product doesn't match the description online.",Online
+2024-08-31,CUST1221,"Tina Hall",637.34,Electronics,West,19,340,7992.24,"Product arrived late and was missing parts.",Email
+2024-07-30,CUST1222,"James Davis",622.78,Books,West,18,265,8239.38,"Product is okay but not worth the price.",In-Store
+2023-05-22,CUST1223,"Carol White",547.55,Toys,West,16,84,8024.89,"Best purchase I've made this year!",Email
+2023-05-14,CUST1224,"Chris Carter",518.10,Sports,West,1,117,457.48,"Disappointed with the product durability.",Phone
+2024-03-12,CUST1225,"Ian Campbell",469.95,Books,Central,3,114,1249.13,"Returned the product, wasn't as advertised.",Online
+2023-09-28,CUST1226,"Mike Collins",721.24,Books,North,12,313,5945.90,"Disappointed with the product durability.",Mobile App
+2023-11-17,CUST1227,"Tina Hall",790.30,Sports,Central,8,313,4343.49,"Packaging was terrible, item was damaged.",Phone
+2023-06-07,CUST1228,"Henry Taylor",531.49,Home & Garden,North,3,306,1106.56,"Packaging was terrible, item was damaged.",Email
+2024-07-06,CUST1229,"Xavier Wright",581.57,Electronics,North,14,103,7303.36,"Product arrived late and was missing parts.",Online
+2024-09-01,CUST1230,"Beth Nelson",851.75,Books,West,5,252,3185.55,"Disappointed with the product durability.",In-Store
+2024-11-11,CUST1231,"Quinn Robinson",821.37,Home & Garden,North,17,146,11924.65,"Never received my order, no response.",Mobile App
+2023-04-28,CUST1232,"Samuel Walker",502.71,Health,Central,8,54,3804.51,"Highly recommend to everyone!",Email
+2024-05-17,CUST1233,"Quinn Robinson",486.91,Home & Garden,West,8,251,2917.56,"Customer service was completely unhelpful.",Phone
+2023-02-18,CUST1234,"Zoe Green",609.69,Electronics,Central,19,269,8467.98,"Very poor customer service experience.",In-Store
+2023-07-07,CUST1235,"Hannah Phillips",733.92,Electronics,North,10,93,6656.65,"Worst purchase I have ever made.",Phone
+2024-01-27,CUST1236,"Grace Lee",646.37,Sports,West,12,280,5584.64,"Packaging was terrible, item was damaged.",Email
+2023-01-18,CUST1237,"Samuel Walker",619.64,Toys,North,18,15,10986.22,"Stopped working after just two days.",Mobile App
+2024-10-26,CUST1238,"Tina Hall",720.62,Books,West,12,249,6494.23,"Customer service was completely unhelpful.",In-Store
+2023-04-04,CUST1239,"Frank Wilson",496.19,Books,West,9,300,3126.00,"Complete waste of money, avoid this.",Online
+2023-02-27,CUST1240,"Chris Carter",599.30,Books,North,9,150,4584.64,"Mediocre quality for the price paid.",Online
+2024-10-23,CUST1241,"Olivia Martin",782.15,Home & Garden,South,4,326,2108.68,"Total disappointment, requesting a refund now.",In-Store
+2023-06-04,CUST1242,"Ethan Perez",666.50,Clothing,East,2,238,1015.75,"Superb quality and quick shipping!",Email
+2024-05-27,CUST1243,"Mia Jackson",589.52,Clothing,North,5,156,2487.77,"Very poor customer service experience.",Phone
+2024-11-08,CUST1244,"Rachel Lewis",802.11,Toys,South,17,181,11167.78,"Total disappointment, requesting a refund now.",Mobile App
+2024-02-26,CUST1245,"Noah Harris",539.52,Home & Garden,West,9,80,4467.23,"Stopped working after just two days.",In-Store
+2023-05-06,CUST1246,"Diana Mitchell",536.16,Health,Central,5,277,1938.22,"Disappointed with the product durability.",In-Store
+2023-02-28,CUST1247,"Beth Nelson",563.42,Sports,East,20,43,10783.86,"Superb quality and quick shipping!",Online
+2023-04-23,CUST1248,"Eva Martinez",500.14,Health,East,4,227,1546.43,"Outstanding customer support team!",Email
+2024-07-10,CUST1249,"Zoe Green",597.11,Sports,North,3,256,1332.75,"Never received my order, no response.",Phone
+2024-07-22,CUST1250,"Rachel Lewis",613.51,Automotive,West,5,168,2552.20,"Total disappointment, requesting a refund now.",In-Store
+2023-12-05,CUST1251,"Hannah Phillips",796.44,Toys,Central,6,245,3607.87,"Very poor customer service experience.",In-Store
+2023-12-01,CUST1252,"James Davis",819.78,Home & Garden,East,17,98,12570.51,"Very poor customer service experience.",Email
+2024-01-23,CUST1253,"Alice Johnson",643.67,Sports,North,5,326,2169.17,"Never received my order, no response.",In-Store
+2023-05-01,CUST1254,"Wendy King",467.44,Books,West,19,177,7309.36,"Returned the product, wasn't as advertised.",Mobile App
+2023-07-26,CUST1255,"Iris Chen",608.65,Health,West,9,148,4667.13,"Product doesn't match the description online.",Phone
+2024-04-16,CUST1256,"Alice Johnson",452.12,Books,West,13,128,5125.23,"Disappointed with the product durability.",Online
+2023-03-22,CUST1257,"Olivia Martin",519.69,Electronics,North,6,205,2478.92,"Never received my order, no response.",Mobile App
+2024-07-31,CUST1258,"Frank Wilson",699.11,Beauty,South,13,172,7525.22,"Decent product, could be better packaged.",Online
+2023-06-23,CUST1259,"Nancy Stewart",570.29,Electronics,South,17,81,8909.64,"Product arrived late and was missing parts.",Online
+2024-02-19,CUST1260,"Quinn Robinson",504.86,Toys,East,20,102,9067.29,"Product arrived late and was missing parts.",In-Store
+2024-05-19,CUST1261,"Victor Young",557.27,Automotive,East,15,239,6361.24,"Mediocre quality for the price paid.",Phone
+2023-11-08,CUST1262,"Karen Anderson",745.31,Automotive,East,14,56,9850.02,"Very poor customer service experience.",Mobile App
+2024-06-04,CUST1263,"Laura Edwards",552.17,Sports,South,6,185,2700.11,"Product doesn't match the description online.",In-Store
+2023-01-22,CUST1264,"Hannah Phillips",703.95,Electronics,Central,18,176,10440.99,"Total disappointment, requesting a refund now.",In-Store
+2023-01-19,CUST1265,"Fiona Roberts",729.22,Home & Garden,East,10,40,7000.51,"Complete waste of money, avoid this.",In-Store
+2024-12-05,CUST1266,"George Turner",797.16,Food & Beverage,North,6,279,3448.51,"Fantastic experience from start to finish!",Email
+2024-04-02,CUST1267,"Tina Hall",542.06,Clothing,South,19,74,9537.00,"Very poor customer service experience.",Email
+2023-10-20,CUST1268,"Grace Lee",807.06,Health,West,12,262,7147.32,"It does the job but nothing exceptional.",Email
+2023-07-28,CUST1269,"Rachel Lewis",674.10,Food & Beverage,North,15,149,8604.89,"Product broke after one week, very disappointed.",Online
+2023-09-06,CUST1270,"Samuel Walker",659.40,Sports,Central,11,7,7202.63,"Disappointed with the product durability.",Online
+2023-05-05,CUST1271,"Laura Edwards",597.69,Toys,North,4,270,1745.25,"Disappointed with the product durability.",Email
+2023-12-16,CUST1272,"Carol White",702.11,Clothing,North,11,356,4973.75,"Fast delivery and great quality.",Mobile App
+2023-07-05,CUST1273,"Aaron Baker",703.74,Electronics,East,15,315,7230.93,"Packaging was terrible, item was damaged.",In-Store
+2024-10-24,CUST1274,"Quinn Robinson",771.89,Toys,North,2,206,1225.76,"Worst purchase I have ever made.",Phone
+2023-01-21,CUST1275,"Nancy Stewart",722.13,Food & Beverage,Central,2,291,1023.98,"Very poor customer service experience.",Mobile App
+2024-05-10,CUST1276,"Chris Carter",591.12,Automotive,South,17,316,6873.54,"Great product, easy to use!",Online
+2023-09-08,CUST1277,"Eva Martinez",809.77,Toys,West,19,149,13093.17,"Five stars for quality and service!",In-Store
+2024-01-10,CUST1278,"Ian Campbell",554.16,Books,Central,3,48,1582.68,"Product doesn't match the description online.",Mobile App
+2024-08-29,CUST1279,"George Turner",638.90,Clothing,South,13,338,5498.37,"Never received my order, no response.",Email
+2024-07-10,CUST1280,"Carol White",604.42,Home & Garden,West,9,323,3682.73,"Works as described, nothing more nothing less.",In-Store
+2024-05-01,CUST1281,"Olivia Martin",447.65,Electronics,East,14,92,5690.53,"Never received my order, no response.",Email
+2023-09-29,CUST1282,"Eva Martinez",770.02,Health,Central,19,351,9495.12,"Product doesn't match the description online.",Phone
+2023-06-09,CUST1283,"Samuel Walker",568.59,Home & Garden,East,11,107,5585.26,"Total disappointment, requesting a refund now.",Phone
+2024-03-25,CUST1284,"Zoe Green",452.50,Sports,South,3,300,950.25,"Mediocre quality for the price paid.",In-Store
+2024-04-04,CUST1285,"Bob Smith",522.12,Health,South,12,54,5927.11,"Product arrived late and was missing parts.",Online
+2023-11-12,CUST1286,"Zoe Green",688.81,Health,South,15,156,8720.33,"Mediocre quality for the price paid.",Email
+2024-09-02,CUST1287,"Karen Anderson",743.53,Clothing,West,16,313,8172.88,"Works as described, nothing more nothing less.",Mobile App
+2024-12-08,CUST1288,"Diana Mitchell",611.07,Home & Garden,South,20,223,9496.03,"Complete waste of money, avoid this.",Email
+2023-12-07,CUST1289,"David Brown",670.54,Food & Beverage,South,16,54,10149.29,"Returned the product, wasn't as advertised.",In-Store
+2024-11-07,CUST1290,"Fiona Roberts",669.84,Automotive,Central,7,192,3788.62,"Disappointed with the product durability.",Email
+2024-01-21,CUST1291,"Grace Lee",583.16,Health,East,20,258,8654.09,"Complete waste of money, avoid this.",Phone
+2024-11-10,CUST1292,"Laura Edwards",795.46,Clothing,South,16,129,11085.53,"Disappointed with the product durability.",Mobile App
+2023-12-30,CUST1293,"Liam Thomas",707.51,Automotive,North,20,244,10697.55,"Returned the product, wasn't as advertised.",Mobile App
+2023-11-22,CUST1294,"Alice Johnson",690.03,Clothing,North,9,59,5843.86,"Shipping was slow but product quality is great.",Email
+2023-08-07,CUST1295,"Rachel Lewis",690.39,Toys,North,16,55,10438.70,"Mediocre quality for the price paid.",In-Store
+2023-05-02,CUST1296,"Grace Lee",445.25,Sports,South,9,45,3826.92,"Quality is shockingly bad for the price.",In-Store
+2023-11-04,CUST1297,"Chris Carter",650.80,Books,North,11,17,7037.10,"Very poor customer service experience.",Online
+2024-09-25,CUST1298,"Julia Parker",749.50,Electronics,South,2,154,1268.15,"Quality is shockingly bad for the price.",Phone
+2024-04-18,CUST1299,"David Brown",428.30,Sports,Central,12,298,3608.00,"Product doesn't match the description online.",In-Store
+2024-03-08,CUST1300,"James Davis",576.86,Electronics,East,20,342,7591.48,"Returned the product, wasn't as advertised.",In-Store
+2024-05-24,CUST1301,"Uma Allen",454.96,Health,North,1,22,444.95,"Very poor customer service experience.",Online
+2024-01-22,CUST1302,"Liam Thomas",552.20,Books,North,19,305,7291.80,"Product is okay but not worth the price.",Email
+2023-08-03,CUST1303,"Olivia Martin",639.72,Health,North,14,274,6502.11,"Absolutely love it, perfect product!",Email
+2024-06-05,CUST1304,"Wendy King",638.38,Automotive,East,7,263,3293.40,"Exceeded all my expectations completely!",Online
+2024-11-09,CUST1305,"Eva Martinez",760.71,Sports,West,14,207,8445.40,"Packaging was terrible, item was damaged.",Phone
+2024-11-27,CUST1306,"Grace Lee",729.95,Sports,North,17,116,10969.69,"Product arrived late and was missing parts.",Mobile App
+2024-07-14,CUST1307,"Quinn Robinson",646.27,Automotive,West,13,142,7208.50,"Superb quality and quick shipping!",In-Store
+2024-01-10,CUST1308,"Quinn Robinson",624.07,Home & Garden,Central,20,1,12468.92,"Product broke after one week, very disappointed.",Phone
+2024-08-22,CUST1309,"Fiona Roberts",670.52,Food & Beverage,North,7,6,4665.48,"Very poor customer service experience.",Email
+2024-06-16,CUST1310,"Aaron Baker",630.81,Toys,North,9,275,4116.04,"Packaging was terrible, item was damaged.",Phone
+2024-11-21,CUST1311,"Beth Nelson",757.93,Automotive,South,5,149,3224.99,"Packaging was terrible, item was damaged.",Email
+2024-06-23,CUST1312,"Tina Hall",545.57,Food & Beverage,South,20,320,7419.75,"Mediocre quality for the price paid.",Online
+2024-11-10,CUST1313,"Kevin Evans",737.76,Health,South,6,190,3585.51,"Customer service was completely unhelpful.",Mobile App
+2023-10-07,CUST1314,"Laura Edwards",740.91,Toys,Central,15,345,7279.44,"Instructions were unclear but product works well.",Email
+2024-04-24,CUST1315,"Frank Wilson",506.45,Automotive,East,3,296,1069.62,"Packaging was terrible, item was damaged.",Online
+2023-10-03,CUST1316,"Xavier Wright",636.08,Clothing,East,7,290,3161.32,"Packaging was terrible, item was damaged.",Email
+2023-01-13,CUST1317,"Carol White",663.83,Automotive,Central,11,279,5264.84,"Customer service was completely unhelpful.",Online
+2023-05-31,CUST1318,"Rachel Lewis",496.52,Toys,West,16,124,6959.22,"Customer service was completely unhelpful.",Email
+2023-04-08,CUST1319,"Victor Young",515.05,Food & Beverage,North,3,10,1529.70,"Never received my order, no response.",Email
+2023-05-29,CUST1320,"James Davis",446.93,Home & Garden,Central,15,50,6368.75,"Product arrived late and was missing parts.",In-Store
+2023-08-02,CUST1321,"Eva Martinez",748.39,Clothing,North,20,169,12438.24,"Disappointed with the product durability.",Online
+2024-08-09,CUST1322,"Zoe Green",748.47,Sports,Central,7,236,4002.82,"Complete waste of money, avoid this.",Online
+2023-06-11,CUST1323,"Tina Hall",481.67,Toys,South,4,158,1622.26,"Five stars for quality and service!",Online
+2023-05-13,CUST1324,"Wendy King",542.38,Sports,North,2,305,753.91,"Confusing setup process but works once done.",In-Store
+2024-01-25,CUST1325,"Liam Thomas",620.07,Home & Garden,North,20,17,12190.58,"Disappointed with the product durability.",Phone
+2024-12-05,CUST1326,"Iris Chen",619.42,Beauty,West,16,106,8860.18,"Wonderful experience, very satisfied!",Mobile App
+2023-09-17,CUST1327,"Iris Chen",805.51,Clothing,Central,18,32,14035.21,"Instructions were unclear but product works well.",Phone
+2024-04-08,CUST1328,"Grace Lee",508.53,Food & Beverage,North,16,103,7298.42,"Product is okay but not worth the price.",Email
+2024-11-14,CUST1329,"Ethan Perez",630.50,Health,Central,16,301,7051.51,"Product arrived late and was missing parts.",Mobile App
+2024-01-27,CUST1330,"Hannah Phillips",542.89,Automotive,Central,13,208,5589.60,"Wonderful experience, very satisfied!",Online
+2023-11-05,CUST1331,"Frank Wilson",706.20,Clothing,Central,19,114,11888.17,"Worst purchase I have ever made.",Mobile App
+2024-05-01,CUST1332,"Ethan Perez",448.51,Clothing,North,10,103,4023.13,"Product arrived late and was missing parts.",In-Store
+2024-01-17,CUST1333,"Diana Mitchell",653.12,Health,Central,1,337,433.02,"Instructions were unclear but product works well.",Online
+2024-07-15,CUST1334,"James Davis",538.75,Books,Central,7,134,3265.90,"Shipping was slow but product quality is great.",Online
+2023-06-25,CUST1335,"Victor Young",526.12,Toys,Central,9,348,3087.27,"Returned the product, wasn't as advertised.",Online
+2024-02-14,CUST1336,"Olivia Martin",480.85,Toys,North,10,174,3971.82,"Worst purchase I have ever made.",Email
+2024-04-01,CUST1337,"Olivia Martin",492.23,Health,West,11,6,5382.04,"Outstanding customer support team!",Email
+2024-09-16,CUST1338,"Uma Allen",658.17,Food & Beverage,North,10,249,4942.86,"Customer service was completely unhelpful.",Email
+2024-04-20,CUST1339,"Liam Thomas",440.39,Health,West,1,107,393.27,"Product broke after one week, very disappointed.",In-Store
+2023-09-25,CUST1340,"David Brown",645.81,Food & Beverage,West,19,333,8184.35,"Stopped working after just two days.",Email
+2024-09-20,CUST1341,"Zoe Green",762.07,Clothing,East,1,227,589.08,"Returned the product, wasn't as advertised.",Email
+2024-06-08,CUST1342,"Kevin Evans",612.24,Beauty,South,7,136,3702.83,"Packaging was terrible, item was damaged.",In-Store
+2023-09-16,CUST1343,"Rachel Lewis",745.73,Books,West,4,234,2284.92,"Product doesn't match the description online.",Mobile App
+2023-02-13,CUST1344,"Grace Lee",488.69,Home & Garden,Central,9,117,3883.62,"Never received my order, no response.",Phone
+2024-08-24,CUST1345,"James Davis",603.85,Food & Beverage,West,12,309,5007.12,"Packaging was terrible, item was damaged.",Online
+2024-03-03,CUST1346,"Bob Smith",472.02,Beauty,East,7,304,2299.68,"Product arrived late and was missing parts.",Mobile App
+2024-04-03,CUST1347,"Aaron Baker",500.46,Food & Beverage,Central,11,24,5372.94,"Product broke after one week, very disappointed.",In-Store
+2023-12-17,CUST1348,"Beth Nelson",685.99,Health,Central,3,297,1446.75,"Very poor customer service experience.",Email
+2023-08-23,CUST1349,"Karen Anderson",590.77,Electronics,East,16,292,6692.24,"Total disappointment, requesting a refund now.",Email
+2024-09-17,CUST1350,"Eva Martinez",676.12,Food & Beverage,North,18,142,10442.00,"Customer service was completely unhelpful.",Email
+2023-01-15,CUST1351,"Ian Campbell",594.92,Books,Central,5,304,2070.32,"Product doesn't match the description online.",Phone
+2023-12-21,CUST1352,"Kevin Evans",606.18,Automotive,West,4,140,2085.26,"Never received my order, no response.",Email
+2023-10-04,CUST1353,"Ethan Perez",658.25,Health,West,8,253,3933.70,"Mediocre quality for the price paid.",Email
+2024-06-11,CUST1354,"Fiona Roberts",481.79,Books,West,13,201,5004.35,"Worst purchase I have ever made.",Mobile App
+2024-03-31,CUST1355,"Bob Smith",484.14,Electronics,North,8,324,2618.23,"Quality is shockingly bad for the price.",Online
+2023-01-06,CUST1356,"Grace Lee",596.75,Sports,North,19,280,8163.54,"Returned the product, wasn't as advertised.",Phone
+2023-09-09,CUST1357,"Iris Chen",747.55,Clothing,West,15,81,10304.98,"Worst purchase I have ever made.",Mobile App
+2024-01-24,CUST1358,"Fiona Roberts",577.90,Health,South,16,210,7304.66,"Returned the product, wasn't as advertised.",Phone
+2024-11-28,CUST1359,"Victor Young",605.93,Clothing,South,10,329,4065.79,"Very poor customer service experience.",Phone
+2023-05-28,CUST1360,"Aaron Baker",458.93,Books,Central,11,338,3341.93,"Customer service was completely unhelpful.",Online
+2023-11-21,CUST1361,"Henry Taylor",703.83,Electronics,West,5,98,3174.27,"Packaging was terrible, item was damaged.",Email
+2023-07-25,CUST1362,"Henry Taylor",578.39,Beauty,West,17,58,9262.34,"Confusing setup process but works once done.",Phone
+2024-11-12,CUST1363,"Fiona Roberts",702.88,Electronics,East,7,196,3955.81,"Works as described, nothing more nothing less.",Online
+2023-01-13,CUST1364,"Olivia Martin",631.19,Toys,Central,17,249,8058.40,"Disappointed with the product durability.",Phone
+2023-07-02,CUST1365,"Frank Wilson",504.52,Sports,East,15,4,7537.53,"Disappointed with the product durability.",In-Store
+2024-01-17,CUST1366,"Olivia Martin",520.56,Food & Beverage,East,17,339,5849.53,"Stopped working after just two days.",Online
+2024-02-12,CUST1367,"Peter Garcia",513.21,Books,Central,15,193,6212.41,"Disappointed with the product durability.",Phone
+2023-03-02,CUST1368,"Julia Parker",419.22,Home & Garden,North,16,21,6566.66,"Packaging was terrible, item was damaged.",Phone
+2023-12-09,CUST1369,"David Brown",588.84,Sports,North,18,159,8913.86,"Product broke after one week, very disappointed.",Mobile App
+2024-05-30,CUST1370,"Yara Scott",464.81,Automotive,North,14,142,5583.30,"Exceeded all my expectations completely!",Online
+2023-02-16,CUST1371,"Aaron Baker",559.60,Home & Garden,West,1,203,446.00,"Disappointed with the product durability.",Phone
+2023-06-12,CUST1372,"Alice Johnson",570.54,Food & Beverage,West,14,268,5846.89,"Returned the product, wasn't as advertised.",In-Store
+2023-04-06,CUST1373,"Nancy Stewart",517.28,Automotive,East,14,361,4627.59,"Total disappointment, requesting a refund now.",Email
+2024-10-21,CUST1374,"Victor Young",706.28,Food & Beverage,East,6,5,4216.49,"Packaging was terrible, item was damaged.",Mobile App
+2023-07-15,CUST1375,"Fiona Roberts",531.82,Home & Garden,South,1,196,427.58,"Works as described, nothing more nothing less.",Mobile App
+2024-02-12,CUST1376,"Olivia Martin",556.48,Automotive,Central,11,37,5894.79,"Mediocre quality for the price paid.",Phone
+2024-02-03,CUST1377,"David Brown",574.72,Food & Beverage,North,3,87,1574.16,"Disappointed with the product durability.",Phone
+2024-10-28,CUST1378,"Mike Collins",669.96,Sports,East,17,104,10204.83,"Fantastic experience from start to finish!",Mobile App
+2023-01-29,CUST1379,"David Brown",502.93,Beauty,East,18,274,6572.29,"Returned the product, wasn't as advertised.",Email
+2023-03-09,CUST1380,"Hannah Phillips",520.94,Automotive,West,17,185,7217.62,"Best purchase I've made this year!",Email
+2024-07-31,CUST1381,"David Brown",528.01,Books,North,2,269,771.95,"Mediocre quality for the price paid.",Phone
+2023-02-17,CUST1382,"George Turner",554.40,Electronics,South,9,119,4395.84,"Product doesn't match the description online.",Email
+2024-06-29,CUST1383,"Mike Collins",545.46,Automotive,East,4,49,2074.93,"Product arrived late and was missing parts.",Online
+2023-06-19,CUST1384,"Grace Lee",523.20,Electronics,East,4,341,1379.16,"Product doesn't match the description online.",Email
+2023-02-05,CUST1385,"Kevin Evans",476.33,Food & Beverage,West,7,191,2697.46,"Very poor customer service experience.",Online
+2024-07-18,CUST1386,"Iris Chen",508.33,Clothing,East,10,24,4961.30,"Packaging was terrible, item was damaged.",Online
+2024-09-05,CUST1387,"Tina Hall",614.30,Electronics,West,12,251,5521.33,"Quality is shockingly bad for the price.",Phone
+2024-07-27,CUST1388,"Karen Anderson",486.09,Electronics,South,2,231,747.61,"Mediocre quality for the price paid.",Online
+2024-03-21,CUST1389,"Zoe Green",538.85,Beauty,Central,17,90,8336.01,"Packaging was terrible, item was damaged.",Online
+2023-07-23,CUST1390,"Mia Jackson",485.90,Beauty,West,12,178,4792.92,"Decent product, could be better packaged.",Mobile App
+2024-08-25,CUST1391,"Mike Collins",603.43,Sports,South,14,269,6175.50,"Very poor customer service experience.",Mobile App
+2023-09-05,CUST1392,"Rachel Lewis",619.38,Electronics,West,6,92,3374.38,"Confusing setup process but works once done.",Mobile App
+2024-12-02,CUST1393,"Rachel Lewis",713.75,Health,North,6,338,2835.01,"Top notch quality and fast delivery!",Phone
+2024-08-12,CUST1394,"Rachel Lewis",567.20,Electronics,East,11,231,4797.94,"Disappointed with the product durability.",Phone
+2023-01-12,CUST1395,"James Davis",533.65,Food & Beverage,Central,14,171,6193.54,"Works as described, nothing more nothing less.",Email
+2023-05-13,CUST1396,"Eva Martinez",476.56,Clothing,North,10,362,3040.45,"Stopped working after just two days.",In-Store
+2024-08-15,CUST1397,"Alice Johnson",581.16,Health,South,10,151,4934.05,"Confusing setup process but works once done.",Email
+2024-09-07,CUST1398,"Mike Collins",668.56,Home & Garden,Central,8,154,4524.81,"Great product, easy to use!",Phone
+2024-03-13,CUST1399,"Frank Wilson",487.34,Books,East,17,343,5443.10,"Quality is shockingly bad for the price.",Online
+2023-02-22,CUST1400,"Noah Harris",552.32,Automotive,Central,13,119,6325.72,"Product arrived late and was missing parts.",Mobile App
+2023-04-26,CUST1401,"Chris Carter",514.92,Home & Garden,East,12,351,4010.20,"Quality is shockingly bad for the price.",Online
+2023-01-27,CUST1402,"Xavier Wright",500.38,Automotive,South,20,211,7896.00,"Mediocre quality for the price paid.",Phone
+2024-07-18,CUST1403,"Yara Scott",511.94,Books,North,3,43,1469.78,"Top notch quality and fast delivery!",Mobile App
+2023-06-05,CUST1404,"Frank Wilson",434.15,Beauty,Central,10,351,2817.63,"Fantastic experience from start to finish!",Email
+2024-10-20,CUST1405,"David Brown",752.60,Food & Beverage,West,8,131,5232.08,"Total disappointment, requesting a refund now.",Online
+2024-10-07,CUST1406,"Chris Carter",645.79,Automotive,East,16,113,9165.05,"Average product, nothing special about it.",Email
+2023-12-14,CUST1407,"Frank Wilson",578.04,Automotive,West,6,158,2920.26,"Product broke after one week, very disappointed.",In-Store
+2023-07-05,CUST1408,"Karen Anderson",505.54,Food & Beverage,East,4,47,1927.12,"Will definitely order again soon!",Email
+2024-05-30,CUST1409,"Diana Mitchell",477.08,Books,East,6,15,2819.54,"Product doesn't match the description online.",Mobile App
+2024-05-25,CUST1410,"George Turner",470.88,Food & Beverage,North,10,138,4058.99,"Mediocre quality for the price paid.",Mobile App
+2024-02-02,CUST1411,"Noah Harris",456.03,Clothing,Central,9,342,2700.61,"Customer service was completely unhelpful.",Phone
+2024-12-06,CUST1412,"Nancy Stewart",649.00,Sports,North,11,266,5240.03,"Product arrived late and was missing parts.",Mobile App
+2023-03-19,CUST1413,"Mia Jackson",392.41,Sports,South,4,60,1475.46,"Product doesn't match the description online.",Mobile App
+2024-12-11,CUST1414,"Karen Anderson",547.29,Clothing,North,14,172,6344.19,"Worst purchase I have ever made.",Email
+2024-11-23,CUST1415,"Zoe Green",714.66,Home & Garden,North,1,180,586.02,"Never received my order, no response.",Email
+2024-05-29,CUST1416,"Liam Thomas",397.44,Food & Beverage,East,9,150,3040.42,"Worst purchase I have ever made.",In-Store
+2024-10-16,CUST1417,"Yara Scott",610.69,Books,East,8,264,3595.74,"Quality is shockingly bad for the price.",Phone
+2024-11-30,CUST1418,"Julia Parker",664.43,Health,East,13,63,8093.42,"Packaging was terrible, item was damaged.",Mobile App
+2024-05-03,CUST1419,"Peter Garcia",410.58,Books,North,10,301,2869.95,"Quality is shockingly bad for the price.",In-Store
+2024-05-01,CUST1420,"Alice Johnson",499.73,Sports,South,13,87,5931.30,"Fast delivery and great quality.",Mobile App
+2023-08-10,CUST1421,"George Turner",532.62,Automotive,East,7,331,2494.26,"Disappointed with the product durability.",Mobile App
+2024-08-07,CUST1422,"Olivia Martin",521.05,Home & Garden,North,9,57,4422.15,"Average product, nothing special about it.",Online
+2024-01-09,CUST1423,"Henry Taylor",611.24,Books,East,7,122,3756.68,"Product broke after one week, very disappointed.",In-Store
+2023-06-12,CUST1424,"Nancy Stewart",520.92,Health,Central,5,242,1974.29,"Product arrived late and was missing parts.",Phone
+2024-08-11,CUST1425,"Liam Thomas",569.67,Automotive,South,17,279,6982.45,"Highly recommend to everyone!",Email
+2023-12-20,CUST1426,"Wendy King",619.71,Health,West,11,3,6796.36,"Worst purchase I have ever made.",Online
+2024-08-05,CUST1427,"Samuel Walker",594.57,Clothing,North,4,258,1764.68,"Product is okay but not worth the price.",In-Store
+2024-09-24,CUST1428,"Yara Scott",674.65,Sports,South,19,152,10869.96,"Five stars for quality and service!",Online
+2023-07-03,CUST1429,"Peter Garcia",502.47,Books,South,10,123,4406.66,"Complete waste of money, avoid this.",Phone
+2024-07-20,CUST1430,"Alice Johnson",601.71,Health,Central,20,87,10987.22,"Packaging was terrible, item was damaged.",Email
+2023-05-11,CUST1431,"Beth Nelson",424.88,Electronics,West,6,126,2228.07,"Mediocre quality for the price paid.",Email
+2024-06-11,CUST1432,"James Davis",523.04,Electronics,West,12,69,5843.40,"Product doesn't match the description online.",Mobile App
+2023-06-02,CUST1433,"Bob Smith",490.04,Food & Beverage,South,19,42,8919.71,"Stopped working after just two days.",Phone
+2024-10-21,CUST1434,"Wendy King",636.87,Books,South,4,246,1920.80,"Shipping was slow but product quality is great.",In-Store
+2023-04-30,CUST1435,"Yara Scott",451.27,Automotive,Central,14,365,4011.79,"It does the job but nothing exceptional.",Phone
+2023-11-02,CUST1436,"Beth Nelson",574.87,Sports,North,1,269,420.23,"Mediocre quality for the price paid.",Online
+2024-06-30,CUST1437,"Beth Nelson",531.58,Electronics,West,8,167,3542.45,"Total disappointment, requesting a refund now.",Phone
+2023-06-13,CUST1438,"Diana Mitchell",516.98,Home & Garden,West,19,80,9036.81,"Superb quality and quick shipping!",Online
+2024-09-10,CUST1439,"Karen Anderson",593.78,Clothing,West,15,211,7027.39,"Stopped working after just two days.",Mobile App
+2023-03-08,CUST1440,"Samuel Walker",497.69,Sports,South,4,267,1459.23,"Mediocre quality for the price paid.",Email
+2023-09-06,CUST1441,"Henry Taylor",580.24,Toys,South,19,237,8411.74,"Product broke after one week, very disappointed.",In-Store
+2024-11-19,CUST1442,"Diana Mitchell",714.64,Food & Beverage,East,15,349,6978.46,"Decent product, could be better packaged.",Email
+2023-12-09,CUST1443,"Yara Scott",519.32,Automotive,Central,14,197,5838.20,"Top notch quality and fast delivery!",Online
+2024-04-28,CUST1444,"Karen Anderson",487.26,Home & Garden,West,13,304,4408.73,"Product arrived late and was missing parts.",Online
+2023-06-30,CUST1445,"Hannah Phillips",538.62,Home & Garden,West,13,116,6189.82,"Decent product, could be better packaged.",Email
+2023-07-15,CUST1446,"Mia Jackson",539.73,Health,North,9,81,4464.11,"Total disappointment, requesting a refund now.",In-Store
+2023-08-05,CUST1447,"Wendy King",506.32,Food & Beverage,North,4,264,1490.61,"Quality is shockingly bad for the price.",Phone
+2023-11-09,CUST1448,"Mia Jackson",681.24,Beauty,Central,3,116,1806.65,"Product doesn't match the description online.",Online
+2023-11-15,CUST1449,"Chris Carter",617.54,Toys,East,14,280,6224.80,"Product arrived late and was missing parts.",Email
+2024-03-16,CUST1450,"Zoe Green",481.44,Toys,North,5,36,2320.54,"Highly recommend to everyone!",Phone
+2023-05-27,CUST1451,"Uma Allen",32.84,Books,West,1,219,25.65,"Product broke after one week, very disappointed.",In-Store
+2023-10-18,CUST1452,"Bob Smith",55.08,Toys,North,8,154,372.78,"Disappointed with the product durability.",Phone
+2024-11-20,CUST1453,"Victor Young",44.77,Health,Central,18,65,753.48,"Very poor customer service experience.",Mobile App
+2024-06-24,CUST1454,"Xavier Wright",34.36,Books,South,15,128,449.43,"Customer service was completely unhelpful.",Mobile App
+2023-03-18,CUST1455,"Fiona Roberts",32.24,Books,West,11,193,286.19,"Product arrived late and was missing parts.",Mobile App
+2024-03-15,CUST1456,"Quinn Robinson",37.55,Toys,Central,13,174,403.21,"Returned the product, wasn't as advertised.",Online
+2024-06-10,CUST1457,"David Brown",34.68,Home & Garden,North,14,160,407.84,"Product arrived late and was missing parts.",Mobile App
+2024-04-10,CUST1458,"Eva Martinez",33.93,Home & Garden,Central,19,202,514.45,"Product doesn't match the description online.",Email
+2023-10-13,CUST1459,"Victor Young",56.40,Books,West,1,68,52.56,"Worst purchase I have ever made.",In-Store
+2024-09-12,CUST1460,"Diana Mitchell",51.22,Home & Garden,West,1,305,35.60,"Stopped working after just two days.",Mobile App
+2023-02-14,CUST1461,"Beth Nelson",41.82,Beauty,West,3,70,116.68,"Five stars for quality and service!",Mobile App
+2024-07-22,CUST1462,"Kevin Evans",527.91,Sports,Central,16,362,5388.91,"Returned the product, wasn't as advertised.",Phone
+2024-07-21,CUST1463,"Eva Martinez",582.10,Food & Beverage,South,2,220,908.08,"Quality is shockingly bad for the price.",Phone
+2023-10-29,CUST1464,"Beth Nelson",562.84,Electronics,East,19,275,7753.12,"Outstanding customer support team!",Mobile App
+2023-04-23,CUST1465,"Ethan Perez",399.44,Automotive,East,1,102,358.70,"Disappointed with the product durability.",Email
+2024-11-02,CUST1466,"Ethan Perez",585.20,Home & Garden,West,3,162,1471.19,"Total disappointment, requesting a refund now.",Mobile App
+2024-02-10,CUST1467,"Nancy Stewart",509.31,Toys,East,15,218,5974.21,"Worst purchase I have ever made.",Mobile App
+2024-07-28,CUST1468,"Aaron Baker",457.16,Books,North,18,172,6813.51,"Quality is shockingly bad for the price.",Online
+2023-09-19,CUST1469,"Wendy King",656.49,Health,South,10,263,4838.33,"Product arrived late and was missing parts.",Online
+2023-12-10,CUST1470,"Uma Allen",584.03,Health,East,19,2,11074.38,"Total disappointment, requesting a refund now.",Mobile App
+2024-12-15,CUST1471,"Mia Jackson",565.91,Health,South,13,98,6635.86,"Product doesn't match the description online.",Phone
+2023-03-08,CUST1472,"Xavier Wright",411.43,Food & Beverage,North,16,346,4305.20,"Fantastic experience from start to finish!",Online
+2023-06-09,CUST1473,"Carol White",496.60,Health,East,17,79,7775.27,"Complete waste of money, avoid this.",Email
+2023-04-19,CUST1474,"Iris Chen",373.43,Home & Garden,North,20,154,6318.44,"Worst purchase I have ever made.",Online
+2023-09-29,CUST1475,"Yara Scott",588.17,Food & Beverage,South,18,113,9390.72,"Works as described, nothing more nothing less.",Phone
+2024-11-03,CUST1476,"Samuel Walker",554.50,Home & Garden,South,6,154,2814.64,"Disappointed with the product durability.",Phone
+2024-07-12,CUST1477,"Henry Taylor",560.04,Electronics,West,19,197,8544.53,"Very poor customer service experience.",Mobile App
+2024-11-16,CUST1478,"Bob Smith",678.13,Automotive,West,12,319,5541.68,"Disappointed with the product durability.",Email
+2024-04-28,CUST1479,"Liam Thomas",384.97,Beauty,South,7,213,2120.80,"Product broke after one week, very disappointed.",In-Store
+2023-08-14,CUST1480,"Nancy Stewart",530.44,Home & Garden,North,9,81,4387.27,"Confusing setup process but works once done.",Mobile App
+2024-05-14,CUST1481,"Iris Chen",457.97,Sports,West,11,19,4941.95,"Stopped working after just two days.",In-Store
+2024-01-31,CUST1482,"Tina Hall",475.21,Health,North,20,42,9105.02,"Packaging was terrible, item was damaged.",Email
+2023-01-09,CUST1483,"Ethan Perez",495.25,Clothing,Central,9,342,2932.87,"Quality is shockingly bad for the price.",Email
+2023-09-14,CUST1484,"Iris Chen",576.19,Automotive,West,9,73,4807.15,"Product arrived late and was missing parts.",Mobile App
+2023-09-12,CUST1485,"Iris Chen",512.76,Electronics,North,17,228,6729.46,"Absolutely love it, perfect product!",Email
+2024-05-23,CUST1486,"Kevin Evans",417.05,Sports,Central,12,94,4534.17,"Mediocre quality for the price paid.",Mobile App
+2023-07-06,CUST1487,"Rachel Lewis",542.79,Food & Beverage,West,14,276,5501.72,"Product broke after one week, very disappointed.",Mobile App
+2023-03-04,CUST1488,"Alice Johnson",370.30,Automotive,South,10,250,2777.25,"Product broke after one week, very disappointed.",Online
+2023-12-15,CUST1489,"David Brown",641.05,Food & Beverage,South,1,296,451.30,"Complete waste of money, avoid this.",Phone
+2024-09-12,CUST1490,"Bob Smith",528.96,Books,West,14,68,6901.87,"Product arrived late and was missing parts.",In-Store
+2023-02-15,CUST1491,"Victor Young",436.07,Books,East,2,310,601.78,"Very poor customer service experience.",Online
+2024-09-28,CUST1492,"Laura Edwards",617.47,Health,North,7,186,3518.34,"Worst purchase I have ever made.",Phone
+2023-11-17,CUST1493,"Samuel Walker",604.38,Food & Beverage,North,7,333,2821.85,"It does the job but nothing exceptional.",Email
+2023-11-08,CUST1494,"Xavier Wright",604.38,Health,Central,14,172,7005.97,"Works as described, nothing more nothing less.",Phone
+2023-02-12,CUST1495,"Xavier Wright",516.21,Automotive,West,10,29,5012.40,"Mediocre quality for the price paid.",In-Store
+2024-06-04,CUST1496,"Chris Carter",484.46,Electronics,South,17,37,7931.09,"Disappointed with the product durability.",Email
+2023-05-13,CUST1497,"Carol White",411.25,Health,North,17,298,4907.86,"Quality is shockingly bad for the price.",Online
+2023-11-26,CUST1498,"Ian Campbell",537.22,Clothing,Central,5,224,2084.41,"Complete waste of money, avoid this.",Mobile App
+2024-09-22,CUST1499,"Quinn Robinson",628.79,Automotive,West,5,1,3140.81,"Customer service was completely unhelpful.",Email
+2024-07-01,CUST1500,"Tina Hall",449.82,Clothing,Central,10,131,3908.94,"Amazing value for money, will buy again!",Mobile App
+2024-09-20,CUST1501,"Alice Johnson",615.62,Automotive,Central,5,60,2893.41,"Packaging was terrible, item was damaged.",In-Store
+2023-09-20,CUST1502,"Victor Young",618.55,Books,South,13,41,7711.46,"Product arrived late and was missing parts.",Mobile App
+2023-01-23,CUST1503,"Zoe Green",554.65,Toys,West,13,145,6164.93,"Decent product, could be better packaged.",In-Store
+2024-11-02,CUST1504,"Uma Allen",602.87,Sports,East,7,130,3671.48,"Very poor customer service experience.",Mobile App
+2023-03-29,CUST1505,"Henry Taylor",360.87,Books,East,2,312,496.56,"Top notch quality and fast delivery!",Email
+2024-06-17,CUST1506,"Aaron Baker",393.22,Toys,North,14,140,4734.37,"Packaging was terrible, item was damaged.",In-Store
+2024-12-12,CUST1507,"Karen Anderson",584.22,Beauty,East,4,195,1881.19,"Absolutely love it, perfect product!",Online
+2024-05-10,CUST1508,"Olivia Martin",412.77,Clothing,West,12,209,3918.01,"Quality is shockingly bad for the price.",Mobile App
+2023-01-18,CUST1509,"Quinn Robinson",459.47,Food & Beverage,West,19,269,6381.58,"Packaging was terrible, item was damaged.",Phone
+2023-01-13,CUST1510,"Liam Thomas",464.88,Clothing,South,19,65,8258.59,"Returned the product, wasn't as advertised.",Email
+2024-02-05,CUST1511,"Bob Smith",429.18,Electronics,East,9,170,3205.97,"Product arrived late and was missing parts.",Mobile App
+2024-12-14,CUST1512,"Ian Campbell",584.87,Food & Beverage,Central,16,23,9142.69,"Product broke after one week, very disappointed.",Mobile App
+2024-02-01,CUST1513,"Ethan Perez",476.37,Clothing,South,12,251,4281.61,"Product arrived late and was missing parts.",Online
+2023-10-18,CUST1514,"Henry Taylor",575.95,Health,Central,4,223,1790.05,"Product arrived late and was missing parts.",Online
+2023-10-31,CUST1515,"Beth Nelson",613.14,Health,North,9,130,4800.89,"Exceeded all my expectations completely!",Phone
+2024-06-24,CUST1516,"Wendy King",420.22,Home & Garden,North,18,122,6641.16,"Packaging was terrible, item was damaged.",Email
+2024-06-14,CUST1517,"Nancy Stewart",378.71,Sports,South,9,164,2849.41,"Stopped working after just two days.",Online
+2024-01-25,CUST1518,"Yara Scott",510.33,Health,Central,12,245,4623.59,"Decent product, could be better packaged.",Phone
+2024-12-19,CUST1519,"Kevin Evans",478.30,Health,Central,7,148,2852.58,"Customer service was completely unhelpful.",In-Store
+2023-09-19,CUST1520,"Peter Garcia",488.35,Beauty,Central,2,9,967.91,"Product arrived late and was missing parts.",In-Store
+2024-02-11,CUST1521,"Zoe Green",376.27,Food & Beverage,North,10,334,2505.96,"Disappointed with the product durability.",In-Store
+2024-08-23,CUST1522,"David Brown",529.98,Health,East,16,144,7258.61,"Average product, nothing special about it.",Email
+2023-06-13,CUST1523,"Peter Garcia",425.03,Beauty,North,5,233,1629.99,"Stopped working after just two days.",Email
+2023-10-11,CUST1524,"Laura Edwards",550.54,Automotive,North,10,350,3578.51,"Stopped working after just two days.",Phone
+2023-04-28,CUST1525,"Nancy Stewart",376.79,Books,South,16,62,5654.86,"Will definitely order again soon!",Mobile App
+2023-01-01,CUST1526,"Kevin Evans",480.20,Home & Garden,East,16,111,6830.36,"Quality is shockingly bad for the price.",Phone
+2023-02-27,CUST1527,"Bob Smith",384.36,Food & Beverage,East,19,247,5499.04,"Exceeded all my expectations completely!",Mobile App
+2023-12-15,CUST1528,"Julia Parker",592.71,Clothing,North,14,274,6024.30,"Never received my order, no response.",Online
+2023-01-29,CUST1529,"Hannah Phillips",538.61,Sports,Central,16,259,6385.76,"Customer service was completely unhelpful.",Mobile App
+2023-03-04,CUST1530,"Karen Anderson",381.51,Books,North,2,30,740.13,"Product broke after one week, very disappointed.",Phone
+2024-04-29,CUST1531,"George Turner",332.90,Food & Beverage,East,7,1,2327.97,"Returned the product, wasn't as advertised.",Online
+2023-11-23,CUST1532,"Samuel Walker",614.34,Home & Garden,North,3,238,1404.38,"Confusing setup process but works once done.",Mobile App
+2023-03-09,CUST1533,"Wendy King",356.01,Toys,Central,14,147,4251.47,"It does the job but nothing exceptional.",Email
+2023-04-01,CUST1534,"Frank Wilson",344.80,Toys,South,12,276,2995.62,"Packaging was terrible, item was damaged.",In-Store
+2023-12-28,CUST1535,"Diana Mitchell",514.89,Food & Beverage,Central,2,234,788.81,"Very poor customer service experience.",In-Store
+2023-07-13,CUST1536,"Alice Johnson",431.08,Clothing,West,12,146,4417.71,"Stopped working after just two days.",Email
+2023-03-10,CUST1537,"Liam Thomas",351.05,Automotive,West,4,135,1214.63,"Packaging was terrible, item was damaged.",Email
+2023-07-28,CUST1538,"Grace Lee",438.26,Toys,West,15,344,4312.48,"Total disappointment, requesting a refund now.",In-Store
+2023-02-06,CUST1539,"George Turner",375.68,Automotive,Central,8,34,2903.26,"Amazing value for money, will buy again!",In-Store
+2024-07-25,CUST1540,"Hannah Phillips",458.71,Automotive,North,3,243,1041.73,"Average product, nothing special about it.",Mobile App
+2024-12-08,CUST1541,"Chris Carter",521.45,Food & Beverage,South,19,215,7777.43,"Returned the product, wasn't as advertised.",Email
+2024-04-07,CUST1542,"Ian Campbell",365.75,Clothing,West,18,153,5576.22,"Returned the product, wasn't as advertised.",In-Store
+2024-04-13,CUST1543,"David Brown",401.59,Health,East,12,104,4317.90,"Quality is shockingly bad for the price.",Mobile App
+2023-02-12,CUST1544,"Xavier Wright",368.40,Electronics,South,1,98,332.30,"Customer service was completely unhelpful.",Phone
+2024-04-26,CUST1545,"Ethan Perez",400.93,Automotive,East,9,47,3438.78,"Packaging was terrible, item was damaged.",Mobile App
+2023-04-10,CUST1546,"Xavier Wright",366.85,Toys,Central,5,270,1339.00,"Worst purchase I have ever made.",Mobile App
+2023-09-10,CUST1547,"Wendy King",604.47,Electronics,North,15,342,5966.12,"Returned the product, wasn't as advertised.",Email
+2024-03-21,CUST1548,"Noah Harris",441.44,Clothing,West,20,326,5950.61,"It does the job but nothing exceptional.",In-Store
+2024-03-02,CUST1549,"Nancy Stewart",416.48,Books,West,18,22,7331.71,"Total disappointment, requesting a refund now.",Mobile App
+2024-12-12,CUST1550,"Mia Jackson",448.61,Toys,West,20,295,6325.40,"Total disappointment, requesting a refund now.",Mobile App
+2024-04-17,CUST1551,"Grace Lee",360.53,Sports,South,2,153,610.74,"Total disappointment, requesting a refund now.",In-Store
+2023-04-20,CUST1552,"James Davis",363.50,Toys,Central,17,77,5703.68,"Confusing setup process but works once done.",Mobile App
+2024-10-25,CUST1553,"Karen Anderson",621.24,Automotive,East,16,307,6888.31,"Stopped working after just two days.",Mobile App
+2024-01-14,CUST1554,"Mike Collins",473.87,Automotive,South,15,335,4726.85,"Packaging was terrible, item was damaged.",Mobile App
+2024-08-08,CUST1555,"Quinn Robinson",470.76,Clothing,East,5,222,1831.26,"Product arrived late and was missing parts.",Mobile App
+2023-08-26,CUST1556,"Tina Hall",584.86,Toys,East,3,365,1114.16,"Very poor customer service experience.",Online
+2023-07-28,CUST1557,"Diana Mitchell",533.53,Clothing,East,1,186,434.29,"Worst purchase I have ever made.",In-Store
+2024-04-17,CUST1558,"Noah Harris",423.52,Books,East,5,87,1933.37,"Packaging was terrible, item was damaged.",Email
+2023-07-27,CUST1559,"David Brown",483.06,Electronics,West,9,228,3356.30,"Customer service was completely unhelpful.",Mobile App
+2023-03-05,CUST1560,"Fiona Roberts",421.45,Food & Beverage,South,19,189,6494.12,"Average product, nothing special about it.",Online
+2024-11-24,CUST1561,"Bob Smith",606.89,Sports,North,6,9,3608.57,"Shipping was slow but product quality is great.",Email
+2023-10-05,CUST1562,"Laura Edwards",473.84,Beauty,South,12,143,4872.97,"Mediocre quality for the price paid.",In-Store
+2023-04-29,CUST1563,"Iris Chen",387.56,Clothing,East,14,200,4340.67,"Instructions were unclear but product works well.",In-Store
+2023-09-11,CUST1564,"Wendy King",574.05,Toys,Central,1,106,513.20,"Never received my order, no response.",In-Store
+2023-12-01,CUST1565,"David Brown",486.80,Books,South,18,239,6668.19,"Superb quality and quick shipping!",In-Store
+2023-09-16,CUST1566,"Laura Edwards",555.64,Toys,Central,7,56,3671.67,"Packaging was terrible, item was damaged.",Mobile App
+2024-03-13,CUST1567,"Zoe Green",333.96,Clothing,South,13,263,3199.67,"Packaging was terrible, item was damaged.",Mobile App
+2023-06-14,CUST1568,"Tina Hall",392.28,Clothing,East,4,140,1349.44,"Product doesn't match the description online.",Phone
+2023-09-16,CUST1569,"Beth Nelson",504.70,Electronics,North,1,147,430.51,"Very poor customer service experience.",In-Store
+2023-09-19,CUST1570,"Ethan Perez",615.71,Books,Central,8,145,4211.46,"Never received my order, no response.",Mobile App
+2024-04-10,CUST1571,"Grace Lee",315.54,Sports,East,10,204,2511.70,"Disappointed with the product durability.",Online
+2024-02-12,CUST1572,"Peter Garcia",456.79,Books,North,13,25,5789.81,"Product broke after one week, very disappointed.",Phone
+2023-03-17,CUST1573,"Yara Scott",389.31,Electronics,North,5,295,1372.32,"Complete waste of money, avoid this.",Online
+2023-08-20,CUST1574,"Mike Collins",527.56,Clothing,North,3,295,1115.79,"Complete waste of money, avoid this.",Mobile App
+2024-06-13,CUST1575,"Diana Mitchell",398.41,Sports,East,4,164,1332.28,"Instructions were unclear but product works well.",Phone
+2024-08-02,CUST1576,"Tina Hall",470.57,Health,North,10,247,3543.39,"Total disappointment, requesting a refund now.",Email
+2023-11-15,CUST1577,"Liam Thomas",540.51,Beauty,East,15,217,6348.29,"Works as described, nothing more nothing less.",In-Store
+2024-04-08,CUST1578,"Olivia Martin",380.71,Electronics,South,19,273,5258.75,"Never received my order, no response.",Online
+2023-03-25,CUST1579,"Xavier Wright",385.78,Toys,Central,8,25,3009.08,"Disappointed with the product durability.",Online
+2024-11-20,CUST1580,"Laura Edwards",510.08,Electronics,Central,19,249,7278.33,"Product broke after one week, very disappointed.",Phone
+2023-08-23,CUST1581,"George Turner",466.94,Home & Garden,Central,10,337,3095.81,"Returned the product, wasn't as advertised.",Phone
+2023-09-10,CUST1582,"Tina Hall",456.11,Books,Central,14,73,5919.40,"Product doesn't match the description online.",In-Store
+2024-05-14,CUST1583,"Zoe Green",382.00,Clothing,North,15,24,5592.48,"Never received my order, no response.",Online
+2024-04-12,CUST1584,"Wendy King",325.59,Beauty,North,19,224,4800.50,"Returned the product, wasn't as advertised.",Online
+2024-11-11,CUST1585,"Grace Lee",557.74,Health,West,4,127,1947.63,"Disappointed with the product durability.",Mobile App
+2023-02-11,CUST1586,"Frank Wilson",449.21,Electronics,East,7,343,2065.92,"Disappointed with the product durability.",Email
+2023-07-23,CUST1587,"Quinn Robinson",413.80,Toys,Central,2,269,604.98,"Outstanding customer support team!",Email
+2024-04-10,CUST1588,"George Turner",399.54,Food & Beverage,East,5,293,1412.37,"Average product, nothing special about it.",Mobile App
+2024-10-05,CUST1589,"Zoe Green",586.42,Health,Central,9,126,4612.78,"Complete waste of money, avoid this.",Phone
+2023-05-26,CUST1590,"Victor Young",328.80,Books,North,15,57,4650.88,"Returned the product, wasn't as advertised.",Online
+2024-07-27,CUST1591,"Mia Jackson",468.58,Food & Beverage,South,4,342,1233.30,"Product doesn't match the description online.",Phone
+2023-12-27,CUST1592,"Bob Smith",440.62,Beauty,West,3,275,958.35,"Disappointed with the product durability.",Mobile App
+2024-05-08,CUST1593,"Laura Edwards",313.27,Clothing,West,15,96,4247.94,"Product arrived late and was missing parts.",In-Store
+2023-10-05,CUST1594,"Bob Smith",584.05,Electronics,South,8,208,3700.54,"Great product, easy to use!",Mobile App
+2024-03-01,CUST1595,"Quinn Robinson",346.14,Toys,Central,12,290,2949.11,"Returned the product, wasn't as advertised.",Email
+2023-07-13,CUST1596,"Aaron Baker",504.64,Automotive,South,16,131,7016.51,"Quality is shockingly bad for the price.",Mobile App
+2024-06-18,CUST1597,"Diana Mitchell",415.56,Books,West,16,150,5651.62,"Wonderful experience, very satisfied!",Mobile App
+2023-06-03,CUST1598,"Mia Jackson",368.02,Sports,West,5,157,1551.20,"Highly recommend to everyone!",Phone
+2024-08-14,CUST1599,"Olivia Martin",484.07,Beauty,Central,12,166,4844.57,"Product arrived late and was missing parts.",Mobile App
+2024-09-02,CUST1600,"Karen Anderson",448.89,Toys,North,11,152,4187.25,"Average product, nothing special about it.",In-Store
+2023-04-19,CUST1601,"Eva Martinez",343.49,Clothing,South,10,317,2346.04,"Returned the product, wasn't as advertised.",Phone
+2024-08-22,CUST1602,"Julia Parker",428.49,Food & Beverage,West,12,51,4879.64,"Never received my order, no response.",Email
+2023-01-20,CUST1603,"Victor Young",392.59,Beauty,West,5,195,1580.17,"Disappointed with the product durability.",Phone
+2024-02-24,CUST1604,"Alice Johnson",362.45,Toys,South,7,13,2504.17,"Product arrived late and was missing parts.",Mobile App
+2023-10-03,CUST1605,"Wendy King",541.58,Toys,West,13,15,6934.93,"Packaging was terrible, item was damaged.",Phone
+2023-05-04,CUST1606,"Grace Lee",349.87,Food & Beverage,West,3,42,1005.53,"Mediocre quality for the price paid.",Mobile App
+2023-02-16,CUST1607,"Peter Garcia",442.15,Automotive,Central,11,192,3929.83,"Highly recommend to everyone!",In-Store
+2024-02-21,CUST1608,"Nancy Stewart",426.40,Automotive,South,20,158,7180.58,"Mediocre quality for the price paid.",In-Store
+2024-06-07,CUST1609,"Ethan Perez",372.20,Beauty,Central,14,356,3355.76,"Shipping was slow but product quality is great.",Phone
+2024-01-05,CUST1610,"Xavier Wright",485.78,Health,Central,14,146,5807.99,"Great product, easy to use!",Phone
+2024-07-19,CUST1611,"Alice Johnson",386.13,Food & Beverage,East,2,264,568.38,"Very poor customer service experience.",In-Store
+2024-10-24,CUST1612,"Beth Nelson",596.32,Home & Garden,South,19,186,9222.69,"Packaging was terrible, item was damaged.",Phone
+2023-08-03,CUST1613,"Uma Allen",479.51,Automotive,East,15,293,5085.20,"Wonderful experience, very satisfied!",Online
+2024-06-01,CUST1614,"George Turner",369.36,Clothing,South,4,159,1242.53,"Fast delivery and great quality.",In-Store
+2023-02-06,CUST1615,"James Davis",332.83,Food & Beverage,North,17,275,4102.13,"Worst purchase I have ever made.",In-Store
+2023-12-04,CUST1616,"Ian Campbell",541.43,Sports,East,6,345,2127.82,"Disappointed with the product durability.",In-Store
+2024-08-05,CUST1617,"Noah Harris",498.65,Home & Garden,East,9,322,3042.76,"Returned the product, wasn't as advertised.",Email
+2023-11-16,CUST1618,"Fiona Roberts",568.10,Home & Garden,West,12,284,4881.12,"Disappointed with the product durability.",Email
+2023-09-15,CUST1619,"Kevin Evans",525.77,Clothing,West,8,349,2738.21,"It does the job but nothing exceptional.",Phone
+2023-02-20,CUST1620,"Chris Carter",349.34,Health,Central,8,146,2386.69,"Confusing setup process but works once done.",Phone
+2023-12-29,CUST1621,"Ethan Perez",456.20,Food & Beverage,Central,1,301,318.88,"Stopped working after just two days.",Email
+2024-08-06,CUST1622,"Aaron Baker",435.47,Toys,Central,4,9,1726.20,"Very poor customer service experience.",Phone
+2024-03-03,CUST1623,"George Turner",384.40,Sports,South,4,95,1391.53,"Packaging was terrible, item was damaged.",Phone
+2023-08-24,CUST1624,"Kevin Evans",535.69,Books,Central,4,61,2012.05,"Very poor customer service experience.",Online
+2024-03-13,CUST1625,"Eva Martinez",341.88,Clothing,South,9,80,2830.77,"Outstanding customer support team!",In-Store
+2023-09-30,CUST1626,"Uma Allen",512.41,Food & Beverage,South,14,85,6563.97,"Mediocre quality for the price paid.",Mobile App
+2023-01-01,CUST1627,"Ian Campbell",484.74,Beauty,North,17,301,5760.17,"Quality is shockingly bad for the price.",Online
+2023-12-20,CUST1628,"Rachel Lewis",489.34,Electronics,East,12,186,4779.87,"Worst purchase I have ever made.",Phone
+2023-11-25,CUST1629,"Karen Anderson",543.15,Toys,East,3,113,1445.32,"Amazing value for money, will buy again!",Online
+2024-07-03,CUST1630,"Aaron Baker",430.66,Beauty,East,4,315,1180.01,"Wonderful experience, very satisfied!",In-Store
+2024-05-18,CUST1631,"Rachel Lewis",348.05,Clothing,Central,4,172,1152.74,"Never received my order, no response.",Email
+2024-10-06,CUST1632,"Olivia Martin",519.50,Clothing,Central,7,191,2941.93,"Very poor customer service experience.",In-Store
+2024-05-05,CUST1633,"James Davis",336.59,Food & Beverage,North,6,111,1795.37,"Fantastic experience from start to finish!",Email
+2024-11-17,CUST1634,"Xavier Wright",465.13,Clothing,Central,16,346,4867.12,"Product arrived late and was missing parts.",Email
+2023-08-19,CUST1635,"Mia Jackson",411.38,Home & Garden,South,16,5,6549.17,"Exceeded all my expectations completely!",Online
+2024-04-27,CUST1636,"Noah Harris",336.35,Automotive,West,12,322,2736.54,"Product doesn't match the description online.",Online
+2023-03-26,CUST1637,"Quinn Robinson",376.07,Health,East,20,335,5001.73,"Very poor customer service experience.",Phone
+2023-08-19,CUST1638,"Olivia Martin",436.11,Toys,West,7,126,2668.12,"Worst purchase I have ever made.",Email
+2023-11-04,CUST1639,"Xavier Wright",500.30,Food & Beverage,South,16,7,7948.77,"Product is okay but not worth the price.",In-Store
+2023-10-27,CUST1640,"Grace Lee",497.81,Food & Beverage,South,4,246,1501.39,"Shipping was slow but product quality is great.",Mobile App
+2024-01-30,CUST1641,"Tina Hall",399.57,Toys,North,20,337,5298.30,"Very poor customer service experience.",Mobile App
+2024-03-30,CUST1642,"Beth Nelson",342.64,Toys,West,4,195,1103.30,"Average product, nothing special about it.",In-Store
+2023-10-06,CUST1643,"Samuel Walker",567.80,Books,East,2,83,1041.35,"Very poor customer service experience.",In-Store
+2023-01-18,CUST1644,"Victor Young",367.69,Electronics,North,16,282,4224.02,"Total disappointment, requesting a refund now.",Email
+2023-01-21,CUST1645,"Frank Wilson",359.28,Books,North,14,256,3742.26,"Stopped working after just two days.",Online
+2023-08-14,CUST1646,"Rachel Lewis",403.53,Beauty,West,19,124,6716.35,"Stopped working after just two days.",Phone
+2024-04-02,CUST1647,"Liam Thomas",286.41,Books,East,6,79,1582.70,"Mediocre quality for the price paid.",Online
+2023-11-09,CUST1648,"Hannah Phillips",423.32,Automotive,North,13,332,3676.11,"Worst purchase I have ever made.",In-Store
+2024-07-03,CUST1649,"Diana Mitchell",368.87,Health,East,7,47,2460.73,"Packaging was terrible, item was damaged.",Email
+2023-07-02,CUST1650,"Samuel Walker",387.73,Home & Garden,West,13,307,3493.06,"It does the job but nothing exceptional.",Phone
+2024-04-23,CUST1651,"David Brown",316.09,Home & Garden,South,6,203,1511.54,"Outstanding customer support team!",Phone
+2024-09-27,CUST1652,"Diana Mitchell",426.00,Electronics,North,20,43,8153.64,"Disappointed with the product durability.",Online
+2023-07-20,CUST1653,"Karen Anderson",388.78,Food & Beverage,North,13,282,3628.87,"Packaging was terrible, item was damaged.",Phone
+2024-07-16,CUST1654,"Hannah Phillips",378.13,Clothing,East,5,206,1501.18,"Never received my order, no response.",Online
+2023-12-13,CUST1655,"Noah Harris",407.62,Automotive,North,5,51,1934.16,"Stopped working after just two days.",Mobile App
+2024-02-28,CUST1656,"Frank Wilson",323.90,Clothing,West,10,9,3209.85,"Worst purchase I have ever made.",Phone
+2024-01-18,CUST1657,"Mia Jackson",422.37,Clothing,East,14,197,4748.28,"Never received my order, no response.",Online
+2024-10-26,CUST1658,"Tina Hall",498.70,Food & Beverage,West,5,89,2271.58,"Very poor customer service experience.",Email
+2023-10-23,CUST1659,"Tina Hall",444.39,Food & Beverage,South,18,251,5991.27,"Packaging was terrible, item was damaged.",Phone
+2023-07-17,CUST1660,"David Brown",378.63,Books,Central,9,66,3182.76,"Packaging was terrible, item was damaged.",Email
+2024-01-18,CUST1661,"Liam Thomas",449.03,Beauty,West,10,256,3340.78,"Decent product, could be better packaged.",Email
+2024-10-20,CUST1662,"Carol White",463.48,Sports,Central,18,205,6632.40,"Average product, nothing special about it.",Online
+2023-08-09,CUST1663,"Frank Wilson",385.04,Beauty,West,18,347,4525.76,"Disappointed with the product durability.",In-Store
+2024-03-07,CUST1664,"Peter Garcia",363.76,Toys,Central,5,112,1615.09,"Customer service was completely unhelpful.",Mobile App
+2023-01-24,CUST1665,"Laura Edwards",366.93,Health,North,2,290,521.04,"Fantastic experience from start to finish!",Email
+2023-09-03,CUST1666,"Fiona Roberts",400.07,Books,North,2,321,543.30,"Packaging was terrible, item was damaged.",Phone
+2023-06-08,CUST1667,"Noah Harris",356.87,Electronics,South,3,165,893.96,"Product is okay but not worth the price.",Phone
+2024-05-11,CUST1668,"Quinn Robinson",326.38,Food & Beverage,Central,9,69,2734.74,"Quality is shockingly bad for the price.",Mobile App
+2024-03-23,CUST1669,"Xavier Wright",311.98,Books,East,1,193,251.77,"Stopped working after just two days.",In-Store
+2023-05-03,CUST1670,"Quinn Robinson",289.02,Food & Beverage,North,3,205,689.31,"Customer service was completely unhelpful.",Phone
+2024-11-13,CUST1671,"George Turner",431.64,Clothing,North,13,80,5162.41,"Quality is shockingly bad for the price.",Online
+2024-03-23,CUST1672,"Wendy King",350.41,Health,North,8,54,2651.90,"Shipping was slow but product quality is great.",Online
+2023-05-04,CUST1673,"Eva Martinez",287.64,Clothing,East,3,148,735.21,"Product broke after one week, very disappointed.",Email
+2023-09-29,CUST1674,"Beth Nelson",412.80,Sports,West,5,335,1372.56,"Quality is shockingly bad for the price.",Online
+2024-12-11,CUST1675,"David Brown",437.71,Automotive,Central,16,98,6317.03,"Product arrived late and was missing parts.",In-Store
+2023-12-09,CUST1676,"Samuel Walker",449.74,Health,North,20,179,7384.73,"Mediocre quality for the price paid.",In-Store
+2024-06-08,CUST1677,"George Turner",374.77,Sports,East,5,361,1197.39,"Product arrived late and was missing parts.",Phone
+2024-02-03,CUST1678,"Victor Young",382.94,Home & Garden,North,5,2,1910.87,"Complete waste of money, avoid this.",Email
+2024-03-28,CUST1679,"Nancy Stewart",316.80,Sports,North,7,304,1543.45,"Exceeded all my expectations completely!",Online
+2023-04-24,CUST1680,"Zoe Green",348.73,Clothing,East,10,365,2214.44,"Stopped working after just two days.",Mobile App
+2023-06-19,CUST1681,"Julia Parker",395.15,Sports,South,15,241,4498.78,"Disappointed with the product durability.",Mobile App
+2024-10-12,CUST1682,"Chris Carter",483.59,Automotive,North,10,327,3254.56,"Worst purchase I have ever made.",Phone
+2023-08-15,CUST1683,"Chris Carter",432.75,Beauty,West,13,162,4714.38,"Very poor customer service experience.",In-Store
+2023-01-21,CUST1684,"Eva Martinez",428.93,Food & Beverage,West,11,340,3114.03,"Product broke after one week, very disappointed.",Phone
+2023-10-22,CUST1685,"Frank Wilson",500.13,Sports,Central,10,274,3630.94,"Stopped working after just two days.",Email
+2024-05-10,CUST1686,"Ethan Perez",333.19,Books,Central,10,284,2385.64,"Worst purchase I have ever made.",Mobile App
+2024-07-12,CUST1687,"Quinn Robinson",427.35,Automotive,East,9,76,3553.84,"Mediocre quality for the price paid.",Phone
+2023-03-20,CUST1688,"Samuel Walker",326.52,Electronics,Central,19,184,5062.37,"Mediocre quality for the price paid.",Email
+2023-09-07,CUST1689,"Karen Anderson",407.65,Health,East,5,85,1865.00,"Worst purchase I have ever made.",Online
+2023-10-12,CUST1690,"Uma Allen",506.33,Home & Garden,North,13,114,5831.91,"Product arrived late and was missing parts.",Mobile App
+2023-11-02,CUST1691,"Hannah Phillips",423.07,Electronics,East,9,362,2429.27,"Works as described, nothing more nothing less.",Online
+2023-02-06,CUST1692,"Rachel Lewis",368.58,Home & Garden,West,12,34,4272.58,"Worst purchase I have ever made.",Email
+2024-06-18,CUST1693,"Grace Lee",395.21,Food & Beverage,North,19,249,5639.25,"Customer service was completely unhelpful.",Email
+2024-09-07,CUST1694,"Ethan Perez",385.13,Food & Beverage,South,2,9,763.33,"Product arrived late and was missing parts.",Mobile App
+2023-03-27,CUST1695,"James Davis",322.59,Food & Beverage,North,2,69,600.66,"Product arrived late and was missing parts.",Email
+2023-09-27,CUST1696,"James Davis",394.88,Sports,East,5,291,1399.85,"Wonderful experience, very satisfied!",In-Store
+2024-03-03,CUST1697,"Zoe Green",276.47,Home & Garden,North,4,102,993.08,"Product arrived late and was missing parts.",Mobile App
+2024-04-15,CUST1698,"Zoe Green",322.32,Electronics,North,2,327,433.84,"Mediocre quality for the price paid.",Mobile App
+2023-11-21,CUST1699,"Julia Parker",492.20,Clothing,North,18,234,6786.45,"Product arrived late and was missing parts.",In-Store
+2023-02-05,CUST1700,"David Brown",335.90,Automotive,West,2,287,478.99,"Disappointed with the product durability.",Online
+2024-07-21,CUST1701,"Victor Young",21.67,Clothing,South,6,253,97.12,"Total disappointment, requesting a refund now.",In-Store
+2024-05-03,CUST1702,"Beth Nelson",21.35,Food & Beverage,Central,14,275,216.70,"Disappointed with the product durability.",Email
+2023-05-27,CUST1703,"Rachel Lewis",20.54,Beauty,North,6,66,115.11,"Stopped working after just two days.",Mobile App
+2024-11-16,CUST1704,"Peter Garcia",22.74,Health,East,14,323,215.53,"Never received my order, no response.",Phone
+2023-12-28,CUST1705,"Julia Parker",23.22,Food & Beverage,West,1,83,21.29,"Product is okay but not worth the price.",Mobile App
+2024-08-24,CUST1706,"Chris Carter",22.80,Automotive,North,7,284,114.27,"Average product, nothing special about it.",In-Store
+2024-08-20,CUST1707,"Noah Harris",23.22,Food & Beverage,South,1,20,22.76,"Customer service was completely unhelpful.",Phone
+2023-11-23,CUST1708,"Beth Nelson",23.72,Beauty,West,16,38,365.10,"Stopped working after just two days.",Email
+2024-12-10,CUST1709,"Aaron Baker",26.71,Clothing,West,14,121,328.69,"Very poor customer service experience.",Online
+2023-10-28,CUST1710,"Ian Campbell",26.85,Health,South,14,338,248.85,"Excellent product, very happy with my purchase!",In-Store
+2023-01-07,CUST1711,"Aaron Baker",23.69,Automotive,North,14,281,238.46,"Quality is shockingly bad for the price.",Phone
+2023-05-02,CUST1712,"Fiona Roberts",343.56,Food & Beverage,West,18,152,5244.10,"Product doesn't match the description online.",Mobile App
+2023-08-04,CUST1713,"Iris Chen",384.58,Electronics,Central,9,116,3059.72,"Returned the product, wasn't as advertised.",Phone
+2023-03-25,CUST1714,"Victor Young",295.75,Automotive,North,11,226,2518.02,"Product arrived late and was missing parts.",Online
+2023-01-08,CUST1715,"Hannah Phillips",340.35,Books,South,14,12,4707.72,"Product is okay but not worth the price.",Mobile App
+2024-10-04,CUST1716,"Iris Chen",465.81,Automotive,West,16,257,5537.55,"Stopped working after just two days.",Email
+2024-11-27,CUST1717,"Tina Hall",384.54,Automotive,West,6,275,1672.75,"Outstanding customer support team!",Mobile App
+2023-02-13,CUST1718,"Bob Smith",366.87,Books,Central,16,63,5500.12,"Product arrived late and was missing parts.",Online
+2023-08-17,CUST1719,"Aaron Baker",458.93,Food & Beverage,Central,11,173,4174.89,"Very poor customer service experience.",Email
+2023-04-09,CUST1720,"Quinn Robinson",338.27,Books,West,1,308,234.08,"Disappointed with the product durability.",Mobile App
+2024-08-17,CUST1721,"Karen Anderson",454.41,Beauty,Central,9,319,2785.08,"Never received my order, no response.",Email
+2024-10-04,CUST1722,"Frank Wilson",404.57,Home & Garden,West,4,43,1548.69,"Product is okay but not worth the price.",Mobile App
+2023-05-21,CUST1723,"Yara Scott",308.85,Home & Garden,East,1,133,267.77,"Product doesn't match the description online.",In-Store
+2023-10-31,CUST1724,"Mike Collins",501.85,Sports,North,8,63,3761.87,"Absolutely love it, perfect product!",Email
+2023-10-29,CUST1725,"Noah Harris",455.87,Books,North,11,92,4553.23,"Quality is shockingly bad for the price.",Online
+2023-05-25,CUST1726,"Beth Nelson",346.76,Sports,North,10,324,2344.10,"Never received my order, no response.",Mobile App
+2023-08-29,CUST1727,"Grace Lee",404.87,Home & Garden,East,17,76,6359.70,"Packaging was terrible, item was damaged.",Email
+2023-05-03,CUST1728,"Xavier Wright",336.91,Books,West,17,104,5131.81,"Packaging was terrible, item was damaged.",Phone
+2024-02-08,CUST1729,"Aaron Baker",289.94,Clothing,West,5,72,1345.32,"Never received my order, no response.",Email
+2024-01-16,CUST1730,"Peter Garcia",384.06,Food & Beverage,Central,9,329,2319.34,"Mediocre quality for the price paid.",In-Store
+2024-10-31,CUST1731,"Mike Collins",377.77,Food & Beverage,East,7,101,2377.31,"Product doesn't match the description online.",In-Store
+2024-11-13,CUST1732,"Tina Hall",373.13,Health,South,17,121,5575.68,"Total disappointment, requesting a refund now.",Mobile App
+2023-05-29,CUST1733,"Kevin Evans",306.40,Beauty,North,5,166,1277.69,"Product broke after one week, very disappointed.",Phone
+2023-03-13,CUST1734,"Peter Garcia",334.12,Food & Beverage,North,9,148,2562.03,"Product doesn't match the description online.",In-Store
+2023-10-17,CUST1735,"Frank Wilson",432.93,Health,South,10,345,2835.69,"Never received my order, no response.",Email
+2024-07-07,CUST1736,"Fiona Roberts",313.41,Home & Garden,North,10,129,2729.80,"It does the job but nothing exceptional.",Online
+2023-04-27,CUST1737,"Henry Taylor",325.84,Clothing,North,12,6,3886.62,"Absolutely love it, perfect product!",Mobile App
+2024-09-26,CUST1738,"Olivia Martin",475.88,Automotive,South,5,316,1627.51,"Worst purchase I have ever made.",Email
+2024-06-14,CUST1739,"Beth Nelson",294.77,Automotive,East,2,32,570.67,"Average product, nothing special about it.",Mobile App
+2023-06-29,CUST1740,"Laura Edwards",368.92,Sports,West,10,342,2427.49,"Stopped working after just two days.",In-Store
+2024-09-19,CUST1741,"Zoe Green",414.69,Books,South,16,215,5208.51,"Quality is shockingly bad for the price.",In-Store
+2024-03-23,CUST1742,"Bob Smith",276.22,Books,Central,8,267,1619.75,"Returned the product, wasn't as advertised.",In-Store
+2023-03-28,CUST1743,"Mike Collins",312.66,Toys,West,2,349,407.08,"Complete waste of money, avoid this.",Phone
+2024-05-10,CUST1744,"Tina Hall",329.44,Sports,South,16,145,4506.74,"It does the job but nothing exceptional.",In-Store
+2024-07-12,CUST1745,"Grace Lee",355.11,Automotive,North,12,207,3379.23,"Never received my order, no response.",Phone
+2023-09-21,CUST1746,"Peter Garcia",449.24,Beauty,Central,13,340,3854.48,"Never received my order, no response.",Email
+2023-01-04,CUST1747,"Mia Jackson",390.80,Sports,Central,16,238,4764.63,"Exceeded all my expectations completely!",Email
+2024-09-25,CUST1748,"Rachel Lewis",425.51,Toys,South,3,26,1243.34,"Packaging was terrible, item was damaged.",Mobile App
+2023-07-24,CUST1749,"Hannah Phillips",315.15,Beauty,East,12,172,3131.33,"Shipping was slow but product quality is great.",In-Store
+2023-01-18,CUST1750,"Fiona Roberts",363.47,Home & Garden,South,3,23,1065.33,"Average product, nothing special about it.",Mobile App
+2023-11-05,CUST1751,"Karen Anderson",402.32,Books,West,8,101,2893.49,"Complete waste of money, avoid this.",Email
+2024-10-29,CUST1752,"Zoe Green",377.38,Food & Beverage,South,13,40,4709.70,"Product arrived late and was missing parts.",Phone
+2024-01-28,CUST1753,"Olivia Martin",331.56,Health,East,6,303,1386.58,"Returned the product, wasn't as advertised.",Online
+2024-04-29,CUST1754,"Laura Edwards",308.07,Clothing,Central,14,15,4248.29,"Product doesn't match the description online.",Online
+2023-06-04,CUST1755,"Nancy Stewart",294.56,Home & Garden,South,17,41,4802.21,"Amazing value for money, will buy again!",Phone
+2023-03-05,CUST1756,"Victor Young",327.54,Health,North,5,269,1197.16,"Total disappointment, requesting a refund now.",Phone
+2024-07-08,CUST1757,"George Turner",369.94,Beauty,South,20,245,5586.09,"Quality is shockingly bad for the price.",Mobile App
+2024-09-09,CUST1758,"Nancy Stewart",394.38,Books,North,1,282,283.16,"Mediocre quality for the price paid.",Mobile App
+2023-09-26,CUST1759,"Zoe Green",460.39,Health,East,1,63,431.39,"Total disappointment, requesting a refund now.",In-Store
+2024-10-23,CUST1760,"Victor Young",414.47,Clothing,North,12,189,4033.62,"Customer service was completely unhelpful.",Mobile App
+2023-08-05,CUST1761,"Rachel Lewis",337.33,Automotive,North,18,228,4687.54,"Fast delivery and great quality.",Phone
+2024-07-25,CUST1762,"Yara Scott",298.74,Automotive,West,19,104,5085.75,"Shipping was slow but product quality is great.",Mobile App
+2024-03-14,CUST1763,"George Turner",308.47,Home & Garden,East,9,72,2576.34,"Quality is shockingly bad for the price.",Email
+2024-12-18,CUST1764,"Samuel Walker",325.33,Beauty,Central,17,187,4496.39,"Packaging was terrible, item was damaged.",Phone
+2023-05-14,CUST1765,"David Brown",260.83,Electronics,East,20,267,3823.77,"Total disappointment, requesting a refund now.",Online
+2024-11-19,CUST1766,"Yara Scott",442.55,Sports,Central,15,148,5655.79,"Confusing setup process but works once done.",Phone
+2024-05-27,CUST1767,"Victor Young",294.73,Sports,East,12,72,3282.11,"Complete waste of money, avoid this.",In-Store
+2024-09-16,CUST1768,"James Davis",384.55,Clothing,North,15,292,4083.92,"Very poor customer service experience.",In-Store
+2023-11-21,CUST1769,"Peter Garcia",389.87,Books,North,3,330,783.64,"Mediocre quality for the price paid.",Online
+2024-03-19,CUST1770,"George Turner",270.95,Books,East,16,55,4096.76,"Decent product, could be better packaged.",Phone
+2024-09-07,CUST1771,"Eva Martinez",395.02,Sports,North,17,340,4432.12,"Confusing setup process but works once done.",Email
+2024-08-16,CUST1772,"Victor Young",334.18,Toys,North,15,22,4902.42,"Very poor customer service experience.",Phone
+2024-03-15,CUST1773,"Olivia Martin",248.09,Food & Beverage,North,13,182,2638.19,"Product doesn't match the description online.",Phone
+2024-06-21,CUST1774,"David Brown",311.85,Toys,Central,17,266,3891.26,"Product arrived late and was missing parts.",Mobile App
+2024-01-22,CUST1775,"Uma Allen",326.16,Home & Garden,North,20,218,5101.14,"Mediocre quality for the price paid.",Email
+2024-08-19,CUST1776,"Mia Jackson",386.05,Beauty,West,2,123,677.13,"Will definitely order again soon!",Email
+2023-12-29,CUST1777,"Carol White",333.75,Health,South,1,27,324.74,"Stopped working after just two days.",Mobile App
+2023-09-26,CUST1778,"Eva Martinez",336.80,Books,North,4,15,1326.99,"Worst purchase I have ever made.",Mobile App
+2023-09-01,CUST1779,"Frank Wilson",448.40,Electronics,Central,16,267,5258.84,"Total disappointment, requesting a refund now.",Email
+2023-05-03,CUST1780,"Mia Jackson",294.41,Food & Beverage,South,19,132,4855.41,"Instructions were unclear but product works well.",Phone
+2024-02-29,CUST1781,"Wendy King",257.36,Food & Beverage,East,19,146,4175.92,"Quality is shockingly bad for the price.",Mobile App
+2023-02-04,CUST1782,"David Brown",303.68,Books,Central,10,311,2092.36,"Highly recommend to everyone!",Mobile App
+2024-06-22,CUST1783,"Wendy King",300.40,Electronics,North,9,138,2330.50,"Will definitely order again soon!",Online
+2024-01-05,CUST1784,"Yara Scott",362.72,Home & Garden,Central,10,246,2734.91,"Mediocre quality for the price paid.",Phone
+2024-10-02,CUST1785,"Karen Anderson",424.70,Beauty,North,15,148,5427.67,"Never received my order, no response.",Phone
+2024-01-26,CUST1786,"Iris Chen",367.68,Health,Central,11,298,2839.22,"Stopped working after just two days.",Email
+2023-07-17,CUST1787,"Bob Smith",302.45,Sports,North,19,356,3700.78,"Confusing setup process but works once done.",Phone
+2024-11-01,CUST1788,"Wendy King",381.01,Food & Beverage,North,13,79,4561.83,"Returned the product, wasn't as advertised.",Online
+2023-12-19,CUST1789,"Liam Thomas",396.76,Toys,South,7,311,1913.57,"Product doesn't match the description online.",Phone
+2024-10-26,CUST1790,"Peter Garcia",417.85,Electronics,South,4,198,1340.46,"Mediocre quality for the price paid.",Online
+2023-02-19,CUST1791,"Victor Young",269.11,Toys,East,12,25,3148.59,"Total disappointment, requesting a refund now.",Phone
+2023-09-06,CUST1792,"Ethan Perez",390.54,Electronics,North,20,233,5990.88,"Absolutely love it, perfect product!",Email
+2024-09-25,CUST1793,"Julia Parker",330.41,Health,Central,5,63,1547.97,"Worst purchase I have ever made.",Online
+2024-04-15,CUST1794,"Hannah Phillips",238.26,Electronics,West,15,309,2469.56,"Mediocre quality for the price paid.",Online
+2023-12-30,CUST1795,"Fiona Roberts",405.87,Home & Garden,West,3,151,1033.75,"Complete waste of money, avoid this.",Online
+2024-02-23,CUST1796,"Chris Carter",305.63,Home & Garden,West,18,252,4115.00,"Worst purchase I have ever made.",Email
+2024-07-27,CUST1797,"Fiona Roberts",313.52,Sports,North,6,100,1693.01,"Product arrived late and was missing parts.",In-Store
+2023-10-02,CUST1798,"Zoe Green",419.18,Health,West,15,299,4407.68,"Never received my order, no response.",Phone
+2023-12-03,CUST1799,"Fiona Roberts",403.11,Clothing,West,12,101,4348.75,"Product broke after one week, very disappointed.",In-Store
+2023-10-08,CUST1800,"Grace Lee",347.82,Electronics,North,5,95,1573.89,"Quality is shockingly bad for the price.",Email
+2024-07-15,CUST1801,"Xavier Wright",289.62,Clothing,North,11,360,2038.92,"Customer service was completely unhelpful.",Online
+2023-09-03,CUST1802,"Olivia Martin",342.51,Clothing,North,18,12,6091.20,"Average product, nothing special about it.",Email
+2024-09-25,CUST1803,"Tina Hall",333.88,Food & Beverage,West,12,19,3930.44,"Product arrived late and was missing parts.",Email
+2024-01-27,CUST1804,"Tina Hall",319.87,Beauty,East,18,238,4387.34,"Product broke after one week, very disappointed.",Mobile App
+2023-09-01,CUST1805,"Kevin Evans",357.49,Toys,North,19,312,4673.11,"Disappointed with the product durability.",Online
+2024-07-26,CUST1806,"Bob Smith",314.19,Health,East,3,294,665.45,"Highly recommend to everyone!",Phone
+2023-04-05,CUST1807,"David Brown",263.38,Home & Garden,East,18,244,3584.08,"Very poor customer service experience.",Mobile App
+2023-07-26,CUST1808,"Zoe Green",330.19,Automotive,East,12,8,3930.58,"Packaging was terrible, item was damaged.",Email
+2023-11-20,CUST1809,"Peter Garcia",382.70,Food & Beverage,South,12,201,3669.33,"Works as described, nothing more nothing less.",Mobile App
+2024-10-18,CUST1810,"Beth Nelson",384.42,Sports,Central,7,36,2594.07,"Total disappointment, requesting a refund now.",Online
+2023-06-11,CUST1811,"Nancy Stewart",278.22,Automotive,North,14,124,3412.09,"Disappointed with the product durability.",In-Store
+2023-05-29,CUST1812,"Julia Parker",260.58,Toys,Central,13,350,2201.90,"Quality is shockingly bad for the price.",Online
+2024-12-19,CUST1813,"Liam Thomas",308.44,Books,West,13,285,2866.95,"Returned the product, wasn't as advertised.",In-Store
+2024-11-10,CUST1814,"Liam Thomas",385.82,Toys,South,18,309,4798.83,"It does the job but nothing exceptional.",Phone
+2024-09-05,CUST1815,"Alice Johnson",352.96,Automotive,South,10,170,2929.57,"Customer service was completely unhelpful.",Mobile App
+2023-10-05,CUST1816,"Tina Hall",358.28,Home & Garden,East,16,36,5526.11,"Worst purchase I have ever made.",Email
+2023-06-03,CUST1817,"Carol White",299.10,Health,North,5,257,1111.16,"Returned the product, wasn't as advertised.",Mobile App
+2023-11-12,CUST1818,"Mia Jackson",356.54,Home & Garden,North,8,1,2849.47,"Customer service was completely unhelpful.",Phone
+2023-05-16,CUST1819,"Beth Nelson",232.47,Electronics,South,20,197,3733.47,"Stopped working after just two days.",Email
+2024-01-15,CUST1820,"David Brown",325.90,Toys,East,20,301,4556.08,"Customer service was completely unhelpful.",Email
+2023-11-25,CUST1821,"Samuel Walker",340.17,Beauty,Central,3,6,1014.39,"Outstanding customer support team!",Online
+2023-08-14,CUST1822,"Aaron Baker",349.45,Health,South,5,48,1663.38,"Quality is shockingly bad for the price.",In-Store
+2023-01-31,CUST1823,"Quinn Robinson",307.83,Food & Beverage,Central,20,170,5109.98,"Stopped working after just two days.",Phone
+2023-07-05,CUST1824,"Kevin Evans",323.54,Electronics,North,13,358,2700.26,"Five stars for quality and service!",Mobile App
+2023-03-15,CUST1825,"Wendy King",260.37,Books,East,3,160,656.13,"Disappointed with the product durability.",Online
+2024-05-18,CUST1826,"Peter Garcia",253.22,Clothing,Central,8,256,1507.17,"Customer service was completely unhelpful.",Online
+2023-01-30,CUST1827,"Iris Chen",325.26,Clothing,Central,3,221,760.13,"Product broke after one week, very disappointed.",Phone
+2023-01-08,CUST1828,"Iris Chen",334.73,Beauty,West,11,72,3416.92,"Stopped working after just two days.",Email
+2024-05-29,CUST1829,"Julia Parker",254.22,Automotive,Central,5,11,1257.12,"Product arrived late and was missing parts.",Mobile App
+2023-03-06,CUST1830,"Nancy Stewart",286.51,Books,Central,4,235,876.72,"Stopped working after just two days.",Mobile App
+2023-12-26,CUST1831,"Liam Thomas",348.60,Books,South,17,147,5055.05,"Superb quality and quick shipping!",Email
+2024-02-24,CUST1832,"Karen Anderson",238.21,Clothing,West,15,329,2397.58,"Product broke after one week, very disappointed.",In-Store
+2023-03-22,CUST1833,"Mike Collins",259.95,Toys,West,12,77,2879.21,"Top notch quality and fast delivery!",Mobile App
+2024-08-24,CUST1834,"Wendy King",319.09,Food & Beverage,West,3,301,669.13,"Customer service was completely unhelpful.",Mobile App
+2023-06-03,CUST1835,"George Turner",287.37,Health,South,11,172,2617.37,"Never received my order, no response.",Email
+2023-11-02,CUST1836,"Rachel Lewis",382.72,Home & Garden,West,20,197,6146.48,"Product broke after one week, very disappointed.",Email
+2023-03-31,CUST1837,"Quinn Robinson",233.52,Books,Central,10,62,2190.42,"Returned the product, wasn't as advertised.",Mobile App
+2023-08-18,CUST1838,"Julia Parker",280.15,Automotive,East,18,233,3867.75,"Never received my order, no response.",In-Store
+2023-10-12,CUST1839,"Xavier Wright",403.84,Beauty,South,13,79,4835.18,"Quality is shockingly bad for the price.",Email
+2023-05-04,CUST1840,"Fiona Roberts",239.91,Books,West,14,102,3016.15,"Total disappointment, requesting a refund now.",Email
+2024-11-26,CUST1841,"Alice Johnson",324.11,Health,North,1,164,270.96,"Great product, easy to use!",In-Store
+2023-12-23,CUST1842,"Chris Carter",293.39,Automotive,North,3,192,711.18,"Customer service was completely unhelpful.",Mobile App
+2024-05-03,CUST1843,"Liam Thomas",244.16,Electronics,West,3,314,502.48,"Product arrived late and was missing parts.",Email
+2024-05-15,CUST1844,"Fiona Roberts",212.61,Automotive,East,1,246,160.31,"Customer service was completely unhelpful.",Online
+2023-07-20,CUST1845,"Nancy Stewart",334.41,Automotive,Central,5,249,1255.71,"Highly recommend to everyone!",Mobile App
+2023-07-31,CUST1846,"Julia Parker",294.03,Toys,Central,15,263,3250.50,"Mediocre quality for the price paid.",Email
+2024-09-25,CUST1847,"Chris Carter",369.66,Home & Garden,South,18,84,6094.95,"Stopped working after just two days.",Online
+2024-08-19,CUST1848,"Nancy Stewart",351.96,Clothing,Central,6,283,1514.13,"Product arrived late and was missing parts.",Phone
+2023-09-23,CUST1849,"Alice Johnson",319.07,Home & Garden,South,9,128,2504.06,"Average product, nothing special about it.",Online
+2024-02-21,CUST1850,"Julia Parker",241.53,Food & Beverage,North,9,207,1723.80,"Packaging was terrible, item was damaged.",Phone
+2023-01-14,CUST1851,"Karen Anderson",265.99,Books,East,19,194,4073.37,"Product broke after one week, very disappointed.",Phone
+2023-06-29,CUST1852,"James Davis",257.22,Automotive,East,13,130,2909.16,"Mediocre quality for the price paid.",Phone
+2023-03-10,CUST1853,"Mike Collins",211.06,Automotive,North,3,326,426.76,"Stopped working after just two days.",Online
+2023-08-22,CUST1854,"Fiona Roberts",328.25,Clothing,North,17,69,5195.21,"Packaging was terrible, item was damaged.",Phone
+2024-11-03,CUST1855,"Zoe Green",314.72,Food & Beverage,North,1,320,214.01,"Packaging was terrible, item was damaged.",Mobile App
+2023-12-19,CUST1856,"Diana Mitchell",329.62,Home & Garden,North,10,359,2112.86,"Quality is shockingly bad for the price.",Mobile App
+2024-10-01,CUST1857,"Samuel Walker",350.17,Toys,South,14,336,3255.18,"Disappointed with the product durability.",Phone
+2023-09-01,CUST1858,"Mike Collins",306.41,Toys,East,19,81,5350.23,"Returned the product, wasn't as advertised.",In-Store
+2023-03-31,CUST1859,"Fiona Roberts",263.56,Home & Garden,North,1,229,203.20,"Average product, nothing special about it.",Online
+2023-10-08,CUST1860,"Zoe Green",389.11,Books,East,5,8,1929.99,"Total disappointment, requesting a refund now.",Online
+2024-02-22,CUST1861,"Xavier Wright",285.08,Food & Beverage,East,2,257,423.63,"Customer service was completely unhelpful.",Email
+2024-08-20,CUST1862,"Nancy Stewart",320.07,Home & Garden,East,15,120,4224.92,"Average product, nothing special about it.",Online
+2024-10-22,CUST1863,"Bob Smith",374.13,Sports,South,19,90,6468.71,"Disappointed with the product durability.",Email
+2024-04-23,CUST1864,"James Davis",227.89,Health,South,3,358,438.92,"Total disappointment, requesting a refund now.",Phone
+2024-03-27,CUST1865,"Eva Martinez",242.81,Sports,North,3,264,536.12,"Disappointed with the product durability.",Email
+2024-02-03,CUST1866,"Tina Hall",236.68,Beauty,South,17,174,3323.46,"Quality is shockingly bad for the price.",Mobile App
+2024-11-28,CUST1867,"Rachel Lewis",373.71,Beauty,Central,17,173,5253.99,"Decent product, could be better packaged.",In-Store
+2023-08-23,CUST1868,"Beth Nelson",341.84,Food & Beverage,Central,17,322,3940.05,"Wonderful experience, very satisfied!",In-Store
+2024-03-09,CUST1869,"Olivia Martin",231.38,Clothing,Central,16,50,3516.98,"Product broke after one week, very disappointed.",Email
+2024-10-04,CUST1870,"Karen Anderson",353.49,Toys,North,12,282,3045.67,"Worst purchase I have ever made.",Phone
+2024-06-09,CUST1871,"Iris Chen",247.33,Electronics,North,9,189,1805.26,"Never received my order, no response.",Mobile App
+2024-06-05,CUST1872,"Diana Mitchell",250.82,Automotive,South,4,262,740.42,"Customer service was completely unhelpful.",Mobile App
+2023-02-02,CUST1873,"Beth Nelson",214.15,Beauty,West,12,196,2066.12,"Product doesn't match the description online.",Online
+2024-08-26,CUST1874,"David Brown",259.79,Books,East,5,133,1126.19,"Will definitely order again soon!",Phone
+2023-09-26,CUST1875,"Wendy King",330.10,Electronics,West,13,310,2961.00,"Complete waste of money, avoid this.",Mobile App
+2024-03-02,CUST1876,"Bob Smith",260.14,Food & Beverage,West,14,86,3328.75,"Confusing setup process but works once done.",Mobile App
+2024-07-21,CUST1877,"Ethan Perez",282.12,Sports,North,10,306,1957.91,"Fast delivery and great quality.",In-Store
+2024-03-31,CUST1878,"Ethan Perez",193.44,Toys,Central,1,179,158.81,"Stopped working after just two days.",Mobile App
+2023-06-25,CUST1879,"Liam Thomas",219.61,Sports,East,1,163,183.81,"Complete waste of money, avoid this.",Mobile App
+2023-03-05,CUST1880,"Aaron Baker",204.80,Food & Beverage,South,4,2,817.56,"Average product, nothing special about it.",In-Store
+2024-08-10,CUST1881,"Karen Anderson",259.33,Automotive,East,13,150,2865.60,"Total disappointment, requesting a refund now.",Mobile App
+2024-05-08,CUST1882,"Julia Parker",212.29,Automotive,North,11,42,2237.11,"Returned the product, wasn't as advertised.",Phone
+2023-07-31,CUST1883,"Karen Anderson",280.44,Toys,North,17,71,4428.99,"Shipping was slow but product quality is great.",In-Store
+2023-11-10,CUST1884,"Aaron Baker",316.87,Books,Central,3,205,755.73,"Packaging was terrible, item was damaged.",Online
+2024-08-29,CUST1885,"Beth Nelson",307.80,Books,North,5,359,986.50,"Stopped working after just two days.",Phone
+2024-02-02,CUST1886,"Diana Mitchell",226.05,Home & Garden,West,7,77,1460.51,"Mediocre quality for the price paid.",Online
+2024-08-09,CUST1887,"Xavier Wright",252.17,Home & Garden,South,10,364,1603.80,"Product doesn't match the description online.",Mobile App
+2024-10-03,CUST1888,"Mia Jackson",332.52,Electronics,West,7,174,1922.63,"Instructions were unclear but product works well.",In-Store
+2023-05-19,CUST1889,"Bob Smith",251.35,Automotive,North,20,302,3508.85,"Great product, easy to use!",Phone
+2023-11-13,CUST1890,"James Davis",338.04,Automotive,East,4,323,915.41,"Disappointed with the product durability.",Phone
+2023-08-22,CUST1891,"Kevin Evans",274.97,Books,West,8,289,1564.03,"Packaging was terrible, item was damaged.",Phone
+2024-08-05,CUST1892,"Tina Hall",303.43,Toys,East,18,291,3872.37,"Confusing setup process but works once done.",Online
+2024-11-16,CUST1893,"Julia Parker",340.43,Food & Beverage,Central,19,62,6067.14,"Complete waste of money, avoid this.",Email
+2023-08-12,CUST1894,"Eva Martinez",325.73,Health,East,16,185,4247.52,"Product broke after one week, very disappointed.",In-Store
+2023-03-19,CUST1895,"David Brown",188.50,Health,Central,19,75,3312.89,"Fast delivery and great quality.",Online
+2024-03-25,CUST1896,"Liam Thomas",225.25,Health,West,14,16,3103.04,"Instructions were unclear but product works well.",In-Store
+2024-03-24,CUST1897,"Eva Martinez",199.70,Home & Garden,South,7,347,912.83,"Customer service was completely unhelpful.",Mobile App
+2024-12-15,CUST1898,"Karen Anderson",325.83,Home & Garden,South,2,68,607.35,"Disappointed with the product durability.",Online
+2023-10-24,CUST1899,"Victor Young",272.91,Health,West,16,42,4183.16,"Product broke after one week, very disappointed.",Email
+2024-03-08,CUST1900,"George Turner",237.56,Beauty,East,5,46,1133.16,"Decent product, could be better packaged.",In-Store
+2023-07-22,CUST1901,"Mia Jackson",11.00,Food & Beverage,East,20,41,210.98,"Packaging was terrible, item was damaged.",Phone
+2023-11-05,CUST1902,"Mike Collins",11.62,Sports,Central,2,112,20.64,"Returned the product, wasn't as advertised.",Email
+2024-04-16,CUST1903,"Wendy King",10.00,Food & Beverage,North,12,43,114.84,"Wonderful experience, very satisfied!",Email
+2024-06-15,CUST1904,"Ethan Perez",10.00,Food & Beverage,South,15,163,125.55,"Never received my order, no response.",In-Store
+2023-11-25,CUST1905,"Quinn Robinson",12.14,Sports,Central,13,82,144.88,"Product broke after one week, very disappointed.",Mobile App
+2024-01-01,CUST1906,"Quinn Robinson",10.08,Home & Garden,Central,2,141,17.32,"Disappointed with the product durability.",Phone
+2024-05-20,CUST1907,"Olivia Martin",10.00,Automotive,West,7,18,68.74,"Fantastic experience from start to finish!",Email
+2023-01-07,CUST1908,"James Davis",10.04,Electronics,East,2,95,18.17,"Disappointed with the product durability.",Online
+2024-12-11,CUST1909,"Grace Lee",12.40,Home & Garden,North,4,337,32.88,"Product doesn't match the description online.",Email
+2023-08-21,CUST1910,"Wendy King",12.44,Toys,East,7,206,69.14,"Instructions were unclear but product works well.",Online
+2023-07-04,CUST1911,"Beth Nelson",11.52,Clothing,West,5,294,40.67,"Product is okay but not worth the price.",Email
+2024-04-04,CUST1912,"Carol White",206.18,Toys,South,3,137,533.80,"Returned the product, wasn't as advertised.",Mobile App
+2024-09-30,CUST1913,"Ethan Perez",275.63,Automotive,North,16,351,2862.14,"Never received my order, no response.",Mobile App
+2024-12-18,CUST1914,"Hannah Phillips",249.87,Automotive,Central,12,143,2569.66,"Disappointed with the product durability.",Online
+2024-04-11,CUST1915,"Tina Hall",186.71,Home & Garden,North,18,80,3091.92,"Works as described, nothing more nothing less.",Email
+2024-03-24,CUST1916,"Aaron Baker",188.61,Toys,West,5,156,795.93,"Product arrived late and was missing parts.",Email
+2024-03-08,CUST1917,"Ethan Perez",180.13,Home & Garden,West,13,154,1981.07,"Very poor customer service experience.",Email
+2023-09-16,CUST1918,"Yara Scott",322.19,Home & Garden,Central,8,307,1786.22,"Works as described, nothing more nothing less.",Email
+2023-02-11,CUST1919,"Julia Parker",194.02,Beauty,North,17,138,2843.17,"Product broke after one week, very disappointed.",Mobile App
+2024-06-29,CUST1920,"Karen Anderson",208.50,Food & Beverage,Central,6,274,908.23,"Average product, nothing special about it.",Online
+2024-01-28,CUST1921,"George Turner",269.06,Clothing,West,17,229,3526.57,"Confusing setup process but works once done.",In-Store
+2024-11-22,CUST1922,"Nancy Stewart",319.91,Toys,West,19,208,4814.01,"Very poor customer service experience.",In-Store
+2024-11-19,CUST1923,"Victor Young",294.49,Beauty,East,5,212,1160.29,"Total disappointment, requesting a refund now.",Phone
+2023-08-01,CUST1924,"Xavier Wright",306.69,Books,North,13,89,3632.13,"Product doesn't match the description online.",In-Store
+2023-03-22,CUST1925,"Julia Parker",228.47,Beauty,Central,17,148,3309.16,"Returned the product, wasn't as advertised.",Email
+2023-04-17,CUST1926,"Olivia Martin",197.18,Beauty,Central,7,264,1015.87,"Total disappointment, requesting a refund now.",In-Store
+2024-06-27,CUST1927,"Beth Nelson",233.80,Clothing,North,4,31,906.21,"Never received my order, no response.",Online
+2023-08-13,CUST1928,"Mia Jackson",302.76,Beauty,Central,10,162,2537.13,"Complete waste of money, avoid this.",Mobile App
+2023-09-04,CUST1929,"Alice Johnson",259.51,Books,East,18,62,4381.57,"Returned the product, wasn't as advertised.",Phone
+2024-04-10,CUST1930,"David Brown",215.93,Beauty,West,20,182,3532.61,"Quality is shockingly bad for the price.",Email
+2023-08-05,CUST1931,"Aaron Baker",301.79,Food & Beverage,Central,9,325,1833.37,"Packaging was terrible, item was damaged.",Email
+2023-07-22,CUST1932,"Olivia Martin",252.33,Health,Central,4,307,699.46,"Exceeded all my expectations completely!",Phone
+2024-01-14,CUST1933,"Uma Allen",247.87,Electronics,Central,2,344,325.21,"Customer service was completely unhelpful.",In-Store
+2024-12-13,CUST1934,"Quinn Robinson",235.62,Books,East,13,334,2040.00,"Amazing value for money, will buy again!",Phone
+2024-02-05,CUST1935,"Tina Hall",215.17,Beauty,Central,12,130,2246.37,"Packaging was terrible, item was damaged.",In-Store
+2024-03-03,CUST1936,"Frank Wilson",176.33,Electronics,Central,11,110,1726.27,"Quality is shockingly bad for the price.",Mobile App
+2023-08-15,CUST1937,"Chris Carter",231.22,Electronics,West,18,132,3612.58,"Customer service was completely unhelpful.",Phone
+2023-03-13,CUST1938,"Wendy King",225.10,Health,East,1,165,187.96,"Customer service was completely unhelpful.",Phone
+2024-12-06,CUST1939,"Grace Lee",236.19,Health,North,3,238,539.93,"Mediocre quality for the price paid.",Online
+2023-10-03,CUST1940,"Grace Lee",324.51,Toys,North,7,22,2221.60,"Very poor customer service experience.",Phone
+2024-10-04,CUST1941,"Quinn Robinson",313.09,Home & Garden,West,7,298,1538.52,"Customer service was completely unhelpful.",Mobile App
+2023-08-07,CUST1942,"Mia Jackson",247.81,Sports,South,6,300,1040.80,"It does the job but nothing exceptional.",In-Store
+2023-06-06,CUST1943,"Mia Jackson",229.21,Home & Garden,North,1,26,223.25,"Packaging was terrible, item was damaged.",In-Store
+2023-03-18,CUST1944,"David Brown",217.90,Clothing,North,3,308,452.36,"Never received my order, no response.",Online
+2024-02-02,CUST1945,"Liam Thomas",227.42,Food & Beverage,East,4,56,858.74,"Top notch quality and fast delivery!",In-Store
+2024-12-16,CUST1946,"Julia Parker",288.76,Books,South,10,146,2466.01,"Never received my order, no response.",Phone
+2024-09-07,CUST1947,"Tina Hall",280.81,Automotive,North,11,101,2776.93,"Worst purchase I have ever made.",In-Store
+2023-11-21,CUST1948,"Diana Mitchell",296.94,Food & Beverage,West,2,273,431.75,"Total disappointment, requesting a refund now.",Phone
+2024-04-11,CUST1949,"Iris Chen",164.31,Toys,North,12,203,1571.46,"Disappointed with the product durability.",Phone
+2024-01-28,CUST1950,"Yara Scott",211.99,Health,East,4,160,712.29,"It does the job but nothing exceptional.",Email
+2023-05-21,CUST1951,"Frank Wilson",185.06,Food & Beverage,West,12,112,1972.00,"Customer service was completely unhelpful.",Phone
+2023-02-15,CUST1952,"Ethan Perez",178.53,Sports,South,3,108,477.75,"Worst purchase I have ever made.",In-Store
+2023-11-21,CUST1953,"Karen Anderson",238.04,Clothing,West,12,43,2733.65,"Customer service was completely unhelpful.",In-Store
+2023-08-25,CUST1954,"Kevin Evans",245.77,Food & Beverage,Central,2,311,338.67,"Confusing setup process but works once done.",Mobile App
+2023-06-09,CUST1955,"Wendy King",179.59,Home & Garden,Central,3,319,366.90,"Returned the product, wasn't as advertised.",Email
+2024-10-01,CUST1956,"Mike Collins",286.54,Home & Garden,Central,4,209,906.61,"Product doesn't match the description online.",Online
+2024-07-25,CUST1957,"Alice Johnson",219.89,Beauty,West,6,222,1026.45,"Instructions were unclear but product works well.",In-Store
+2023-04-28,CUST1958,"Peter Garcia",184.52,Food & Beverage,East,14,39,2482.53,"Works as described, nothing more nothing less.",In-Store
+2023-01-06,CUST1959,"Mia Jackson",239.75,Electronics,East,15,219,2808.67,"Mediocre quality for the price paid.",In-Store
+2024-09-16,CUST1960,"Rachel Lewis",249.30,Books,South,2,238,379.93,"Product arrived late and was missing parts.",Email
+2023-06-06,CUST1961,"Zoe Green",197.01,Electronics,South,19,221,2915.95,"Exceeded all my expectations completely!",Phone
+2023-12-12,CUST1962,"Noah Harris",281.69,Toys,South,4,73,1044.51,"Total disappointment, requesting a refund now.",Phone
+2024-03-26,CUST1963,"Frank Wilson",195.67,Toys,South,18,274,2557.02,"Instructions were unclear but product works well.",Phone
+2023-04-29,CUST1964,"Fiona Roberts",176.97,Clothing,South,14,63,2321.49,"Total disappointment, requesting a refund now.",Mobile App
+2024-07-17,CUST1965,"George Turner",252.01,Food & Beverage,East,12,41,2900.13,"Very poor customer service experience.",Phone
+2024-05-12,CUST1966,"Grace Lee",158.32,Home & Garden,East,7,116,979.68,"Confusing setup process but works once done.",In-Store
+2023-07-25,CUST1967,"Victor Young",200.62,Food & Beverage,Central,9,351,1171.82,"Product arrived late and was missing parts.",Mobile App
+2023-10-11,CUST1968,"Ian Campbell",230.23,Books,West,3,128,602.28,"Product doesn't match the description online.",In-Store
+2023-03-31,CUST1969,"Kevin Evans",182.06,Toys,East,19,181,2833.04,"Total disappointment, requesting a refund now.",Email
+2023-07-07,CUST1970,"Noah Harris",217.18,Food & Beverage,East,10,176,1789.56,"Shipping was slow but product quality is great.",Online
+2023-10-29,CUST1971,"Diana Mitchell",273.42,Toys,North,15,228,3166.20,"Disappointed with the product durability.",Online
+2024-01-23,CUST1972,"Yara Scott",217.17,Food & Beverage,East,7,118,1340.81,"It does the job but nothing exceptional.",Online
+2023-05-13,CUST1973,"Aaron Baker",188.80,Beauty,Central,7,53,1251.56,"Total disappointment, requesting a refund now.",Phone
+2024-12-20,CUST1974,"Grace Lee",208.98,Health,North,11,333,1533.29,"Stopped working after just two days.",Mobile App
+2023-05-29,CUST1975,"Liam Thomas",176.88,Toys,East,1,167,147.34,"Works as described, nothing more nothing less.",Phone
+2023-06-14,CUST1976,"Alice Johnson",189.10,Sports,Central,16,46,2886.42,"Complete waste of money, avoid this.",Phone
+2023-03-30,CUST1977,"Ian Campbell",162.24,Home & Garden,West,1,16,159.64,"Highly recommend to everyone!",In-Store
+2024-02-24,CUST1978,"Diana Mitchell",167.12,Automotive,North,10,119,1472.33,"Customer service was completely unhelpful.",Phone
+2023-11-02,CUST1979,"Aaron Baker",213.05,Health,North,12,188,2075.96,"Customer service was completely unhelpful.",In-Store
+2024-09-23,CUST1980,"Iris Chen",242.74,Health,North,6,100,1310.80,"Wonderful experience, very satisfied!",Email
+2023-03-02,CUST1981,"Grace Lee",188.12,Toys,North,19,177,2941.63,"Complete waste of money, avoid this.",Online
+2023-06-05,CUST1982,"Nancy Stewart",187.56,Health,East,10,363,1194.76,"Stopped working after just two days.",Phone
+2024-01-01,CUST1983,"Mike Collins",224.23,Electronics,South,15,260,2488.95,"Fantastic experience from start to finish!",Mobile App
+2023-10-02,CUST1984,"Kevin Evans",240.93,Automotive,East,13,110,2787.56,"Packaging was terrible, item was damaged.",Email
+2023-06-10,CUST1985,"Diana Mitchell",184.94,Books,West,6,313,762.32,"Mediocre quality for the price paid.",Email
+2024-06-28,CUST1986,"Yara Scott",198.70,Books,West,18,146,3054.42,"Customer service was completely unhelpful.",Phone
+2023-12-27,CUST1987,"Grace Lee",197.07,Home & Garden,North,14,320,1876.11,"Returned the product, wasn't as advertised.",Mobile App
+2024-10-26,CUST1988,"Zoe Green",233.16,Sports,Central,19,106,3960.46,"Mediocre quality for the price paid.",Email
+2023-08-15,CUST1989,"James Davis",227.35,Food & Beverage,North,5,13,1121.97,"Product broke after one week, very disappointed.",Phone
+2024-04-15,CUST1990,"Laura Edwards",155.35,Beauty,North,1,212,122.42,"Packaging was terrible, item was damaged.",In-Store
+2023-10-21,CUST1991,"Nancy Stewart",275.41,Beauty,West,20,291,3905.31,"Excellent product, very happy with my purchase!",In-Store
+2023-01-30,CUST1992,"Chris Carter",216.58,Sports,Central,5,43,1036.34,"Complete waste of money, avoid this.",Online
+2023-07-10,CUST1993,"Quinn Robinson",219.99,Sports,West,2,134,381.02,"Top notch quality and fast delivery!",In-Store
+2024-08-01,CUST1994,"Carol White",199.27,Toys,North,6,66,1116.71,"Exceeded all my expectations completely!",Email
+2024-03-21,CUST1995,"Mike Collins",160.51,Automotive,East,1,174,132.58,"Worst purchase I have ever made.",Online
+2023-03-02,CUST1996,"Diana Mitchell",192.42,Sports,North,7,239,1025.02,"Will definitely order again soon!",Mobile App
+2023-02-05,CUST1997,"Yara Scott",165.54,Electronics,Central,1,250,124.16,"Packaging was terrible, item was damaged.",Online
+2023-06-11,CUST1998,"Zoe Green",195.90,Toys,South,20,183,3201.01,"Superb quality and quick shipping!",Email
+2023-07-26,CUST1999,"Grace Lee",173.97,Automotive,North,14,193,1965.51,"Never received my order, no response.",Online
+2024-05-01,CUST2000,"Rachel Lewis",157.97,Food & Beverage,North,1,304,109.95,"Product arrived late and was missing parts.",Phone

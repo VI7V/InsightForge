@@ -1,0 +1,45 @@
+/* AI Insights tab cards */
+.insights-tab-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;
+}
+
+.insights-tab-card {
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+  padding: 18px 12px; border-radius: var(--radius-lg);
+  background: var(--bg-card); border: 1px solid var(--border);
+  cursor: pointer; font-family: var(--font-body); transition: all 0.2s;
+  position: relative;
+}
+.insights-tab-card:hover { border-color: var(--tab-color, var(--accent)); transform: translateY(-2px); }
+.insights-tab-card--active {
+  border-color: var(--tab-color, var(--accent));
+  background: color-mix(in srgb, var(--tab-color, var(--accent)) 8%, var(--bg-card));
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--tab-color, var(--accent)) 20%, transparent);
+}
+.insights-tab-card__icon { font-size: 26px; }
+.insights-tab-card__label { font-size: 13px; font-weight: 500; color: var(--text-secondary); text-align: center; }
+.insights-tab-card--active .insights-tab-card__label { color: var(--text-primary); font-weight: 600; }
+.insights-tab-card__dot {
+  position: absolute; bottom: 10px; right: 10px;
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--tab-color, var(--accent));
+}
+
+/* Executive summary */
+.exec-summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.exec-section__title {
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px;
+  color: var(--text-muted); margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
+}
+.exec-row { display: flex; justify-content: space-between; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--border); }
+.exec-row:last-child { border-bottom: none; }
+.exec-row__label { font-size: 13px; color: var(--text-secondary); }
+.exec-row__value { font-size: 13px; font-weight: 600; color: var(--text-primary); font-family: var(--font-mono); }
+
+@media (max-width: 900px) {
+  .insights-tab-grid { grid-template-columns: repeat(2, 1fr); }
+  .exec-summary-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 500px) {
+  .insights-tab-grid { grid-template-columns: 1fr 1fr; }
+}

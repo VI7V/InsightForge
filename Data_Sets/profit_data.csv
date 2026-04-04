@@ -1,0 +1,1001 @@
+date,customer_id,customer_name,sales_amount,product_category,region,purchase_frequency,recency_days,customer_lifetime_value,feedback_text,channel
+2024-11-28,CUST1001,"Samuel Walker",188.30,Books,West,12,106,2020.08,"Five stars for quality and service!",In-Store
+2024-03-03,CUST1002,"Noah Harris",338.80,Electronics,Central,2,193,546.82,"Outstanding customer support team!",Phone
+2024-03-27,CUST1003,"Laura Edwards",394.74,Food & Beverage,South,3,94,1072.90,"Best purchase I've made this year!",Email
+2024-03-06,CUST1004,"Grace Lee",378.87,Clothing,South,15,350,3693.98,"Top notch quality and fast delivery!",Mobile App
+2023-12-17,CUST1005,"Henry Taylor",250.23,Sports,Central,9,287,1605.73,"Absolutely love it, perfect product!",Mobile App
+2023-02-23,CUST1006,"Noah Harris",352.38,Beauty,South,3,90,962.00,"Absolutely love it, perfect product!",Online
+2024-07-09,CUST1007,"Liam Thomas",349.78,Home & Garden,North,7,194,1973.46,"Wonderful experience, very satisfied!",Online
+2024-11-24,CUST1008,"Victor Young",197.43,Beauty,Central,10,110,1757.13,"Product is okay but not worth the price.",Online
+2024-11-24,CUST1009,"Eva Martinez",188.77,Electronics,South,20,234,2891.96,"Amazing value for money, will buy again!",Online
+2024-07-11,CUST1010,"Hannah Phillips",297.05,Beauty,North,2,17,584.00,"Superb quality and quick shipping!",Email
+2023-01-31,CUST1011,"Noah Harris",274.63,Health,East,3,100,741.50,"Average product, nothing special about it.",Email
+2023-10-29,CUST1012,"Samuel Walker",207.44,Automotive,South,8,290,1178.26,"Five stars for quality and service!",In-Store
+2023-11-16,CUST1013,"Samuel Walker",216.43,Health,East,9,230,1499.86,"Product broke after one week, very disappointed.",Phone
+2024-10-29,CUST1014,"Victor Young",186.44,Automotive,South,7,358,837.86,"Shipping was slow but product quality is great.",Phone
+2023-01-01,CUST1015,"Henry Taylor",287.34,Health,West,4,19,1127.52,"Excellent product, very happy with my purchase!",Phone
+2023-08-22,CUST1016,"Rachel Lewis",234.25,Food & Beverage,West,6,65,1314.14,"Product is okay but not worth the price.",In-Store
+2023-06-10,CUST1017,"Xavier Wright",405.56,Toys,West,13,217,4128.20,"Fantastic experience from start to finish!",Online
+2023-08-23,CUST1018,"Julia Parker",254.65,Clothing,Central,18,268,3355.27,"Fast delivery and great quality.",Email
+2023-05-28,CUST1019,"James Davis",412.12,Sports,West,9,57,3497.66,"Works as described, nothing more nothing less.",In-Store
+2023-11-22,CUST1020,"Liam Thomas",193.49,Food & Beverage,East,16,34,2990.58,"Fantastic experience from start to finish!",Phone
+2024-04-23,CUST1021,"Zoe Green",414.42,Clothing,Central,6,310,1715.70,"Top notch quality and fast delivery!",Mobile App
+2024-06-15,CUST1022,"James Davis",420.74,Electronics,West,20,317,5747.31,"Will definitely order again soon!",Email
+2024-05-30,CUST1023,"David Brown",382.97,Food & Beverage,East,9,24,3364.01,"Absolutely love it, perfect product!",Phone
+2023-01-06,CUST1024,"Carol White",308.61,Automotive,Central,11,303,2366.11,"Stopped working after just two days.",Mobile App
+2024-05-05,CUST1025,"Hannah Phillips",467.86,Books,North,9,17,4139.16,"Excellent product, very happy with my purchase!",In-Store
+2024-07-30,CUST1026,"Wendy King",321.84,Toys,South,14,159,3789.34,"Highly recommend to everyone!",Online
+2023-04-24,CUST1027,"Liam Thomas",439.35,Books,West,8,183,2871.59,"Fantastic experience from start to finish!",In-Store
+2024-03-22,CUST1028,"Xavier Wright",369.62,Clothing,North,10,105,3308.10,"Highly recommend to everyone!",Mobile App
+2024-11-14,CUST1029,"Iris Chen",240.10,Home & Garden,North,9,15,2128.49,"Fantastic experience from start to finish!",Phone
+2024-05-22,CUST1030,"Hannah Phillips",439.88,Books,South,18,299,5550.41,"Fast delivery and great quality.",Email
+2024-08-04,CUST1031,"Beth Nelson",295.04,Food & Beverage,West,5,307,1022.31,"Will definitely order again soon!",Mobile App
+2023-08-17,CUST1032,"Chris Carter",272.72,Clothing,West,16,279,3146.10,"Five stars for quality and service!",Mobile App
+2024-08-17,CUST1033,"Ian Campbell",248.75,Sports,West,14,108,3106.39,"Top notch quality and fast delivery!",Mobile App
+2024-04-10,CUST1034,"Fiona Roberts",377.73,Food & Beverage,South,9,324,2298.11,"Product is okay but not worth the price.",Email
+2024-04-05,CUST1035,"Karen Anderson",434.93,Health,North,13,19,5546.66,"Outstanding customer support team!",In-Store
+2023-06-06,CUST1036,"Bob Smith",390.04,Toys,North,16,111,5547.93,"Best purchase I've made this year!",Email
+2024-09-05,CUST1037,"Laura Edwards",230.17,Food & Beverage,West,17,85,3580.29,"Wonderful experience, very satisfied!",Email
+2024-12-06,CUST1038,"Diana Mitchell",267.99,Toys,East,10,118,2363.67,"Exceeded all my expectations completely!",In-Store
+2024-12-20,CUST1039,"Uma Allen",278.24,Electronics,South,3,261,616.86,"Best purchase I've made this year!",Mobile App
+2023-10-20,CUST1040,"Alice Johnson",186.61,Toys,Central,15,14,2759.96,"Absolutely love it, perfect product!",In-Store
+2024-07-20,CUST1041,"Hannah Phillips",342.53,Sports,Central,2,299,480.23,"Will definitely order again soon!",Phone
+2024-04-03,CUST1042,"Tina Hall",426.45,Home & Garden,North,12,312,3520.77,"Complete waste of money, avoid this.",Phone
+2024-11-17,CUST1043,"Nancy Stewart",255.47,Automotive,Central,20,329,3428.41,"Amazing value for money, will buy again!",In-Store
+2023-01-20,CUST1044,"Peter Garcia",299.26,Automotive,South,5,45,1428.97,"Shipping was slow but product quality is great.",Mobile App
+2023-11-25,CUST1045,"Bob Smith",197.43,Home & Garden,Central,4,243,597.82,"Absolutely love it, perfect product!",Phone
+2024-12-09,CUST1046,"Frank Wilson",287.12,Clothing,South,8,79,2115.50,"Stopped working after just two days.",Mobile App
+2023-02-08,CUST1047,"David Brown",400.93,Books,West,12,63,4508.06,"Five stars for quality and service!",Email
+2024-08-30,CUST1048,"Frank Wilson",314.02,Home & Garden,South,11,25,3367.86,"Best purchase I've made this year!",Email
+2023-11-22,CUST1049,"Karen Anderson",260.71,Home & Garden,West,6,192,1263.92,"Fantastic experience from start to finish!",In-Store
+2023-10-19,CUST1050,"Peter Garcia",221.22,Automotive,South,3,268,485.80,"Outstanding customer support team!",Mobile App
+2024-07-26,CUST1051,"James Davis",315.01,Electronics,East,19,107,5344.77,"Excellent product, very happy with my purchase!",Phone
+2024-10-13,CUST1052,"Ian Campbell",187.81,Sports,North,7,4,1309.41,"Exceeded all my expectations completely!",In-Store
+2024-06-20,CUST1053,"Mike Collins",403.14,Food & Beverage,East,5,87,1840.33,"Wonderful experience, very satisfied!",In-Store
+2024-12-09,CUST1054,"Alice Johnson",266.70,Sports,North,20,282,3829.81,"Top notch quality and fast delivery!",Mobile App
+2023-07-24,CUST1055,"Peter Garcia",329.95,Beauty,South,7,221,1799.22,"Excellent product, very happy with my purchase!",Mobile App
+2024-03-30,CUST1056,"Chris Carter",508.34,Food & Beverage,West,20,341,6699.92,"Best purchase I've made this year!",Phone
+2023-04-26,CUST1057,"Uma Allen",418.52,Automotive,West,20,80,7700.77,"Superb quality and quick shipping!",Online
+2023-11-25,CUST1058,"Noah Harris",246.30,Beauty,West,20,86,4502.36,"Wonderful experience, very satisfied!",Mobile App
+2023-08-06,CUST1059,"Laura Edwards",313.46,Sports,South,15,233,3606.36,"Great product, easy to use!",Email
+2023-06-22,CUST1060,"Uma Allen",411.25,Sports,West,2,292,582.33,"Wonderful experience, very satisfied!",Online
+2024-03-29,CUST1061,"George Turner",466.10,Home & Garden,North,17,83,7266.03,"Average product, nothing special about it.",Phone
+2024-07-28,CUST1062,"Hannah Phillips",342.39,Health,West,8,159,2303.60,"Great product, easy to use!",Mobile App
+2023-11-10,CUST1063,"Fiona Roberts",258.28,Home & Garden,South,11,323,1923.41,"Exceeded all my expectations completely!",Online
+2024-10-04,CUST1064,"Carol White",231.08,Sports,East,2,61,433.97,"Absolutely love it, perfect product!",Mobile App
+2023-03-05,CUST1065,"Chris Carter",433.95,Home & Garden,Central,8,258,2575.93,"Amazing value for money, will buy again!",Online
+2023-07-17,CUST1066,"Peter Garcia",372.31,Electronics,North,2,111,661.97,"Superb quality and quick shipping!",Online
+2024-12-18,CUST1067,"Nancy Stewart",283.29,Beauty,South,17,234,3689.00,"Wonderful experience, very satisfied!",Email
+2023-11-18,CUST1068,"Laura Edwards",212.64,Sports,West,10,326,1433.19,"Amazing value for money, will buy again!",In-Store
+2023-12-05,CUST1069,"Quinn Robinson",249.22,Automotive,East,20,232,3828.02,"Exceeded all my expectations completely!",Phone
+2023-06-22,CUST1070,"Peter Garcia",410.35,Food & Beverage,East,15,5,6124.47,"Exceeded all my expectations completely!",Email
+2023-10-16,CUST1071,"Hannah Phillips",195.46,Beauty,South,10,317,1334.99,"Highly recommend to everyone!",Mobile App
+2023-02-24,CUST1072,"Liam Thomas",421.57,Food & Beverage,East,4,249,1266.40,"Wonderful experience, very satisfied!",Mobile App
+2023-10-04,CUST1073,"Quinn Robinson",248.08,Toys,South,10,30,2406.38,"Five stars for quality and service!",Online
+2023-06-21,CUST1074,"Nancy Stewart",376.54,Clothing,East,7,214,2071.72,"Fast delivery and great quality.",Online
+2024-11-03,CUST1075,"Kevin Evans",242.27,Health,East,6,115,1286.45,"Wonderful experience, very satisfied!",Mobile App
+2023-03-08,CUST1076,"Henry Taylor",522.06,Toys,South,8,353,2702.18,"Confusing setup process but works once done.",Email
+2024-06-26,CUST1077,"Rachel Lewis",460.24,Toys,North,6,332,1844.64,"Wonderful experience, very satisfied!",Online
+2024-07-28,CUST1078,"Xavier Wright",361.42,Clothing,West,4,61,1357.49,"Five stars for quality and service!",Mobile App
+2023-07-31,CUST1079,"Julia Parker",383.65,Electronics,West,13,306,3461.29,"Wonderful experience, very satisfied!",In-Store
+2023-08-02,CUST1080,"Diana Mitchell",284.13,Beauty,East,10,46,2710.60,"Mediocre quality for the price paid.",Phone
+2024-03-02,CUST1081,"Fiona Roberts",469.32,Toys,East,4,327,1263.41,"Fast delivery and great quality.",Online
+2024-11-04,CUST1082,"David Brown",245.30,Toys,South,20,175,4047.45,"Superb quality and quick shipping!",Phone
+2024-04-01,CUST1083,"Laura Edwards",512.46,Automotive,Central,2,92,930.63,"Great product, easy to use!",In-Store
+2024-08-27,CUST1084,"Samuel Walker",307.13,Automotive,North,14,52,4076.23,"Highly recommend to everyone!",Mobile App
+2024-04-11,CUST1085,"Yara Scott",488.12,Toys,South,16,150,6638.43,"Excellent product, very happy with my purchase!",Mobile App
+2023-06-10,CUST1086,"Xavier Wright",489.54,Electronics,South,11,273,3914.85,"Wonderful experience, very satisfied!",In-Store
+2023-06-13,CUST1087,"Fiona Roberts",390.67,Home & Garden,North,16,285,4469.26,"Best purchase I've made this year!",Online
+2024-08-30,CUST1088,"Ethan Perez",270.68,Food & Beverage,South,14,286,2705.72,"Instructions were unclear but product works well.",Email
+2024-06-15,CUST1089,"Hannah Phillips",492.71,Food & Beverage,Central,16,152,6685.09,"Excellent product, very happy with my purchase!",Email
+2024-06-12,CUST1090,"Chris Carter",414.58,Beauty,East,16,209,5246.92,"Amazing value for money, will buy again!",Phone
+2023-10-26,CUST1091,"Aaron Baker",259.67,Electronics,East,16,220,3240.68,"Five stars for quality and service!",Mobile App
+2024-04-04,CUST1092,"Fiona Roberts",422.85,Home & Garden,Central,16,280,4871.23,"Top notch quality and fast delivery!",In-Store
+2023-03-27,CUST1093,"Ethan Perez",539.11,Beauty,West,13,237,5347.43,"Will definitely order again soon!",Mobile App
+2024-04-02,CUST1094,"Kevin Evans",572.73,Food & Beverage,South,6,260,2542.92,"Fantastic experience from start to finish!",In-Store
+2024-07-05,CUST1095,"Yara Scott",363.81,Beauty,North,6,12,2156.67,"Wonderful experience, very satisfied!",Online
+2024-07-15,CUST1096,"Liam Thomas",377.24,Health,East,6,275,1640.99,"Exceeded all my expectations completely!",Email
+2024-05-24,CUST1097,"Ethan Perez",515.83,Books,East,8,135,3569.54,"Best purchase I've made this year!",Email
+2023-03-12,CUST1098,"Rachel Lewis",462.10,Food & Beverage,West,14,351,4198.64,"Exceeded all my expectations completely!",In-Store
+2024-12-11,CUST1099,"Beth Nelson",335.76,Beauty,Central,1,205,266.93,"Amazing value for money, will buy again!",Online
+2024-04-02,CUST1100,"Beth Nelson",507.83,Health,West,5,342,1670.76,"Highly recommend to everyone!",Email
+2024-04-16,CUST1101,"Victor Young",557.95,Automotive,West,13,147,6187.11,"Wonderful experience, very satisfied!",Phone
+2024-07-28,CUST1102,"Victor Young",322.66,Automotive,North,19,263,4518.21,"Highly recommend to everyone!",Phone
+2023-10-16,CUST1103,"David Brown",269.43,Clothing,Central,8,244,1629.51,"Wonderful experience, very satisfied!",Mobile App
+2024-04-25,CUST1104,"Uma Allen",501.62,Sports,South,20,197,8056.02,"Wonderful experience, very satisfied!",In-Store
+2024-04-25,CUST1105,"Tina Hall",586.45,Books,East,6,337,2332.90,"Five stars for quality and service!",Email
+2024-01-19,CUST1106,"Zoe Green",394.54,Sports,North,2,305,548.41,"Wonderful experience, very satisfied!",Mobile App
+2024-01-31,CUST1107,"Aaron Baker",427.56,Toys,South,10,183,3493.17,"Great product, easy to use!",In-Store
+2024-12-10,CUST1108,"Eva Martinez",295.84,Toys,Central,20,116,5230.45,"Top notch quality and fast delivery!",In-Store
+2024-09-19,CUST1109,"Karen Anderson",242.98,Food & Beverage,South,6,242,1105.07,"Wonderful experience, very satisfied!",Email
+2024-03-20,CUST1110,"Ethan Perez",546.45,Beauty,East,9,320,3344.27,"Great product, easy to use!",Online
+2023-04-08,CUST1111,"Grace Lee",502.26,Food & Beverage,East,7,90,3199.40,"Wonderful experience, very satisfied!",Online
+2023-04-12,CUST1112,"Grace Lee",520.28,Clothing,East,1,191,420.91,"Excellent product, very happy with my purchase!",Online
+2024-03-06,CUST1113,"Bob Smith",464.68,Sports,Central,10,107,4149.59,"Great product, easy to use!",Email
+2023-12-02,CUST1114,"Ethan Perez",340.71,Electronics,West,3,330,684.83,"Shipping was slow but product quality is great.",Email
+2023-09-02,CUST1115,"Fiona Roberts",287.23,Home & Garden,East,3,108,768.63,"Will definitely order again soon!",Email
+2024-09-12,CUST1116,"Ethan Perez",263.79,Automotive,West,13,141,2945.74,"It does the job but nothing exceptional.",In-Store
+2023-12-01,CUST1117,"James Davis",281.93,Sports,North,2,57,531.72,"Highly recommend to everyone!",Mobile App
+2023-01-21,CUST1118,"Rachel Lewis",386.43,Books,West,14,95,4896.07,"Fast delivery and great quality.",Online
+2023-05-05,CUST1119,"Aaron Baker",467.40,Beauty,East,2,151,793.65,"Absolutely love it, perfect product!",In-Store
+2024-12-19,CUST1120,"Victor Young",291.67,Electronics,West,16,273,3392.71,"Outstanding customer support team!",Online
+2024-11-17,CUST1121,"Yara Scott",283.70,Sports,South,11,111,2774.30,"Will definitely order again soon!",In-Store
+2024-08-19,CUST1122,"Olivia Martin",367.87,Beauty,West,6,105,1975.46,"Wonderful experience, very satisfied!",Email
+2023-07-02,CUST1123,"Chris Carter",355.96,Food & Beverage,West,18,174,5292.41,"Five stars for quality and service!",Online
+2024-02-28,CUST1124,"Ian Campbell",435.75,Health,South,11,6,4764.49,"Wonderful experience, very satisfied!",Phone
+2024-02-25,CUST1125,"Uma Allen",418.96,Health,West,15,300,4399.08,"Superb quality and quick shipping!",Mobile App
+2023-01-11,CUST1126,"Ian Campbell",374.47,Beauty,Central,9,318,2298.50,"Absolutely love it, perfect product!",In-Store
+2024-03-01,CUST1127,"Bob Smith",550.59,Health,West,17,133,8115.15,"It does the job but nothing exceptional.",Phone
+2024-12-13,CUST1128,"Diana Mitchell",288.24,Toys,West,20,105,5159.50,"Fast delivery and great quality.",Mobile App
+2024-04-08,CUST1129,"Mia Jackson",479.42,Health,West,16,46,7317.87,"Amazing value for money, will buy again!",Mobile App
+2024-02-11,CUST1130,"Victor Young",423.03,Electronics,East,15,221,4943.11,"Product broke after one week, very disappointed.",Phone
+2024-12-18,CUST1131,"Aaron Baker",362.99,Books,North,12,226,3371.45,"Absolutely love it, perfect product!",In-Store
+2023-11-14,CUST1132,"Frank Wilson",235.98,Beauty,East,5,312,811.77,"Amazing value for money, will buy again!",In-Store
+2023-07-08,CUST1133,"Rachel Lewis",410.60,Health,East,18,211,5831.34,"Exceeded all my expectations completely!",Online
+2024-07-05,CUST1134,"Olivia Martin",446.41,Health,Central,6,210,2115.98,"Wonderful experience, very satisfied!",In-Store
+2023-05-03,CUST1135,"Hannah Phillips",587.97,Electronics,South,14,229,6346.55,"Superb quality and quick shipping!",Email
+2023-07-13,CUST1136,"Mike Collins",431.95,Sports,Central,6,19,2542.46,"Top notch quality and fast delivery!",Online
+2024-01-14,CUST1137,"Rachel Lewis",442.97,Toys,West,16,200,5670.02,"Average product, nothing special about it.",Phone
+2023-01-07,CUST1138,"Zoe Green",360.96,Food & Beverage,North,7,46,2410.49,"Excellent product, very happy with my purchase!",Mobile App
+2023-01-23,CUST1139,"David Brown",413.29,Toys,Central,19,301,5488.90,"Five stars for quality and service!",In-Store
+2024-03-02,CUST1140,"Iris Chen",562.02,Health,North,19,68,9952.25,"Average product, nothing special about it.",Online
+2024-01-01,CUST1141,"David Brown",423.08,Home & Garden,South,8,346,2213.55,"Highly recommend to everyone!",Online
+2024-11-05,CUST1142,"Laura Edwards",245.19,Food & Beverage,North,9,333,1471.88,"Fantastic experience from start to finish!",Phone
+2024-07-09,CUST1143,"Samuel Walker",351.68,Electronics,North,3,328,708.99,"Best purchase I've made this year!",In-Store
+2023-01-12,CUST1144,"Mia Jackson",387.53,Beauty,Central,18,215,5475.80,"Amazing value for money, will buy again!",Email
+2024-01-03,CUST1145,"Carol White",370.25,Electronics,West,11,66,3803.95,"Five stars for quality and service!",Email
+2024-12-03,CUST1146,"Laura Edwards",385.90,Beauty,Central,14,131,4694.86,"Great product, easy to use!",Online
+2023-07-02,CUST1147,"Liam Thomas",386.96,Clothing,West,4,248,1163.98,"Best purchase I've made this year!",Online
+2023-12-30,CUST1148,"Samuel Walker",357.13,Books,North,3,91,973.89,"Exceeded all my expectations completely!",Online
+2023-01-15,CUST1149,"George Turner",450.21,Health,East,13,314,4014.97,"Highly recommend to everyone!",In-Store
+2023-03-28,CUST1150,"Quinn Robinson",495.97,Automotive,West,17,226,6525.97,"Excellent product, very happy with my purchase!",Mobile App
+2024-08-31,CUST1151,"Laura Edwards",323.57,Automotive,East,13,335,2797.26,"Best purchase I've made this year!",In-Store
+2023-03-09,CUST1152,"Eva Martinez",495.98,Health,North,1,296,349.17,"Fast delivery and great quality.",In-Store
+2023-10-28,CUST1153,"Nancy Stewart",250.18,Food & Beverage,South,4,20,980.71,"Wonderful experience, very satisfied!",In-Store
+2023-10-24,CUST1154,"Ethan Perez",304.31,Books,South,8,358,1562.94,"Very poor customer service experience.",Mobile App
+2023-07-29,CUST1155,"Quinn Robinson",360.17,Sports,East,1,315,246.72,"Wonderful experience, very satisfied!",In-Store
+2024-10-19,CUST1156,"Beth Nelson",274.77,Automotive,West,8,257,1633.23,"Amazing value for money, will buy again!",Mobile App
+2024-08-02,CUST1157,"Karen Anderson",342.70,Electronics,Central,5,314,1175.46,"Five stars for quality and service!",Online
+2024-06-10,CUST1158,"Kevin Evans",478.65,Home & Garden,South,17,169,6761.89,"Fantastic experience from start to finish!",Online
+2024-08-27,CUST1159,"Diana Mitchell",333.51,Home & Garden,North,9,52,2845.51,"Highly recommend to everyone!",Phone
+2024-09-02,CUST1160,"Bob Smith",279.09,Beauty,North,9,78,2315.89,"Product is okay but not worth the price.",Mobile App
+2024-12-12,CUST1161,"Xavier Wright",338.51,Beauty,West,6,253,1517.20,"Will definitely order again soon!",Phone
+2024-09-02,CUST1162,"Bob Smith",250.42,Home & Garden,East,3,318,512.36,"Five stars for quality and service!",Email
+2023-07-15,CUST1163,"Aaron Baker",373.33,Electronics,Central,3,62,1050.55,"Highly recommend to everyone!",Online
+2024-02-29,CUST1164,"Chris Carter",422.27,Books,West,13,273,3990.87,"Decent product, could be better packaged.",Phone
+2024-08-03,CUST1165,"David Brown",379.70,Beauty,Central,17,76,5964.33,"Excellent product, very happy with my purchase!",Mobile App
+2024-08-31,CUST1166,"Beth Nelson",354.56,Health,North,15,35,5132.26,"Absolutely love it, perfect product!",In-Store
+2023-05-10,CUST1167,"Beth Nelson",548.28,Books,North,16,169,7289.93,"Outstanding customer support team!",Online
+2023-06-03,CUST1168,"Julia Parker",479.27,Sports,South,8,127,3347.22,"Great product, easy to use!",Online
+2023-11-21,CUST1169,"Chris Carter",265.23,Toys,North,19,222,3920.63,"Great product, easy to use!",Phone
+2024-11-09,CUST1170,"Nancy Stewart",324.08,Electronics,South,14,42,4346.56,"Will definitely order again soon!",Online
+2024-05-17,CUST1171,"Ethan Perez",611.03,Food & Beverage,Central,16,13,9649.39,"Top notch quality and fast delivery!",Mobile App
+2024-09-09,CUST1172,"Fiona Roberts",298.21,Toys,Central,2,199,477.73,"Outstanding customer support team!",Email
+2023-07-22,CUST1173,"Kevin Evans",441.03,Beauty,West,9,119,3496.93,"Will definitely order again soon!",Phone
+2023-05-22,CUST1174,"George Turner",635.43,Health,South,9,35,5518.71,"Excellent product, very happy with my purchase!",Phone
+2024-02-21,CUST1175,"Diana Mitchell",507.61,Food & Beverage,Central,19,363,6143.60,"Works as described, nothing more nothing less.",Email
+2023-03-23,CUST1176,"Tina Hall",636.51,Health,West,12,343,5018.24,"Five stars for quality and service!",In-Store
+2024-02-25,CUST1177,"Ian Campbell",433.24,Books,West,8,334,2308.30,"Absolutely love it, perfect product!",Email
+2023-03-17,CUST1178,"David Brown",520.33,Beauty,Central,14,75,6738.27,"Best purchase I've made this year!",Phone
+2024-02-27,CUST1179,"James Davis",491.60,Automotive,East,6,84,2701.83,"Fantastic experience from start to finish!",Online
+2023-03-13,CUST1180,"Carol White",552.24,Electronics,West,5,228,2131.65,"Five stars for quality and service!",Online
+2023-02-26,CUST1181,"Kevin Evans",508.07,Clothing,North,10,115,4496.42,"Top notch quality and fast delivery!",In-Store
+2024-07-25,CUST1182,"Nancy Stewart",487.35,Toys,Central,18,208,6947.66,"Excellent product, very happy with my purchase!",Phone
+2023-06-27,CUST1183,"Wendy King",460.15,Beauty,East,8,215,2889.74,"Amazing value for money, will buy again!",Email
+2023-06-05,CUST1184,"Wendy King",475.28,Clothing,Central,19,52,8560.74,"Excellent product, very happy with my purchase!",Email
+2023-05-21,CUST1185,"Alice Johnson",563.31,Beauty,Central,20,139,9700.20,"Will definitely order again soon!",In-Store
+2024-01-17,CUST1186,"Nancy Stewart",421.38,Sports,North,1,111,374.61,"Outstanding customer support team!",In-Store
+2024-11-07,CUST1187,"Nancy Stewart",298.11,Beauty,East,14,15,4110.94,"Best purchase I've made this year!",Online
+2023-08-29,CUST1188,"Carol White",326.68,Food & Beverage,North,12,76,3622.23,"Outstanding customer support team!",In-Store
+2023-04-26,CUST1189,"Henry Taylor",646.41,Electronics,West,17,355,7087.89,"Absolutely love it, perfect product!",Online
+2023-12-31,CUST1190,"Bob Smith",331.39,Beauty,South,16,266,3891.84,"Outstanding customer support team!",Online
+2023-02-10,CUST1191,"Liam Thomas",512.58,Automotive,West,4,104,1837.09,"Works as described, nothing more nothing less.",Email
+2023-04-23,CUST1192,"Quinn Robinson",654.64,Clothing,East,6,209,3106.92,"Best purchase I've made this year!",Online
+2024-03-27,CUST1193,"Zoe Green",569.39,Books,East,11,119,5517.96,"Highly recommend to everyone!",Email
+2024-10-09,CUST1194,"Fiona Roberts",313.29,Toys,South,17,211,4202.16,"Superb quality and quick shipping!",Online
+2023-07-05,CUST1195,"Peter Garcia",419.66,Food & Beverage,North,15,60,5917.21,"Great product, easy to use!",Email
+2023-04-17,CUST1196,"Mike Collins",605.08,Sports,West,14,205,6734.54,"Great product, easy to use!",Phone
+2024-02-10,CUST1197,"Olivia Martin",515.60,Automotive,North,8,153,3493.71,"Absolutely love it, perfect product!",Email
+2024-08-25,CUST1198,"James Davis",379.76,Books,South,15,233,4369.14,"Confusing setup process but works once done.",Mobile App
+2023-04-14,CUST1199,"Eva Martinez",668.94,Clothing,North,1,133,579.97,"Five stars for quality and service!",Online
+2023-02-15,CUST1200,"Xavier Wright",471.48,Sports,North,2,329,632.73,"Five stars for quality and service!",Online
+2023-02-07,CUST1201,"Julia Parker",528.53,Clothing,East,18,117,8400.46,"Shipping was slow but product quality is great.",In-Store
+2023-02-10,CUST1202,"Noah Harris",593.86,Health,East,2,197,953.74,"Absolutely love it, perfect product!",In-Store
+2024-01-20,CUST1203,"Peter Garcia",510.33,Automotive,East,9,234,3518.22,"Exceeded all my expectations completely!",Email
+2023-10-04,CUST1204,"Julia Parker",332.86,Clothing,West,10,274,2416.56,"Top notch quality and fast delivery!",Phone
+2023-08-17,CUST1205,"Henry Taylor",324.42,Food & Beverage,South,11,148,3040.46,"Best purchase I've made this year!",Mobile App
+2023-07-06,CUST1206,"Mia Jackson",518.80,Clothing,East,5,210,2049.26,"Top notch quality and fast delivery!",Online
+2024-08-12,CUST1207,"Iris Chen",373.93,Beauty,South,20,356,4816.22,"Instructions were unclear but product works well.",In-Store
+2024-08-26,CUST1208,"Bob Smith",328.77,Electronics,West,8,323,1780.62,"Fast delivery and great quality.",Mobile App
+2024-05-24,CUST1209,"Frank Wilson",677.72,Food & Beverage,South,18,87,11137.65,"Superb quality and quick shipping!",Online
+2023-07-09,CUST1210,"Mia Jackson",473.78,Books,West,13,211,4859.56,"Great product, easy to use!",Mobile App
+2024-09-21,CUST1211,"Yara Scott",284.97,Automotive,West,14,134,3454.98,"Amazing value for money, will buy again!",Phone
+2023-11-11,CUST1212,"Mia Jackson",334.86,Sports,West,14,342,3084.73,"Best purchase I've made this year!",Online
+2024-07-31,CUST1213,"Carol White",438.22,Toys,South,7,204,2441.76,"Wonderful experience, very satisfied!",Email
+2024-02-02,CUST1214,"Zoe Green",503.74,Home & Garden,South,2,123,883.56,"Best purchase I've made this year!",Mobile App
+2024-08-07,CUST1215,"Samuel Walker",433.66,Clothing,West,12,219,4064.26,"Very poor customer service experience.",Phone
+2024-06-30,CUST1216,"Aaron Baker",464.73,Electronics,Central,5,364,1477.84,"Best purchase I've made this year!",Email
+2023-05-25,CUST1217,"Rachel Lewis",581.49,Clothing,West,18,271,7630.31,"Amazing value for money, will buy again!",In-Store
+2023-10-04,CUST1218,"Ethan Perez",257.56,Home & Garden,West,1,291,182.61,"Exceeded all my expectations completely!",Online
+2023-06-20,CUST1219,"David Brown",462.97,Home & Garden,North,19,227,6799.64,"Great product, easy to use!",Mobile App
+2023-07-13,CUST1220,"Hannah Phillips",411.87,Sports,East,11,330,3035.48,"Fast delivery and great quality.",Email
+2023-06-01,CUST1221,"Quinn Robinson",478.10,Home & Garden,West,3,275,1039.87,"Will definitely order again soon!",Email
+2024-05-11,CUST1222,"Fiona Roberts",518.03,Toys,South,1,108,462.08,"Outstanding customer support team!",Phone
+2024-05-31,CUST1223,"Iris Chen",600.04,Toys,East,10,171,4974.33,"Confusing setup process but works once done.",In-Store
+2023-03-01,CUST1224,"Iris Chen",608.87,Health,Central,9,306,3803.00,"Great product, easy to use!",Online
+2023-02-27,CUST1225,"Victor Young",494.28,Health,South,11,248,4088.68,"Fast delivery and great quality.",Phone
+2023-08-21,CUST1226,"Eva Martinez",389.78,Beauty,South,10,211,3075.36,"Excellent product, very happy with my purchase!",Email
+2024-03-22,CUST1227,"George Turner",529.25,Automotive,South,16,295,5969.94,"It does the job but nothing exceptional.",Online
+2023-12-23,CUST1228,"Quinn Robinson",408.72,Home & Garden,North,9,186,2994.28,"Will definitely order again soon!",Online
+2024-01-24,CUST1229,"Eva Martinez",464.98,Beauty,South,9,364,2661.55,"Will definitely order again soon!",Mobile App
+2024-03-01,CUST1230,"James Davis",570.34,Health,West,1,326,384.41,"Total disappointment, requesting a refund now.",Email
+2023-04-19,CUST1231,"Noah Harris",584.71,Food & Beverage,North,8,47,4457.83,"Customer service was completely unhelpful.",Email
+2023-04-24,CUST1232,"Ethan Perez",663.54,Beauty,South,13,313,5926.08,"Exceeded all my expectations completely!",In-Store
+2023-11-25,CUST1233,"Iris Chen",361.94,Health,West,13,276,3406.58,"Highly recommend to everyone!",Mobile App
+2023-04-25,CUST1234,"Kevin Evans",733.49,Home & Garden,North,13,333,6360.09,"Top notch quality and fast delivery!",Online
+2023-05-21,CUST1235,"Grace Lee",643.30,Sports,East,11,165,5908.71,"Fast delivery and great quality.",In-Store
+2024-03-07,CUST1236,"Rachel Lewis",666.82,Clothing,North,10,264,4907.80,"Top notch quality and fast delivery!",Online
+2024-08-21,CUST1237,"Zoe Green",374.85,Sports,East,10,155,3167.48,"Confusing setup process but works once done.",Phone
+2024-07-10,CUST1238,"Henry Taylor",445.45,Health,North,2,87,813.39,"Excellent product, very happy with my purchase!",In-Store
+2024-10-24,CUST1239,"Quinn Robinson",290.54,Food & Beverage,West,15,79,4013.81,"Superb quality and quick shipping!",In-Store
+2024-02-03,CUST1240,"Chris Carter",606.99,Beauty,East,18,308,7560.67,"Fast delivery and great quality.",Email
+2024-08-31,CUST1241,"Eva Martinez",433.97,Electronics,East,18,277,5647.69,"Will definitely order again soon!",Email
+2023-07-19,CUST1242,"Henry Taylor",447.43,Books,West,7,254,2336.48,"Will definitely order again soon!",In-Store
+2024-04-03,CUST1243,"Julia Parker",565.65,Books,East,9,316,3482.14,"Wonderful experience, very satisfied!",Email
+2024-08-25,CUST1244,"Samuel Walker",407.55,Electronics,South,19,111,6883.93,"Mediocre quality for the price paid.",Email
+2023-01-31,CUST1245,"Chris Carter",425.01,Sports,West,5,20,2082.55,"Absolutely love it, perfect product!",Phone
+2023-10-12,CUST1246,"Fiona Roberts",268.27,Electronics,West,2,59,504.88,"Will definitely order again soon!",Email
+2023-12-29,CUST1247,"Rachel Lewis",349.86,Home & Garden,Central,1,37,336.92,"Amazing value for money, will buy again!",Online
+2023-08-22,CUST1248,"Mike Collins",403.10,Clothing,East,15,345,3960.46,"Decent product, could be better packaged.",In-Store
+2023-03-15,CUST1249,"Carol White",615.92,Toys,North,18,99,9988.99,"Amazing value for money, will buy again!",Mobile App
+2023-06-16,CUST1250,"Victor Young",647.66,Health,North,3,286,1387.29,"Exceeded all my expectations completely!",Online
+2024-02-18,CUST1251,"Aaron Baker",2252.46,Beauty,South,16,360,23065.19,"Outstanding customer support team!",Phone
+2024-03-14,CUST1252,"Mia Jackson",2969.47,Sports,East,8,295,16747.81,"Best purchase I've made this year!",In-Store
+2024-02-09,CUST1253,"Wendy King",2259.03,Electronics,North,10,27,21980.36,"Best purchase I've made this year!",Online
+2023-07-04,CUST1254,"Olivia Martin",2296.21,Clothing,Central,2,141,3944.89,"Will definitely order again soon!",Online
+2024-12-13,CUST1255,"Olivia Martin",1911.82,Electronics,West,19,104,32546.82,"Wonderful experience, very satisfied!",Phone
+2023-10-18,CUST1256,"Alice Johnson",1474.12,Automotive,Central,8,83,10814.14,"Absolutely love it, perfect product!",In-Store
+2023-12-20,CUST1257,"Grace Lee",366.59,Health,East,2,151,622.47,"Confusing setup process but works once done.",Phone
+2023-10-06,CUST1258,"Noah Harris",355.99,Books,Central,2,57,671.40,"Top notch quality and fast delivery!",Phone
+2023-10-14,CUST1259,"Samuel Walker",323.41,Sports,East,11,62,3336.94,"Absolutely love it, perfect product!",Mobile App
+2024-11-15,CUST1260,"Kevin Evans",293.68,Home & Garden,Central,2,330,393.53,"Outstanding customer support team!",Online
+2023-12-11,CUST1261,"Zoe Green",447.08,Electronics,South,18,64,7532.40,"Five stars for quality and service!",Mobile App
+2024-09-29,CUST1262,"Rachel Lewis",381.13,Beauty,Central,3,287,815.24,"Fast delivery and great quality.",Phone
+2024-06-27,CUST1263,"Bob Smith",614.87,Food & Beverage,West,15,236,7046.41,"Average product, nothing special about it.",Online
+2023-11-28,CUST1264,"Bob Smith",365.65,Electronics,Central,3,195,883.04,"Fast delivery and great quality.",In-Store
+2023-10-17,CUST1265,"Samuel Walker",278.19,Sports,Central,4,110,990.36,"Fantastic experience from start to finish!",Online
+2023-08-06,CUST1266,"Karen Anderson",462.47,Clothing,West,6,318,1892.43,"Confusing setup process but works once done.",Online
+2024-09-03,CUST1267,"Noah Harris",367.55,Beauty,West,12,26,4295.92,"Top notch quality and fast delivery!",Online
+2023-05-08,CUST1268,"Kevin Evans",674.62,Clothing,South,8,155,4560.43,"Outstanding customer support team!",Online
+2024-02-02,CUST1269,"James Davis",515.52,Food & Beverage,West,9,102,4166.43,"Amazing value for money, will buy again!",Mobile App
+2023-09-23,CUST1270,"Mia Jackson",301.98,Beauty,West,11,90,3022.82,"Fast delivery and great quality.",Phone
+2024-12-15,CUST1271,"Tina Hall",438.91,Home & Garden,West,1,150,373.07,"Will definitely order again soon!",Phone
+2023-12-31,CUST1272,"Carol White",397.49,Automotive,East,17,128,5892.39,"Exceeded all my expectations completely!",Mobile App
+2023-12-04,CUST1273,"Kevin Evans",390.07,Automotive,West,11,132,3724.39,"Will definitely order again soon!",Email
+2023-10-20,CUST1274,"Henry Taylor",307.08,Toys,South,7,186,1749.74,"Fast delivery and great quality.",Email
+2024-04-09,CUST1275,"Uma Allen",685.79,Health,North,7,91,4363.68,"Works as described, nothing more nothing less.",Mobile App
+2023-03-12,CUST1276,"Grace Lee",673.83,Clothing,South,14,362,6018.65,"Five stars for quality and service!",Mobile App
+2024-11-07,CUST1277,"Mike Collins",353.48,Beauty,Central,19,166,5601.24,"Great product, easy to use!",Mobile App
+2024-04-25,CUST1278,"Eva Martinez",582.70,Home & Garden,Central,9,265,3854.56,"Highly recommend to everyone!",Phone
+2024-11-09,CUST1279,"Frank Wilson",369.65,Clothing,North,16,341,3897.59,"Fantastic experience from start to finish!",Mobile App
+2024-11-07,CUST1280,"Quinn Robinson",327.71,Beauty,Central,13,141,3659.54,"Outstanding customer support team!",Online
+2023-10-22,CUST1281,"Iris Chen",353.44,Food & Beverage,North,19,77,6198.28,"Top notch quality and fast delivery!",Online
+2023-05-16,CUST1282,"Frank Wilson",723.70,Automotive,West,9,237,4969.65,"Superb quality and quick shipping!",Mobile App
+2023-06-07,CUST1283,"Quinn Robinson",616.96,Toys,West,11,78,6257.21,"Best purchase I've made this year!",Online
+2023-06-18,CUST1284,"Quinn Robinson",660.36,Toys,Central,14,277,6684.16,"Superb quality and quick shipping!",Mobile App
+2024-06-29,CUST1285,"Mike Collins",624.92,Health,North,4,117,2207.22,"Works as described, nothing more nothing less.",Mobile App
+2024-11-28,CUST1286,"James Davis",399.64,Toys,North,11,284,3147.56,"Will definitely order again soon!",Mobile App
+2024-08-05,CUST1287,"James Davis",434.59,Electronics,Central,8,316,2378.08,"Fantastic experience from start to finish!",Email
+2024-05-18,CUST1288,"Noah Harris",598.39,Health,West,9,72,4997.75,"Amazing value for money, will buy again!",In-Store
+2024-07-20,CUST1289,"Wendy King",506.86,Toys,Central,15,7,7549.68,"Fast delivery and great quality.",Email
+2023-07-27,CUST1290,"Nancy Stewart",514.88,Electronics,East,6,351,2004.94,"Outstanding customer support team!",Mobile App
+2024-01-28,CUST1291,"Ian Campbell",580.15,Toys,Central,19,52,10449.66,"Works as described, nothing more nothing less.",Online
+2023-05-31,CUST1292,"David Brown",713.91,Sports,South,11,38,7554.60,"Confusing setup process but works once done.",Mobile App
+2023-01-14,CUST1293,"Rachel Lewis",455.03,Toys,North,9,150,3480.98,"Highly recommend to everyone!",Mobile App
+2024-11-16,CUST1294,"Noah Harris",316.04,Health,East,8,356,1628.24,"Exceeded all my expectations completely!",Online
+2023-09-07,CUST1295,"Ian Campbell",324.77,Sports,Central,20,174,5365.20,"Wonderful experience, very satisfied!",In-Store
+2024-11-26,CUST1296,"Samuel Walker",387.99,Beauty,Central,18,153,5915.30,"Very poor customer service experience.",Phone
+2023-10-07,CUST1297,"Samuel Walker",293.28,Beauty,Central,4,341,773.09,"Superb quality and quick shipping!",In-Store
+2024-09-14,CUST1298,"Henry Taylor",411.55,Home & Garden,West,14,22,5634.94,"Works as described, nothing more nothing less.",In-Store
+2024-10-28,CUST1299,"Liam Thomas",363.18,Books,West,20,33,7023.90,"Absolutely love it, perfect product!",Mobile App
+2023-01-10,CUST1300,"Eva Martinez",493.92,Sports,West,13,160,5393.61,"Wonderful experience, very satisfied!",In-Store
+2023-06-22,CUST1301,"Nancy Stewart",607.47,Beauty,Central,7,193,3431.60,"Superb quality and quick shipping!",In-Store
+2023-02-06,CUST1302,"Nancy Stewart",558.77,Automotive,East,5,201,2232.29,"Absolutely love it, perfect product!",Phone
+2023-04-10,CUST1303,"Nancy Stewart",715.93,Sports,West,4,272,2084.79,"Will definitely order again soon!",Mobile App
+2023-12-31,CUST1304,"Frank Wilson",465.13,Automotive,North,3,326,940.49,"Product broke after one week, very disappointed.",In-Store
+2023-01-16,CUST1305,"Quinn Robinson",522.25,Books,South,14,236,5585.99,"Top notch quality and fast delivery!",Online
+2024-10-21,CUST1306,"Samuel Walker",357.50,Sports,West,7,136,2162.16,"Exceeded all my expectations completely!",Phone
+2023-12-05,CUST1307,"Laura Edwards",403.01,Beauty,West,7,74,2612.31,"Top notch quality and fast delivery!",In-Store
+2023-07-07,CUST1308,"Samuel Walker",500.43,Beauty,East,19,75,8795.06,"Will definitely order again soon!",Mobile App
+2024-08-22,CUST1309,"Liam Thomas",423.31,Sports,Central,2,345,554.54,"Confusing setup process but works once done.",Online
+2024-06-17,CUST1310,"Iris Chen",681.31,Automotive,North,6,120,3597.32,"Highly recommend to everyone!",Online
+2023-02-12,CUST1311,"Wendy King",593.65,Sports,West,9,272,3889.59,"Amazing value for money, will buy again!",Email
+2024-06-01,CUST1312,"Tina Hall",605.17,Books,West,17,342,6769.43,"Average product, nothing special about it.",Mobile App
+2024-03-05,CUST1313,"Noah Harris",743.06,Beauty,East,4,59,2796.88,"Exceeded all my expectations completely!",Phone
+2023-01-20,CUST1314,"Tina Hall",495.30,Food & Beverage,West,11,184,4445.81,"Top notch quality and fast delivery!",Phone
+2024-05-23,CUST1315,"Hannah Phillips",644.25,Toys,West,11,248,5329.24,"Wonderful experience, very satisfied!",In-Store
+2023-11-05,CUST1316,"Ian Campbell",349.08,Books,North,20,142,5990.21,"Exceeded all my expectations completely!",Mobile App
+2024-04-04,CUST1317,"Alice Johnson",623.37,Automotive,North,20,94,11295.46,"Five stars for quality and service!",In-Store
+2024-12-20,CUST1318,"Peter Garcia",444.22,Health,North,15,351,4324.48,"It does the job but nothing exceptional.",Email
+2024-12-18,CUST1319,"Peter Garcia",470.94,Food & Beverage,West,18,300,5933.84,"Fantastic experience from start to finish!",Mobile App
+2024-07-02,CUST1320,"Karen Anderson",584.19,Electronics,Central,6,117,3095.04,"Amazing value for money, will buy again!",In-Store
+2024-04-07,CUST1321,"Alice Johnson",718.60,Clothing,West,8,39,5524.60,"Fantastic experience from start to finish!",Email
+2023-04-26,CUST1322,"Olivia Martin",800.97,Home & Garden,East,9,57,6797.83,"Product broke after one week, very disappointed.",Phone
+2024-02-14,CUST1323,"Mia Jackson",643.94,Clothing,West,18,40,11127.28,"Quality is shockingly bad for the price.",In-Store
+2023-01-19,CUST1324,"Kevin Evans",518.56,Beauty,East,12,254,4642.15,"Amazing value for money, will buy again!",In-Store
+2023-05-14,CUST1325,"Uma Allen",690.80,Food & Beverage,West,3,67,1933.55,"Highly recommend to everyone!",Phone
+2023-06-07,CUST1326,"Peter Garcia",608.52,Toys,East,3,99,1644.83,"Will definitely order again soon!",Online
+2024-02-20,CUST1327,"Karen Anderson",620.11,Toys,South,6,280,2678.88,"Fantastic experience from start to finish!",Email
+2024-04-11,CUST1328,"Frank Wilson",675.42,Food & Beverage,West,3,307,1404.20,"Absolutely love it, perfect product!",Phone
+2023-04-05,CUST1329,"Mia Jackson",802.98,Electronics,East,15,135,10418.67,"It does the job but nothing exceptional.",Mobile App
+2024-05-25,CUST1330,"Mia Jackson",648.80,Health,West,8,70,4827.07,"Wonderful experience, very satisfied!",Mobile App
+2024-05-10,CUST1331,"Fiona Roberts",673.67,Sports,South,2,307,933.71,"Absolutely love it, perfect product!",Online
+2023-12-04,CUST1332,"Nancy Stewart",427.73,Books,North,8,180,2805.91,"Best purchase I've made this year!",Email
+2023-05-13,CUST1333,"Mike Collins",806.12,Electronics,North,19,139,13187.32,"Will definitely order again soon!",Online
+2024-11-14,CUST1334,"Ethan Perez",387.09,Sports,North,8,128,2700.34,"Exceeded all my expectations completely!",In-Store
+2023-06-01,CUST1335,"Chris Carter",555.01,Automotive,West,18,34,9650.51,"Fantastic experience from start to finish!",Phone
+2023-10-05,CUST1336,"Chris Carter",401.25,Automotive,North,4,118,1415.61,"Will definitely order again soon!",Phone
+2023-02-11,CUST1337,"Iris Chen",586.59,Toys,West,12,10,6968.69,"Fast delivery and great quality.",Email
+2023-06-01,CUST1338,"Wendy King",708.36,Home & Garden,East,18,144,10914.41,"Fast delivery and great quality.",Phone
+2023-09-15,CUST1339,"Quinn Robinson",430.55,Electronics,North,4,114,1525.87,"Confusing setup process but works once done.",Email
+2023-06-13,CUST1340,"Carol White",693.52,Sports,Central,6,192,3362.18,"Superb quality and quick shipping!",Mobile App
+2024-02-26,CUST1341,"Nancy Stewart",661.14,Food & Beverage,South,7,161,3882.88,"Excellent product, very happy with my purchase!",Phone
+2024-01-09,CUST1342,"Alice Johnson",510.36,Books,North,6,86,2798.81,"Fast delivery and great quality.",Online
+2023-03-03,CUST1343,"Grace Lee",765.00,Health,North,6,352,2974.32,"Absolutely love it, perfect product!",Email
+2023-02-11,CUST1344,"David Brown",740.59,Health,Central,6,263,3274.89,"Five stars for quality and service!",Online
+2023-01-29,CUST1345,"Yara Scott",544.37,Automotive,South,19,251,7746.93,"Confusing setup process but works once done.",Email
+2024-01-28,CUST1346,"Noah Harris",546.60,Sports,West,5,55,2582.68,"Exceeded all my expectations completely!",In-Store
+2023-09-07,CUST1347,"Xavier Wright",348.97,Automotive,West,20,164,5834.78,"Superb quality and quick shipping!",Phone
+2024-01-15,CUST1348,"Karen Anderson",630.35,Electronics,South,13,346,5359.24,"Absolutely love it, perfect product!",In-Store
+2023-12-13,CUST1349,"Fiona Roberts",510.39,Food & Beverage,North,18,126,8029.46,"Excellent product, very happy with my purchase!",Phone
+2023-04-07,CUST1350,"Julia Parker",760.21,Clothing,North,12,262,6732.42,"Great product, easy to use!",Online
+2023-09-04,CUST1351,"Diana Mitchell",427.89,Sports,Central,3,142,1101.39,"Top notch quality and fast delivery!",Online
+2024-05-25,CUST1352,"Beth Nelson",665.96,Food & Beverage,North,10,292,4715.00,"Works as described, nothing more nothing less.",In-Store
+2023-09-27,CUST1353,"Beth Nelson",437.84,Toys,Central,5,148,1865.20,"Complete waste of money, avoid this.",Online
+2023-07-28,CUST1354,"Laura Edwards",571.34,Sports,East,13,66,6937.21,"Customer service was completely unhelpful.",In-Store
+2024-10-12,CUST1355,"James Davis",404.76,Books,East,9,285,2604.63,"Best purchase I've made this year!",Email
+2023-10-02,CUST1356,"Noah Harris",381.28,Health,North,2,184,622.25,"Shipping was slow but product quality is great.",In-Store
+2023-07-27,CUST1357,"David Brown",489.11,Beauty,Central,12,99,5288.26,"Fantastic experience from start to finish!",Mobile App
+2024-01-06,CUST1358,"Bob Smith",578.10,Books,South,18,260,7700.29,"Amazing value for money, will buy again!",In-Store
+2023-01-13,CUST1359,"Fiona Roberts",483.64,Food & Beverage,Central,7,6,3365.17,"Product arrived late and was missing parts.",Email
+2023-10-20,CUST1360,"Noah Harris",340.63,Home & Garden,East,14,53,4516.07,"Fantastic experience from start to finish!",Online
+2023-07-04,CUST1361,"Rachel Lewis",506.77,Electronics,Central,13,16,6482.60,"Will definitely order again soon!",Online
+2023-12-10,CUST1362,"Grace Lee",496.48,Books,North,18,259,6622.05,"Top notch quality and fast delivery!",Online
+2024-05-12,CUST1363,"James Davis",756.99,Beauty,Central,16,319,8248.16,"Product is okay but not worth the price.",In-Store
+2024-11-30,CUST1364,"David Brown",446.19,Home & Garden,North,7,327,2102.00,"Decent product, could be better packaged.",In-Store
+2024-03-03,CUST1365,"Xavier Wright",811.21,Home & Garden,West,8,26,6320.95,"Highly recommend to everyone!",In-Store
+2024-07-26,CUST1366,"Rachel Lewis",654.07,Electronics,North,8,129,4557.56,"Fantastic experience from start to finish!",In-Store
+2023-12-03,CUST1367,"Zoe Green",445.48,Toys,West,4,269,1302.58,"Great product, easy to use!",Email
+2024-03-25,CUST1368,"Grace Lee",740.46,Food & Beverage,Central,18,272,9702.99,"Will definitely order again soon!",Email
+2023-02-13,CUST1369,"Fiona Roberts",610.79,Clothing,Central,18,66,10268.60,"Quality is shockingly bad for the price.",Mobile App
+2023-04-14,CUST1370,"James Davis",811.81,Home & Garden,Central,8,195,5228.06,"Works as described, nothing more nothing less.",Online
+2023-01-15,CUST1371,"Julia Parker",585.87,Food & Beverage,East,17,158,8386.14,"Fast delivery and great quality.",In-Store
+2024-06-20,CUST1372,"Mike Collins",664.28,Clothing,North,3,10,1972.91,"Amazing value for money, will buy again!",Mobile App
+2024-06-17,CUST1373,"Rachel Lewis",618.15,Home & Garden,South,6,256,2759.42,"Decent product, could be better packaged.",Phone
+2023-06-28,CUST1374,"Karen Anderson",742.57,Automotive,Central,1,31,719.55,"Excellent product, very happy with my purchase!",Online
+2023-04-18,CUST1375,"Peter Garcia",803.18,Health,North,12,346,6303.36,"Absolutely love it, perfect product!",In-Store
+2024-06-27,CUST1376,"Diana Mitchell",591.12,Food & Beverage,South,13,206,6101.54,"Product is okay but not worth the price.",Online
+2023-12-26,CUST1377,"Julia Parker",438.12,Health,North,7,253,2290.93,"Product is okay but not worth the price.",Mobile App
+2024-04-11,CUST1378,"Olivia Martin",812.37,Automotive,South,4,316,2222.64,"Fantastic experience from start to finish!",In-Store
+2023-03-20,CUST1379,"Julia Parker",667.48,Automotive,Central,13,227,6707.51,"Absolutely love it, perfect product!",Mobile App
+2024-01-22,CUST1380,"Quinn Robinson",625.98,Electronics,South,9,357,3622.55,"Exceeded all my expectations completely!",In-Store
+2023-04-30,CUST1381,"Uma Allen",847.88,Health,East,1,83,777.51,"Exceeded all my expectations completely!",Mobile App
+2023-02-28,CUST1382,"Iris Chen",698.78,Toys,North,20,43,13374.65,"Works as described, nothing more nothing less.",In-Store
+2024-10-18,CUST1383,"Ethan Perez",436.76,Beauty,North,3,158,1103.26,"Excellent product, very happy with my purchase!",Email
+2024-05-22,CUST1384,"Iris Chen",687.45,Health,Central,3,218,1612.76,"Amazing value for money, will buy again!",In-Store
+2024-01-23,CUST1385,"Iris Chen",535.38,Clothing,North,11,22,5759.62,"Fantastic experience from start to finish!",In-Store
+2024-04-30,CUST1386,"Karen Anderson",848.81,Food & Beverage,East,8,220,5296.57,"Very poor customer service experience.",Phone
+2023-01-04,CUST1387,"Peter Garcia",613.99,Books,Central,15,303,6419.27,"Works as described, nothing more nothing less.",Email
+2023-10-26,CUST1388,"Mike Collins",330.66,Electronics,Central,11,127,3175.33,"Will definitely order again soon!",Online
+2023-12-21,CUST1389,"Bob Smith",484.15,Electronics,West,2,60,910.20,"Exceeded all my expectations completely!",Online
+2023-08-01,CUST1390,"Xavier Wright",416.63,Beauty,East,8,349,2169.81,"Confusing setup process but works once done.",In-Store
+2024-12-10,CUST1391,"Fiona Roberts",547.33,Sports,East,18,95,8916.01,"Stopped working after just two days.",Mobile App
+2024-07-04,CUST1392,"Ian Campbell",543.34,Toys,South,16,195,6998.22,"Wonderful experience, very satisfied!",In-Store
+2023-07-04,CUST1393,"Yara Scott",603.19,Health,Central,4,175,1990.53,"Will definitely order again soon!",Email
+2023-03-24,CUST1394,"George Turner",719.19,Food & Beverage,South,10,237,5487.42,"Average product, nothing special about it.",Email
+2023-12-09,CUST1395,"James Davis",491.83,Beauty,East,3,44,1410.57,"Fantastic experience from start to finish!",In-Store
+2024-08-20,CUST1396,"Diana Mitchell",541.63,Health,North,14,303,5285.23,"Wonderful experience, very satisfied!",Email
+2023-01-22,CUST1397,"Xavier Wright",514.74,Books,North,3,197,1240.01,"Very poor customer service experience.",Mobile App
+2024-07-31,CUST1398,"Frank Wilson",640.52,Food & Beverage,South,17,147,9288.18,"Fantastic experience from start to finish!",Mobile App
+2024-01-18,CUST1399,"Nancy Stewart",515.90,Home & Garden,Central,2,141,886.32,"Decent product, could be better packaged.",Email
+2024-05-02,CUST1400,"Mia Jackson",818.69,Toys,South,13,322,7215.93,"Absolutely love it, perfect product!",Mobile App
+2023-11-27,CUST1401,"Julia Parker",437.91,Health,West,8,287,2497.84,"Great product, easy to use!",Email
+2024-09-30,CUST1402,"Ethan Perez",410.72,Health,West,4,113,1457.23,"Will definitely order again soon!",Email
+2023-02-19,CUST1403,"Eva Martinez",652.17,Automotive,South,10,56,6156.48,"Exceeded all my expectations completely!",Online
+2024-06-17,CUST1404,"Hannah Phillips",714.44,Electronics,East,14,360,6401.38,"Will definitely order again soon!",Phone
+2023-03-31,CUST1405,"Aaron Baker",687.92,Electronics,Central,12,333,5506.11,"Best purchase I've made this year!",Online
+2024-01-27,CUST1406,"Fiona Roberts",573.99,Beauty,South,14,249,6034.93,"Superb quality and quick shipping!",Online
+2023-04-22,CUST1407,"Diana Mitchell",814.41,Food & Beverage,Central,11,105,8017.87,"Five stars for quality and service!",Phone
+2024-04-04,CUST1408,"Noah Harris",722.07,Electronics,North,3,15,2133.72,"Top notch quality and fast delivery!",Phone
+2024-05-17,CUST1409,"Fiona Roberts",811.95,Sports,South,11,360,5716.13,"Shipping was slow but product quality is great.",In-Store
+2023-05-29,CUST1410,"Laura Edwards",761.13,Home & Garden,East,12,333,6092.08,"Amazing value for money, will buy again!",Mobile App
+2024-09-14,CUST1411,"Iris Chen",396.18,Sports,South,10,108,3533.93,"Best purchase I've made this year!",Online
+2024-01-30,CUST1412,"Hannah Phillips",525.88,Food & Beverage,North,16,355,5427.08,"Outstanding customer support team!",Mobile App
+2023-02-24,CUST1413,"Carol White",789.08,Toys,West,5,39,3791.53,"Excellent product, very happy with my purchase!",Email
+2023-02-08,CUST1414,"Diana Mitchell",652.30,Sports,East,12,67,7303.15,"Highly recommend to everyone!",Email
+2023-05-13,CUST1415,"Karen Anderson",686.85,Automotive,Central,6,112,3659.54,"Wonderful experience, very satisfied!",Phone
+2023-03-28,CUST1416,"James Davis",877.02,Beauty,Central,10,252,6560.11,"Excellent product, very happy with my purchase!",Mobile App
+2023-03-20,CUST1417,"Victor Young",814.62,Clothing,Central,10,220,6354.04,"Works as described, nothing more nothing less.",Online
+2023-02-26,CUST1418,"Samuel Walker",627.47,Clothing,Central,15,364,5986.06,"Exceeded all my expectations completely!",Email
+2024-04-10,CUST1419,"Samuel Walker",822.27,Books,West,4,43,3147.65,"Shipping was slow but product quality is great.",Email
+2023-09-20,CUST1420,"Mike Collins",368.07,Food & Beverage,Central,1,123,322.80,"Wonderful experience, very satisfied!",Phone
+2023-01-06,CUST1421,"Diana Mitchell",638.14,Automotive,West,8,10,5054.07,"Fantastic experience from start to finish!",In-Store
+2024-07-18,CUST1422,"Noah Harris",656.41,Sports,North,14,59,8647.55,"Five stars for quality and service!",Email
+2023-10-28,CUST1423,"Mike Collins",341.78,Automotive,North,9,356,1980.96,"Top notch quality and fast delivery!",Phone
+2024-02-05,CUST1424,"George Turner",709.28,Beauty,Central,19,15,13274.18,"Wonderful experience, very satisfied!",Mobile App
+2024-04-23,CUST1425,"Xavier Wright",825.59,Home & Garden,West,9,322,5037.75,"Top notch quality and fast delivery!",Email
+2023-03-13,CUST1426,"Bob Smith",780.61,Toys,East,16,300,8742.83,"Wonderful experience, very satisfied!",Online
+2023-03-28,CUST1427,"Iris Chen",790.05,Sports,Central,6,257,3522.04,"Decent product, could be better packaged.",Email
+2024-07-29,CUST1428,"George Turner",701.60,Toys,North,18,312,8688.61,"Highly recommend to everyone!",In-Store
+2023-03-25,CUST1429,"Samuel Walker",891.70,Clothing,Central,14,93,11322.81,"Great product, easy to use!",Online
+2024-08-07,CUST1430,"George Turner",454.85,Toys,South,9,254,3053.86,"Great product, easy to use!",Phone
+2024-06-25,CUST1431,"Grace Lee",628.94,Toys,North,5,102,2823.94,"Outstanding customer support team!",In-Store
+2023-04-06,CUST1432,"Yara Scott",755.52,Health,West,19,281,10321.16,"Great product, easy to use!",Online
+2023-04-17,CUST1433,"Henry Taylor",936.21,Electronics,East,7,248,4928.21,"Highly recommend to everyone!",Online
+2024-07-09,CUST1434,"Chris Carter",616.56,Toys,East,18,254,8279.17,"Absolutely love it, perfect product!",Online
+2024-11-03,CUST1435,"George Turner",448.74,Home & Garden,East,18,63,7568.45,"Superb quality and quick shipping!",In-Store
+2023-02-22,CUST1436,"Fiona Roberts",694.68,Health,South,19,18,12961.34,"Exceeded all my expectations completely!",Email
+2023-12-14,CUST1437,"Eva Martinez",507.51,Beauty,South,8,203,3235.88,"Excellent product, very happy with my purchase!",Mobile App
+2023-12-25,CUST1438,"Ethan Perez",573.05,Home & Garden,Central,13,76,6883.48,"Instructions were unclear but product works well.",Mobile App
+2024-10-26,CUST1439,"Eva Martinez",382.85,Clothing,East,11,297,2960.58,"Amazing value for money, will buy again!",Email
+2023-12-03,CUST1440,"Victor Young",554.03,Clothing,Central,3,52,1575.66,"Decent product, could be better packaged.",In-Store
+2023-08-02,CUST1441,"Karen Anderson",522.66,Toys,North,4,304,1455.09,"Excellent product, very happy with my purchase!",Online
+2023-10-13,CUST1442,"Noah Harris",414.66,Food & Beverage,South,9,234,2858.67,"Shipping was slow but product quality is great.",Mobile App
+2024-02-23,CUST1443,"Zoe Green",708.37,Sports,West,3,139,1829.72,"Fast delivery and great quality.",Online
+2024-05-04,CUST1444,"Zoe Green",914.85,Electronics,East,7,341,4220.20,"Outstanding customer support team!",In-Store
+2024-05-27,CUST1445,"Noah Harris",908.58,Food & Beverage,West,17,267,11321.82,"Average product, nothing special about it.",Online
+2023-07-25,CUST1446,"Hannah Phillips",636.64,Clothing,West,13,270,6041.71,"Top notch quality and fast delivery!",In-Store
+2024-11-24,CUST1447,"Quinn Robinson",429.15,Food & Beverage,South,10,121,3772.23,"It does the job but nothing exceptional.",Online
+2024-11-18,CUST1448,"Henry Taylor",462.22,Sports,Central,8,81,3398.24,"Best purchase I've made this year!",Email
+2024-11-12,CUST1449,"Peter Garcia",423.24,Books,North,11,73,4315.78,"Best purchase I've made this year!",In-Store
+2024-02-22,CUST1450,"Alice Johnson",676.59,Automotive,Central,6,82,3726.66,"It does the job but nothing exceptional.",Mobile App
+2023-05-25,CUST1451,"Quinn Robinson",715.51,Clothing,North,13,119,8194.74,"Confusing setup process but works once done.",Online
+2023-03-07,CUST1452,"Peter Garcia",800.46,Electronics,East,15,357,7720.44,"It does the job but nothing exceptional.",Online
+2024-07-16,CUST1453,"Ian Campbell",550.57,Toys,West,13,283,5131.86,"Top notch quality and fast delivery!",Email
+2023-10-26,CUST1454,"Beth Nelson",436.19,Clothing,East,5,45,2082.81,"Quality is shockingly bad for the price.",Phone
+2024-02-16,CUST1455,"Julia Parker",659.58,Toys,South,7,114,4090.72,"Decent product, could be better packaged.",Mobile App
+2024-08-26,CUST1456,"Beth Nelson",532.90,Sports,Central,12,100,5755.32,"Superb quality and quick shipping!",In-Store
+2023-04-17,CUST1457,"Peter Garcia",925.13,Health,North,10,91,8409.43,"Absolutely love it, perfect product!",Mobile App
+2024-02-17,CUST1458,"Beth Nelson",746.50,Beauty,West,12,192,7238.06,"Highly recommend to everyone!",Email
+2024-06-03,CUST1459,"Mia Jackson",784.74,Health,Central,19,94,13508.51,"Top notch quality and fast delivery!",Mobile App
+2024-06-26,CUST1460,"Carol White",710.00,Automotive,Central,15,59,10021.65,"Outstanding customer support team!",Mobile App
+2023-09-02,CUST1461,"Samuel Walker",462.54,Toys,South,9,38,4004.67,"Fantastic experience from start to finish!",In-Store
+2023-10-11,CUST1462,"Olivia Martin",460.95,Clothing,Central,12,290,3927.29,"Superb quality and quick shipping!",In-Store
+2024-11-20,CUST1463,"Uma Allen",461.95,Automotive,North,5,95,2090.32,"Best purchase I've made this year!",In-Store
+2023-08-26,CUST1464,"Henry Taylor",530.87,Clothing,North,5,60,2495.09,"Fantastic experience from start to finish!",Phone
+2024-10-11,CUST1465,"Victor Young",476.80,Electronics,East,17,219,6330.47,"Instructions were unclear but product works well.",Email
+2023-10-13,CUST1466,"Olivia Martin",421.73,Clothing,Central,10,277,3049.11,"Mediocre quality for the price paid.",Online
+2024-03-02,CUST1467,"Laura Edwards",834.77,Health,East,5,295,2942.56,"Highly recommend to everyone!",In-Store
+2024-03-20,CUST1468,"Ian Campbell",818.96,Automotive,West,18,157,12426.90,"Outstanding customer support team!",Mobile App
+2024-02-21,CUST1469,"James Davis",801.51,Clothing,West,17,311,9388.09,"Shipping was slow but product quality is great.",Mobile App
+2024-07-10,CUST1470,"Olivia Martin",712.15,Books,North,10,309,4920.96,"Exceeded all my expectations completely!",Phone
+2024-02-28,CUST1471,"Eva Martinez",787.22,Books,East,12,36,9106.56,"Highly recommend to everyone!",In-Store
+2023-07-27,CUST1472,"Frank Wilson",622.70,Automotive,South,10,15,6133.60,"Top notch quality and fast delivery!",Phone
+2024-07-10,CUST1473,"Xavier Wright",703.86,Sports,Central,20,354,9093.87,"Exceeded all my expectations completely!",Phone
+2023-06-17,CUST1474,"Carol White",769.57,Books,North,15,300,8080.49,"Excellent product, very happy with my purchase!",Email
+2023-01-07,CUST1475,"Diana Mitchell",645.59,Books,West,9,284,4160.18,"Absolutely love it, perfect product!",In-Store
+2024-10-06,CUST1476,"Wendy King",444.39,Beauty,South,13,351,3749.32,"Highly recommend to everyone!",Phone
+2024-06-10,CUST1477,"Frank Wilson",818.81,Electronics,North,1,83,750.85,"Amazing value for money, will buy again!",Phone
+2023-02-25,CUST1478,"Liam Thomas",759.95,Electronics,Central,9,119,6025.64,"Absolutely love it, perfect product!",Mobile App
+2024-12-05,CUST1479,"Beth Nelson",583.57,Food & Beverage,South,9,220,4096.66,"Fantastic experience from start to finish!",Online
+2023-04-14,CUST1480,"Hannah Phillips",973.48,Health,Central,4,23,3804.36,"Fantastic experience from start to finish!",Mobile App
+2023-03-18,CUST1481,"Frank Wilson",742.17,Sports,Central,13,321,6551.13,"Confusing setup process but works once done.",Phone
+2023-04-21,CUST1482,"Victor Young",763.86,Home & Garden,East,16,144,10461.83,"Superb quality and quick shipping!",Phone
+2023-08-27,CUST1483,"Zoe Green",472.98,Home & Garden,East,10,123,4148.03,"Outstanding customer support team!",Mobile App
+2023-03-27,CUST1484,"Grace Lee",910.74,Electronics,Central,1,70,846.99,"Fast delivery and great quality.",Phone
+2024-03-21,CUST1485,"Uma Allen",785.24,Clothing,North,14,115,9729.12,"Amazing value for money, will buy again!",Mobile App
+2024-06-21,CUST1486,"Laura Edwards",840.93,Sports,South,18,39,14546.41,"Shipping was slow but product quality is great.",In-Store
+2024-04-13,CUST1487,"David Brown",939.12,Beauty,South,12,89,10266.46,"It does the job but nothing exceptional.",Online
+2023-03-12,CUST1488,"Julia Parker",798.22,Electronics,Central,4,327,2148.81,"Will definitely order again soon!",Mobile App
+2023-12-14,CUST1489,"Chris Carter",492.42,Books,South,16,115,6972.67,"Best purchase I've made this year!",Phone
+2023-11-10,CUST1490,"Alice Johnson",497.75,Clothing,West,7,16,3428.50,"Best purchase I've made this year!",In-Store
+2024-07-15,CUST1491,"Kevin Evans",633.60,Electronics,Central,15,285,6795.36,"Excellent product, very happy with my purchase!",Mobile App
+2024-10-11,CUST1492,"Noah Harris",394.43,Electronics,North,9,296,2499.11,"Great product, easy to use!",In-Store
+2023-11-04,CUST1493,"Alice Johnson",501.33,Books,Central,9,289,3208.01,"Fantastic experience from start to finish!",Phone
+2023-09-24,CUST1494,"Rachel Lewis",495.04,Automotive,East,13,288,4582.09,"Will definitely order again soon!",In-Store
+2024-04-20,CUST1495,"Uma Allen",817.56,Electronics,East,19,162,13017.19,"Works as described, nothing more nothing less.",Phone
+2023-03-23,CUST1496,"Karen Anderson",757.57,Home & Garden,South,6,167,3786.33,"Excellent product, very happy with my purchase!",In-Store
+2024-01-09,CUST1497,"Eva Martinez",685.05,Toys,West,5,354,2212.71,"Absolutely love it, perfect product!",Mobile App
+2024-08-24,CUST1498,"Xavier Wright",620.50,Sports,Central,17,69,9820.65,"Average product, nothing special about it.",Mobile App
+2024-09-27,CUST1499,"Noah Harris",536.52,Sports,North,14,186,6114.18,"Fantastic experience from start to finish!",Email
+2023-11-30,CUST1500,"Xavier Wright",516.07,Beauty,West,12,310,4273.06,"Great product, easy to use!",Mobile App
+2023-09-13,CUST1501,"Carol White",2252.89,Automotive,Central,10,190,18248.41,"Best purchase I've made this year!",Mobile App
+2023-09-09,CUST1502,"James Davis",2120.74,Health,West,17,10,35692.05,"Excellent product, very happy with my purchase!",Email
+2024-10-24,CUST1503,"Noah Harris",2234.71,Clothing,Central,1,337,1481.61,"Complete waste of money, avoid this.",In-Store
+2024-02-02,CUST1504,"Alice Johnson",3672.55,Electronics,East,3,260,8153.06,"Will definitely order again soon!",Mobile App
+2024-11-10,CUST1505,"Quinn Robinson",2688.44,Home & Garden,South,12,196,25938.07,"Great product, easy to use!",Mobile App
+2024-01-06,CUST1506,"Aaron Baker",2923.43,Books,South,1,108,2607.70,"Fantastic experience from start to finish!",Phone
+2024-02-22,CUST1507,"Eva Martinez",795.61,Health,South,8,96,5753.85,"Decent product, could be better packaged.",Online
+2023-06-26,CUST1508,"Samuel Walker",733.61,Food & Beverage,East,12,125,7702.90,"Product is okay but not worth the price.",Mobile App
+2024-01-10,CUST1509,"Victor Young",756.70,Home & Garden,Central,18,189,11046.31,"Exceeded all my expectations completely!",Email
+2024-01-14,CUST1510,"Samuel Walker",644.99,Food & Beverage,West,19,289,8713.17,"Absolutely love it, perfect product!",Mobile App
+2023-06-20,CUST1511,"Beth Nelson",752.97,Automotive,West,10,81,6919.79,"Exceeded all my expectations completely!",Phone
+2023-06-23,CUST1512,"Tina Hall",692.91,Sports,East,8,222,4312.67,"Excellent product, very happy with my purchase!",Phone
+2024-04-19,CUST1513,"Tina Hall",974.98,Beauty,West,1,303,679.56,"Top notch quality and fast delivery!",Mobile App
+2024-05-07,CUST1514,"Victor Young",995.17,Beauty,South,14,59,13110.37,"Wonderful experience, very satisfied!",In-Store
+2023-12-17,CUST1515,"Frank Wilson",552.90,Electronics,Central,4,329,1483.98,"It does the job but nothing exceptional.",Online
+2023-03-11,CUST1516,"Victor Young",803.90,Books,West,16,253,9608.21,"Great product, easy to use!",Online
+2024-05-10,CUST1517,"Alice Johnson",776.95,Home & Garden,Central,6,101,4190.87,"Highly recommend to everyone!",Email
+2023-12-06,CUST1518,"Samuel Walker",504.61,Toys,West,1,209,399.15,"Best purchase I've made this year!",Online
+2024-07-22,CUST1519,"Ethan Perez",708.90,Beauty,South,9,87,5825.03,"Amazing value for money, will buy again!",Mobile App
+2023-06-25,CUST1520,"Olivia Martin",852.22,Books,South,3,59,2405.82,"Wonderful experience, very satisfied!",Phone
+2024-06-14,CUST1521,"Carol White",834.10,Beauty,West,10,351,5413.31,"Decent product, could be better packaged.",Email
+2023-05-12,CUST1522,"Xavier Wright",924.10,Automotive,West,19,316,12009.60,"Highly recommend to everyone!",Phone
+2024-05-30,CUST1523,"Beth Nelson",858.37,Home & Garden,East,7,64,5624.04,"Outstanding customer support team!",Phone
+2023-05-28,CUST1524,"Aaron Baker",829.85,Beauty,East,12,56,9400.54,"Superb quality and quick shipping!",Email
+2024-04-04,CUST1525,"James Davis",1052.08,Clothing,West,6,15,6217.79,"Five stars for quality and service!",Mobile App
+2024-03-29,CUST1526,"Henry Taylor",958.25,Health,East,13,60,11709.81,"Quality is shockingly bad for the price.",Online
+2023-11-05,CUST1527,"Frank Wilson",474.16,Clothing,Central,8,261,2803.23,"Outstanding customer support team!",Phone
+2024-10-09,CUST1528,"Grace Lee",499.62,Electronics,West,8,232,3069.67,"Excellent product, very happy with my purchase!",Email
+2024-05-11,CUST1529,"Mia Jackson",1017.24,Food & Beverage,West,3,339,2017.19,"Great product, easy to use!",In-Store
+2023-05-03,CUST1530,"Henry Taylor",929.33,Sports,South,7,90,5919.83,"Exceeded all my expectations completely!",Mobile App
+2024-02-25,CUST1531,"George Turner",811.56,Toys,West,13,273,7670.05,"Absolutely love it, perfect product!",In-Store
+2023-10-25,CUST1532,"Liam Thomas",444.60,Automotive,West,14,189,5047.99,"Top notch quality and fast delivery!",Mobile App
+2023-08-27,CUST1533,"Noah Harris",660.14,Home & Garden,North,12,326,5339.21,"Great product, easy to use!",Online
+2024-11-05,CUST1534,"David Brown",507.17,Clothing,West,8,58,3822.03,"Five stars for quality and service!",In-Store
+2024-02-19,CUST1535,"Aaron Baker",817.69,Sports,East,14,74,10600.53,"Fast delivery and great quality.",In-Store
+2024-05-29,CUST1536,"Alice Johnson",1036.52,Books,Central,3,175,2565.39,"Great product, easy to use!",Online
+2023-05-19,CUST1537,"Xavier Wright",993.03,Home & Garden,North,2,354,1282.99,"Great product, easy to use!",In-Store
+2023-09-08,CUST1538,"Samuel Walker",502.13,Beauty,West,16,73,7447.59,"Product is okay but not worth the price.",Phone
+2023-02-04,CUST1539,"Bob Smith",826.07,Clothing,West,7,1,5776.71,"Exceeded all my expectations completely!",Online
+2024-04-26,CUST1540,"Tina Hall",1065.25,Toys,North,11,315,8026.66,"Five stars for quality and service!",Phone
+2024-10-29,CUST1541,"Zoe Green",477.46,Books,East,6,95,2592.61,"Great product, easy to use!",In-Store
+2024-02-18,CUST1542,"Olivia Martin",945.01,Beauty,Central,17,51,15245.85,"Absolutely love it, perfect product!",Phone
+2024-04-21,CUST1543,"David Brown",893.09,Books,Central,8,37,6880.37,"Packaging was terrible, item was damaged.",In-Store
+2024-08-06,CUST1544,"Yara Scott",537.92,Automotive,South,10,231,4136.60,"Fantastic experience from start to finish!",In-Store
+2023-09-07,CUST1545,"David Brown",471.49,Clothing,North,11,107,4631.45,"Fantastic experience from start to finish!",Phone
+2024-08-04,CUST1546,"Hannah Phillips",657.19,Automotive,South,16,140,9042.93,"Great product, easy to use!",Online
+2023-07-20,CUST1547,"Kevin Evans",676.31,Home & Garden,North,3,245,1531.84,"Superb quality and quick shipping!",Email
+2024-01-26,CUST1548,"Eva Martinez",653.14,Sports,West,19,209,9816.04,"Absolutely love it, perfect product!",Mobile App
+2024-09-29,CUST1549,"Liam Thomas",556.74,Health,Central,19,17,10398.23,"Best purchase I've made this year!",Phone
+2023-05-08,CUST1550,"Alice Johnson",926.80,Electronics,Central,8,346,4849.02,"Superb quality and quick shipping!",Mobile App
+2024-03-24,CUST1551,"Kevin Evans",1036.15,Books,East,15,212,12247.29,"Top notch quality and fast delivery!",Email
+2023-10-25,CUST1552,"Wendy King",438.26,Electronics,South,5,232,1682.92,"Amazing value for money, will buy again!",Mobile App
+2024-07-18,CUST1553,"George Turner",714.96,Automotive,West,5,207,2834.82,"Outstanding customer support team!",Online
+2023-08-22,CUST1554,"Uma Allen",593.88,Books,Central,3,127,1555.37,"Five stars for quality and service!",Mobile App
+2024-01-27,CUST1555,"Aaron Baker",749.55,Food & Beverage,Central,4,140,2578.45,"Product is okay but not worth the price.",Phone
+2023-11-21,CUST1556,"Kevin Evans",488.66,Electronics,North,11,360,3440.17,"Fast delivery and great quality.",Email
+2023-04-27,CUST1557,"Xavier Wright",832.52,Automotive,Central,18,152,12707.59,"Exceeded all my expectations completely!",Email
+2024-12-18,CUST1558,"Ethan Perez",639.71,Beauty,Central,6,127,3350.80,"Outstanding customer support team!",Phone
+2024-08-03,CUST1559,"Karen Anderson",533.36,Electronics,North,8,288,3038.02,"Superb quality and quick shipping!",Email
+2023-08-03,CUST1560,"Zoe Green",511.50,Toys,Central,14,139,6165.62,"Amazing value for money, will buy again!",Email
+2023-11-01,CUST1561,"Kevin Evans",472.40,Food & Beverage,Central,9,258,3154.69,"Top notch quality and fast delivery!",Online
+2023-12-10,CUST1562,"Hannah Phillips",603.29,Books,Central,18,170,9013.15,"Will definitely order again soon!",Online
+2024-07-20,CUST1563,"Carol White",678.39,Electronics,Central,7,38,4568.28,"Amazing value for money, will buy again!",In-Store
+2023-02-09,CUST1564,"Zoe Green",946.09,Clothing,Central,13,101,11056.95,"Exceeded all my expectations completely!",In-Store
+2024-01-23,CUST1565,"Carol White",713.22,Clothing,South,18,210,10141.99,"Very poor customer service experience.",Online
+2023-08-05,CUST1566,"Alice Johnson",640.30,Toys,North,19,134,10535.50,"Great product, easy to use!",Phone
+2024-02-19,CUST1567,"Mia Jackson",851.76,Home & Garden,North,15,350,8304.66,"Outstanding customer support team!",In-Store
+2024-01-13,CUST1568,"Fiona Roberts",811.11,Sports,South,11,327,6004.65,"Will definitely order again soon!",Mobile App
+2024-05-21,CUST1569,"Karen Anderson",1084.29,Automotive,North,2,139,1867.15,"Average product, nothing special about it.",In-Store
+2024-01-22,CUST1570,"Wendy King",786.31,Beauty,West,1,70,731.27,"Outstanding customer support team!",Phone
+2024-06-06,CUST1571,"Kevin Evans",837.44,Books,Central,20,95,15157.66,"Amazing value for money, will buy again!",Mobile App
+2023-02-12,CUST1572,"Zoe Green",952.78,Beauty,South,15,57,13477.07,"Fast delivery and great quality.",Mobile App
+2023-04-20,CUST1573,"Carol White",911.26,Electronics,North,2,316,1246.60,"Outstanding customer support team!",Online
+2023-10-04,CUST1574,"Kevin Evans",461.41,Food & Beverage,South,19,21,8582.69,"Highly recommend to everyone!",Email
+2024-07-01,CUST1575,"Samuel Walker",636.18,Beauty,East,3,339,1261.54,"Fast delivery and great quality.",Email
+2023-04-14,CUST1576,"Eva Martinez",1128.08,Food & Beverage,North,11,331,8301.54,"Outstanding customer support team!",Mobile App
+2023-08-03,CUST1577,"Noah Harris",686.94,Sports,East,1,318,468.49,"Amazing value for money, will buy again!",In-Store
+2023-04-10,CUST1578,"Peter Garcia",1102.66,Electronics,West,2,184,1799.54,"Exceeded all my expectations completely!",Mobile App
+2024-05-20,CUST1579,"Grace Lee",944.46,Sports,Central,20,163,15810.26,"Outstanding customer support team!",Online
+2023-03-28,CUST1580,"Fiona Roberts",1083.91,Beauty,South,5,107,4839.66,"Five stars for quality and service!",Mobile App
+2023-07-16,CUST1581,"Liam Thomas",766.88,Food & Beverage,Central,11,341,5559.11,"Product doesn't match the description online.",Mobile App
+2023-04-21,CUST1582,"Rachel Lewis",1050.10,Electronics,South,3,142,2702.96,"Amazing value for money, will buy again!",Mobile App
+2024-03-20,CUST1583,"Iris Chen",886.95,Food & Beverage,South,18,108,14240.87,"Best purchase I've made this year!",In-Store
+2023-04-28,CUST1584,"Ethan Perez",1058.97,Clothing,South,7,55,7005.09,"Decent product, could be better packaged.",Online
+2023-07-29,CUST1585,"Ian Campbell",681.63,Beauty,Central,9,43,5870.88,"Customer service was completely unhelpful.",Email
+2024-03-24,CUST1586,"Diana Mitchell",877.55,Automotive,West,19,63,15623.02,"It does the job but nothing exceptional.",Mobile App
+2023-07-01,CUST1587,"Mike Collins",681.43,Electronics,East,11,238,5711.75,"Decent product, could be better packaged.",Online
+2024-02-03,CUST1588,"Grace Lee",811.22,Health,North,3,355,1569.71,"Will definitely order again soon!",Phone
+2023-04-09,CUST1589,"Julia Parker",851.84,Books,Central,3,351,1658.53,"Amazing value for money, will buy again!",Phone
+2023-01-29,CUST1590,"Eva Martinez",704.90,Clothing,Central,15,159,8892.31,"Fast delivery and great quality.",Online
+2023-01-01,CUST1591,"Peter Garcia",648.08,Health,East,2,363,825.65,"Fast delivery and great quality.",Online
+2024-08-02,CUST1592,"Mike Collins",626.17,Home & Garden,South,13,344,5339.98,"Fast delivery and great quality.",Online
+2023-05-25,CUST1593,"Mike Collins",1092.59,Beauty,South,2,191,1767.81,"Excellent product, very happy with my purchase!",Mobile App
+2024-09-15,CUST1594,"Yara Scott",505.12,Electronics,East,18,317,6209.95,"Great product, easy to use!",Email
+2023-07-13,CUST1595,"Samuel Walker",667.87,Clothing,North,17,302,7924.95,"Exceeded all my expectations completely!",In-Store
+2024-01-29,CUST1596,"Noah Harris",704.07,Food & Beverage,North,8,323,3813.24,"It does the job but nothing exceptional.",In-Store
+2023-12-07,CUST1597,"James Davis",621.52,Clothing,West,8,37,4788.19,"Outstanding customer support team!",Mobile App
+2024-06-29,CUST1598,"James Davis",797.20,Clothing,South,19,264,11148.04,"Wonderful experience, very satisfied!",Mobile App
+2024-06-28,CUST1599,"Zoe Green",766.40,Books,Central,17,79,11999.52,"Amazing value for money, will buy again!",Phone
+2024-06-17,CUST1600,"Henry Taylor",970.51,Beauty,South,14,146,11603.42,"Fast delivery and great quality.",Online
+2023-10-04,CUST1601,"Samuel Walker",422.56,Clothing,West,4,39,1624.32,"Highly recommend to everyone!",Phone
+2023-02-26,CUST1602,"Liam Thomas",919.94,Health,North,15,208,10928.89,"It does the job but nothing exceptional.",Email
+2023-08-07,CUST1603,"Fiona Roberts",550.59,Automotive,South,9,319,3374.57,"Works as described, nothing more nothing less.",Online
+2024-05-16,CUST1604,"Julia Parker",1059.13,Health,East,11,290,8271.81,"Excellent product, very happy with my purchase!",Email
+2023-01-16,CUST1605,"Uma Allen",807.43,Automotive,West,8,185,5264.44,"Outstanding customer support team!",Online
+2023-03-18,CUST1606,"Victor Young",915.51,Automotive,Central,6,14,5416.16,"Fantastic experience from start to finish!",Mobile App
+2023-01-06,CUST1607,"Fiona Roberts",780.76,Books,South,8,50,5933.78,"Amazing value for money, will buy again!",Mobile App
+2024-05-01,CUST1608,"Beth Nelson",913.02,Food & Beverage,North,18,253,12276.47,"Five stars for quality and service!",Phone
+2024-12-18,CUST1609,"Wendy King",663.67,Electronics,Central,3,225,1543.03,"Great product, easy to use!",Online
+2023-04-20,CUST1610,"Samuel Walker",995.27,Beauty,South,3,284,2137.84,"Will definitely order again soon!",Online
+2024-07-11,CUST1611,"Grace Lee",695.45,Home & Garden,Central,8,18,5463.46,"Best purchase I've made this year!",Online
+2023-03-31,CUST1612,"Fiona Roberts",1123.32,Books,West,13,1,14588.56,"Will definitely order again soon!",Mobile App
+2024-02-19,CUST1613,"Alice Johnson",1024.18,Automotive,South,4,137,3535.47,"Top notch quality and fast delivery!",Mobile App
+2023-07-20,CUST1614,"Liam Thomas",735.70,Automotive,South,9,364,4211.15,"Wonderful experience, very satisfied!",Online
+2024-10-26,CUST1615,"George Turner",552.43,Toys,North,19,113,9310.10,"Product is okay but not worth the price.",In-Store
+2023-08-18,CUST1616,"Grace Lee",639.97,Food & Beverage,Central,20,28,12441.02,"Great product, easy to use!",Email
+2024-09-01,CUST1617,"James Davis",581.61,Sports,West,1,182,475.76,"Highly recommend to everyone!",In-Store
+2024-07-03,CUST1618,"Alice Johnson",653.18,Home & Garden,East,17,333,7406.41,"Outstanding customer support team!",Phone
+2023-04-10,CUST1619,"Mike Collins",1141.03,Home & Garden,South,5,346,3731.17,"Works as described, nothing more nothing less.",Online
+2023-07-16,CUST1620,"Wendy King",675.02,Electronics,South,3,151,1719.28,"Top notch quality and fast delivery!",Online
+2023-10-22,CUST1621,"Eva Martinez",480.96,Beauty,Central,15,20,7070.11,"Superb quality and quick shipping!",Online
+2024-10-21,CUST1622,"Liam Thomas",426.71,Electronics,West,1,165,356.30,"Very poor customer service experience.",Phone
+2024-03-28,CUST1623,"Beth Nelson",1145.87,Sports,East,3,301,2402.89,"Top notch quality and fast delivery!",In-Store
+2024-07-13,CUST1624,"Olivia Martin",810.94,Food & Beverage,Central,16,77,11975.96,"Outstanding customer support team!",Online
+2024-08-03,CUST1625,"Carol White",604.93,Books,North,4,355,1560.72,"Fantastic experience from start to finish!",Online
+2024-05-04,CUST1626,"Samuel Walker",1111.75,Home & Garden,West,16,56,16791.87,"Amazing value for money, will buy again!",Mobile App
+2024-10-06,CUST1627,"Tina Hall",530.44,Home & Garden,Central,17,299,6321.25,"Outstanding customer support team!",Email
+2023-10-27,CUST1628,"Alice Johnson",479.75,Automotive,South,15,332,4807.09,"Superb quality and quick shipping!",Mobile App
+2024-08-13,CUST1629,"Mike Collins",678.61,Books,South,9,69,5686.07,"Great product, easy to use!",Email
+2023-07-06,CUST1630,"Grace Lee",768.27,Beauty,Central,20,6,15273.21,"It does the job but nothing exceptional.",Phone
+2023-09-05,CUST1631,"Olivia Martin",617.75,Electronics,West,5,350,2007.69,"Five stars for quality and service!",Online
+2023-10-12,CUST1632,"Julia Parker",443.62,Sports,South,15,209,5263.55,"Amazing value for money, will buy again!",In-Store
+2023-10-11,CUST1633,"Carol White",533.25,Beauty,North,17,277,6554.18,"Absolutely love it, perfect product!",Mobile App
+2024-08-11,CUST1634,"Kevin Evans",730.96,Books,North,10,334,4868.19,"Worst purchase I have ever made.",Mobile App
+2023-03-02,CUST1635,"Laura Edwards",997.57,Electronics,West,16,34,15418.44,"Excellent product, very happy with my purchase!",Phone
+2024-05-16,CUST1636,"Kevin Evans",881.07,Sports,South,9,45,7572.80,"Fantastic experience from start to finish!",Email
+2024-01-09,CUST1637,"Tina Hall",707.88,Automotive,East,16,142,9717.78,"Wonderful experience, very satisfied!",In-Store
+2023-02-28,CUST1638,"Quinn Robinson",910.70,Home & Garden,Central,19,318,11800.85,"Great product, easy to use!",Email
+2023-02-12,CUST1639,"Quinn Robinson",869.57,Home & Garden,West,2,358,1116.53,"Exceeded all my expectations completely!",Email
+2024-03-07,CUST1640,"Mia Jackson",870.93,Clothing,North,10,292,6166.18,"Great product, easy to use!",In-Store
+2023-04-25,CUST1641,"Samuel Walker",1122.59,Home & Garden,North,3,269,2461.84,"Five stars for quality and service!",Email
+2024-02-23,CUST1642,"Uma Allen",1047.56,Food & Beverage,East,10,212,8254.77,"Best purchase I've made this year!",Mobile App
+2024-05-12,CUST1643,"David Brown",1119.65,Home & Garden,North,7,257,5823.30,"It does the job but nothing exceptional.",Online
+2024-09-06,CUST1644,"Quinn Robinson",483.79,Automotive,West,12,56,5480.37,"Fast delivery and great quality.",In-Store
+2023-10-05,CUST1645,"Mike Collins",548.89,Toys,West,1,95,496.75,"Five stars for quality and service!",Email
+2023-08-27,CUST1646,"Samuel Walker",657.36,Automotive,West,12,220,6152.89,"Fantastic experience from start to finish!",Mobile App
+2024-07-06,CUST1647,"Ethan Perez",685.87,Books,East,2,250,1028.81,"Best purchase I've made this year!",Phone
+2023-05-26,CUST1648,"Bob Smith",1149.98,Food & Beverage,Central,20,35,22194.61,"Very poor customer service experience.",Online
+2023-09-20,CUST1649,"Alice Johnson",567.06,Health,West,13,190,5971.14,"Works as described, nothing more nothing less.",Email
+2024-07-09,CUST1650,"Rachel Lewis",803.34,Home & Garden,East,15,144,10314.89,"Excellent product, very happy with my purchase!",Phone
+2024-08-17,CUST1651,"Aaron Baker",739.61,Sports,North,17,130,10938.83,"Top notch quality and fast delivery!",Online
+2024-07-25,CUST1652,"Bob Smith",675.79,Automotive,North,1,272,491.98,"Highly recommend to everyone!",Email
+2023-08-15,CUST1653,"Julia Parker",573.97,Home & Garden,West,16,131,7980.48,"Exceeded all my expectations completely!",Email
+2023-09-10,CUST1654,"Noah Harris",616.66,Automotive,North,12,364,4706.35,"Will definitely order again soon!",Email
+2024-02-08,CUST1655,"Carol White",957.49,Home & Garden,West,4,313,2631.18,"Wonderful experience, very satisfied!",Phone
+2024-04-02,CUST1656,"James Davis",916.42,Sports,North,13,285,8518.12,"It does the job but nothing exceptional.",Phone
+2023-12-16,CUST1657,"Julia Parker",578.40,Clothing,East,4,207,1834.68,"Great product, easy to use!",Phone
+2024-02-08,CUST1658,"Diana Mitchell",824.17,Electronics,North,18,327,9984.00,"Product broke after one week, very disappointed.",In-Store
+2024-04-29,CUST1659,"Alice Johnson",1088.29,Books,East,20,277,15736.67,"Best purchase I've made this year!",In-Store
+2023-11-24,CUST1660,"Wendy King",501.03,Food & Beverage,East,6,311,2071.26,"Top notch quality and fast delivery!",Email
+2024-10-31,CUST1661,"Laura Edwards",479.46,Food & Beverage,North,17,336,5412.14,"Five stars for quality and service!",Email
+2024-06-22,CUST1662,"Carol White",1029.44,Toys,South,4,149,3504.21,"Mediocre quality for the price paid.",Email
+2024-11-02,CUST1663,"Alice Johnson",562.70,Beauty,Central,14,267,5774.43,"Exceeded all my expectations completely!",Online
+2023-08-26,CUST1664,"Xavier Wright",597.61,Food & Beverage,North,17,239,7731.28,"Best purchase I've made this year!",Mobile App
+2024-05-17,CUST1665,"Wendy King",1046.50,Home & Garden,South,1,159,880.11,"Mediocre quality for the price paid.",Mobile App
+2023-01-04,CUST1666,"Aaron Baker",739.87,Automotive,South,13,232,7386.86,"Top notch quality and fast delivery!",In-Store
+2023-07-06,CUST1667,"Wendy King",852.73,Beauty,North,16,277,9864.38,"Outstanding customer support team!",In-Store
+2024-11-25,CUST1668,"Tina Hall",524.73,Food & Beverage,East,19,229,7686.77,"Fast delivery and great quality.",Email
+2024-11-23,CUST1669,"Bob Smith",543.12,Food & Beverage,Central,8,2,4336.27,"Fast delivery and great quality.",Email
+2023-09-20,CUST1670,"Eva Martinez",590.92,Health,Central,10,243,4473.26,"Exceeded all my expectations completely!",Email
+2023-02-10,CUST1671,"Ethan Perez",912.59,Automotive,West,6,361,3498.87,"Highly recommend to everyone!",Online
+2024-03-23,CUST1672,"Victor Young",991.45,Books,North,19,347,12300.92,"Product arrived late and was missing parts.",Mobile App
+2023-08-03,CUST1673,"Wendy King",674.21,Automotive,Central,14,208,7475.64,"Instructions were unclear but product works well.",In-Store
+2023-01-02,CUST1674,"Liam Thomas",794.35,Clothing,Central,6,98,4299.02,"Excellent product, very happy with my purchase!",Online
+2024-03-26,CUST1675,"Aaron Baker",1168.87,Health,Central,4,277,3380.37,"Great product, easy to use!",Email
+2023-05-26,CUST1676,"Mia Jackson",1020.40,Home & Garden,South,15,48,14571.31,"Superb quality and quick shipping!",Email
+2023-04-27,CUST1677,"David Brown",993.51,Food & Beverage,South,2,288,1414.76,"Wonderful experience, very satisfied!",Mobile App
+2024-03-06,CUST1678,"Julia Parker",1059.73,Toys,Central,11,196,9372.25,"Superb quality and quick shipping!",Online
+2023-07-22,CUST1679,"Diana Mitchell",833.40,Clothing,North,5,152,3533.62,"Outstanding customer support team!",Email
+2023-07-21,CUST1680,"Alice Johnson",827.53,Electronics,East,15,83,11382.68,"Fast delivery and great quality.",Mobile App
+2023-07-01,CUST1681,"Laura Edwards",743.43,Home & Garden,Central,15,139,9601.40,"Quality is shockingly bad for the price.",Online
+2024-01-05,CUST1682,"Zoe Green",921.29,Automotive,Central,11,332,6769.64,"Fast delivery and great quality.",Phone
+2024-08-04,CUST1683,"Uma Allen",700.00,Food & Beverage,North,12,273,6106.80,"Five stars for quality and service!",Online
+2023-10-03,CUST1684,"Ethan Perez",539.58,Clothing,South,13,280,5050.47,"Works as described, nothing more nothing less.",Phone
+2023-03-29,CUST1685,"Tina Hall",1099.47,Clothing,West,15,56,15568.50,"Five stars for quality and service!",Phone
+2023-02-26,CUST1686,"Karen Anderson",1036.09,Sports,North,14,353,9384.90,"Fast delivery and great quality.",Email
+2023-10-06,CUST1687,"Wendy King",549.90,Books,East,1,132,477.31,"Exceeded all my expectations completely!",Phone
+2024-03-24,CUST1688,"Victor Young",1053.82,Clothing,East,9,20,9294.69,"Five stars for quality and service!",Online
+2024-09-30,CUST1689,"Ethan Perez",540.29,Beauty,East,9,303,3389.24,"Works as described, nothing more nothing less.",Mobile App
+2023-11-22,CUST1690,"George Turner",549.08,Toys,North,13,355,4604.04,"Top notch quality and fast delivery!",Online
+2024-05-28,CUST1691,"Quinn Robinson",1121.58,Food & Beverage,North,1,213,882.68,"Returned the product, wasn't as advertised.",Mobile App
+2024-03-20,CUST1692,"Wendy King",1140.23,Home & Garden,South,19,181,17743.12,"Superb quality and quick shipping!",Online
+2023-10-19,CUST1693,"Liam Thomas",454.86,Electronics,East,13,270,4316.62,"Great product, easy to use!",Email
+2023-01-18,CUST1694,"Beth Nelson",893.14,Clothing,West,14,351,8115.07,"Wonderful experience, very satisfied!",Mobile App
+2024-06-30,CUST1695,"Diana Mitchell",942.71,Toys,East,19,293,12663.42,"Customer service was completely unhelpful.",Mobile App
+2023-07-05,CUST1696,"Bob Smith",845.85,Toys,Central,17,37,13847.41,"Amazing value for money, will buy again!",Phone
+2023-08-05,CUST1697,"Henry Taylor",676.17,Toys,North,6,351,2633.01,"Top notch quality and fast delivery!",Email
+2023-08-11,CUST1698,"Rachel Lewis",617.53,Health,Central,15,27,9012.85,"Superb quality and quick shipping!",Email
+2024-08-19,CUST1699,"Julia Parker",577.51,Toys,East,14,122,7098.75,"Product is okay but not worth the price.",In-Store
+2024-05-01,CUST1700,"Karen Anderson",1090.57,Food & Beverage,South,8,225,6761.53,"Exceeded all my expectations completely!",Email
+2023-04-24,CUST1701,"Iris Chen",1251.94,Home & Garden,South,16,135,17326.85,"Five stars for quality and service!",Online
+2024-10-10,CUST1702,"Zoe Green",465.16,Electronics,South,10,198,3730.58,"Superb quality and quick shipping!",Phone
+2024-03-11,CUST1703,"Chris Carter",1156.69,Toys,West,4,227,3576.49,"Complete waste of money, avoid this.",Online
+2023-12-05,CUST1704,"Alice Johnson",593.21,Clothing,South,14,196,6677.17,"Wonderful experience, very satisfied!",Mobile App
+2023-10-23,CUST1705,"Wendy King",561.04,Books,Central,15,344,5520.63,"Amazing value for money, will buy again!",Phone
+2024-12-18,CUST1706,"Iris Chen",698.23,Electronics,South,2,6,1388.08,"Fast delivery and great quality.",Email
+2024-02-24,CUST1707,"Olivia Martin",1096.04,Health,Central,18,266,14480.88,"Exceeded all my expectations completely!",Mobile App
+2023-04-21,CUST1708,"Wendy King",1025.41,Automotive,East,1,9,1016.18,"It does the job but nothing exceptional.",Online
+2023-01-28,CUST1709,"Samuel Walker",889.94,Food & Beverage,South,10,197,7146.22,"Highly recommend to everyone!",Email
+2023-09-11,CUST1710,"Nancy Stewart",596.97,Home & Garden,Central,9,165,4486.23,"It does the job but nothing exceptional.",Email
+2023-03-22,CUST1711,"Rachel Lewis",1139.23,Sports,West,17,334,12898.36,"Great product, easy to use!",Mobile App
+2023-03-13,CUST1712,"Mike Collins",1194.85,Toys,North,12,268,10495.56,"Best purchase I've made this year!",Mobile App
+2023-05-15,CUST1713,"Nancy Stewart",1123.98,Home & Garden,North,16,240,13667.60,"Product is okay but not worth the price.",Online
+2023-12-10,CUST1714,"Fiona Roberts",700.79,Health,North,11,242,5843.19,"Average product, nothing special about it.",Phone
+2024-12-08,CUST1715,"Zoe Green",753.31,Electronics,East,20,365,9567.04,"Works as described, nothing more nothing less.",Online
+2023-09-06,CUST1716,"Kevin Evans",646.88,Food & Beverage,South,11,194,5735.24,"Five stars for quality and service!",Phone
+2023-08-04,CUST1717,"Liam Thomas",646.46,Automotive,East,2,295,911.51,"Best purchase I've made this year!",Phone
+2023-01-18,CUST1718,"Laura Edwards",796.51,Beauty,Central,4,177,2622.11,"Amazing value for money, will buy again!",Email
+2024-02-16,CUST1719,"Nancy Stewart",879.44,Automotive,South,1,245,663.98,"Fast delivery and great quality.",Email
+2023-12-12,CUST1720,"Iris Chen",675.70,Clothing,Central,2,122,1186.53,"Fantastic experience from start to finish!",Email
+2024-11-29,CUST1721,"Nancy Stewart",547.75,Home & Garden,South,5,171,2270.42,"Great product, easy to use!",Mobile App
+2023-05-06,CUST1722,"Zoe Green",1204.79,Toys,North,16,353,12471.99,"Wonderful experience, very satisfied!",Online
+2023-02-28,CUST1723,"Peter Garcia",1060.49,Food & Beverage,North,8,322,5752.10,"Absolutely love it, perfect product!",Phone
+2023-09-08,CUST1724,"Quinn Robinson",532.43,Home & Garden,West,1,62,499.42,"Great product, easy to use!",Phone
+2023-01-12,CUST1725,"Laura Edwards",839.40,Health,West,13,238,8315.10,"Absolutely love it, perfect product!",Phone
+2023-11-29,CUST1726,"Liam Thomas",508.63,Automotive,West,3,169,1268.01,"Superb quality and quick shipping!",Mobile App
+2024-06-09,CUST1727,"Carol White",912.04,Electronics,South,12,243,8284.97,"Exceeded all my expectations completely!",Mobile App
+2023-03-18,CUST1728,"Beth Nelson",1177.86,Electronics,Central,10,284,8433.48,"Best purchase I've made this year!",In-Store
+2023-01-01,CUST1729,"Alice Johnson",929.38,Food & Beverage,North,18,190,13550.36,"Top notch quality and fast delivery!",Online
+2023-09-16,CUST1730,"Noah Harris",526.86,Toys,North,8,185,3435.13,"Total disappointment, requesting a refund now.",Mobile App
+2024-08-10,CUST1731,"Yara Scott",736.15,Electronics,West,11,151,6874.90,"Wonderful experience, very satisfied!",Phone
+2024-10-03,CUST1732,"Peter Garcia",474.02,Electronics,Central,20,146,8096.26,"Product doesn't match the description online.",Online
+2024-12-15,CUST1733,"Henry Taylor",626.02,Books,South,12,211,5927.16,"Top notch quality and fast delivery!",Phone
+2024-07-15,CUST1734,"Wendy King",773.75,Toys,South,13,340,6638.77,"Amazing value for money, will buy again!",Online
+2024-03-22,CUST1735,"Julia Parker",1231.04,Health,Central,2,213,1937.66,"Absolutely love it, perfect product!",Email
+2023-02-12,CUST1736,"Quinn Robinson",1018.07,Toys,East,12,295,8612.87,"Confusing setup process but works once done.",Online
+2024-07-09,CUST1737,"Bob Smith",794.50,Home & Garden,North,8,33,6146.25,"It does the job but nothing exceptional.",In-Store
+2023-08-31,CUST1738,"Victor Young",736.24,Electronics,South,2,178,1210.38,"Outstanding customer support team!",Online
+2023-09-20,CUST1739,"Peter Garcia",535.14,Beauty,West,6,227,2481.98,"Highly recommend to everyone!",Phone
+2024-09-30,CUST1740,"Liam Thomas",544.50,Health,West,8,307,3018.71,"Packaging was terrible, item was damaged.",In-Store
+2023-07-07,CUST1741,"Ian Campbell",752.96,Home & Garden,West,13,319,6665.95,"Fast delivery and great quality.",Email
+2023-07-06,CUST1742,"Frank Wilson",952.22,Clothing,West,16,225,11807.53,"Fast delivery and great quality.",Mobile App
+2024-01-30,CUST1743,"Eva Martinez",938.00,Food & Beverage,West,17,118,14064.37,"Excellent product, very happy with my purchase!",Email
+2024-01-09,CUST1744,"Aaron Baker",879.03,Food & Beverage,West,2,165,1467.98,"Superb quality and quick shipping!",Phone
+2023-12-03,CUST1745,"Hannah Phillips",717.91,Beauty,East,17,148,10398.21,"Best purchase I've made this year!",In-Store
+2023-01-05,CUST1746,"Chris Carter",927.70,Home & Garden,East,12,286,7948.53,"Excellent product, very happy with my purchase!",Phone
+2024-06-05,CUST1747,"Grace Lee",877.57,Home & Garden,South,1,189,711.71,"Absolutely love it, perfect product!",Mobile App
+2024-10-02,CUST1748,"James Davis",579.16,Food & Beverage,West,10,354,3741.37,"Top notch quality and fast delivery!",Online
+2024-06-04,CUST1749,"Julia Parker",888.50,Health,South,20,212,14002.76,"Great product, easy to use!",Phone
+2024-02-17,CUST1750,"Rachel Lewis",1115.26,Home & Garden,West,10,345,7304.95,"Best purchase I've made this year!",Mobile App
+2023-01-05,CUST1751,"Hannah Phillips",4621.54,Sports,East,12,152,47028.79,"Superb quality and quick shipping!",In-Store
+2023-05-07,CUST1752,"George Turner",6415.77,Clothing,East,20,344,84174.90,"Highly recommend to everyone!",Phone
+2023-07-26,CUST1753,"Fiona Roberts",5676.70,Food & Beverage,South,10,128,49500.82,"Fantastic experience from start to finish!",Online
+2023-07-09,CUST1754,"Olivia Martin",4526.70,Food & Beverage,North,12,141,46661.22,"Product is okay but not worth the price.",Online
+2023-03-12,CUST1755,"James Davis",7191.82,Beauty,South,19,1,136507.94,"Five stars for quality and service!",Phone
+2023-12-10,CUST1756,"Hannah Phillips",4545.40,Automotive,North,13,200,47272.16,"Excellent product, very happy with my purchase!",Phone
+2023-01-06,CUST1757,"Xavier Wright",875.24,Automotive,North,4,231,2692.24,"Exceeded all my expectations completely!",Email
+2024-01-23,CUST1758,"Frank Wilson",890.30,Health,Central,11,163,8196.99,"Outstanding customer support team!",Phone
+2023-09-25,CUST1759,"Chris Carter",545.46,Toys,East,7,257,2836.94,"Stopped working after just two days.",Mobile App
+2023-06-16,CUST1760,"Diana Mitchell",1158.44,Clothing,West,12,345,9105.34,"Amazing value for money, will buy again!",Email
+2023-09-23,CUST1761,"Olivia Martin",626.06,Toys,North,10,364,3981.74,"Highly recommend to everyone!",Email
+2023-07-07,CUST1762,"Fiona Roberts",936.56,Home & Garden,South,11,328,6923.05,"Amazing value for money, will buy again!",In-Store
+2023-02-02,CUST1763,"Olivia Martin",931.41,Electronics,East,10,199,7460.59,"Best purchase I've made this year!",Online
+2024-09-10,CUST1764,"Carol White",603.48,Books,West,3,217,1417.57,"Exceeded all my expectations completely!",Mobile App
+2024-01-17,CUST1765,"Samuel Walker",743.20,Health,East,7,227,4021.46,"Highly recommend to everyone!",In-Store
+2024-05-23,CUST1766,"Quinn Robinson",1224.24,Sports,East,17,32,20146.09,"Shipping was slow but product quality is great.",Phone
+2024-01-10,CUST1767,"James Davis",787.19,Health,South,4,128,2745.72,"Superb quality and quick shipping!",In-Store
+2023-07-04,CUST1768,"Zoe Green",984.64,Sports,South,6,257,4389.53,"Absolutely love it, perfect product!",Email
+2023-02-03,CUST1769,"Tina Hall",982.72,Electronics,North,15,3,14696.58,"Amazing value for money, will buy again!",Online
+2024-06-10,CUST1770,"Kevin Evans",1176.41,Beauty,West,18,211,16707.37,"Top notch quality and fast delivery!",In-Store
+2023-05-12,CUST1771,"Ethan Perez",1210.30,Health,North,12,190,11764.12,"Will definitely order again soon!",Email
+2023-05-07,CUST1772,"Peter Garcia",1084.16,Health,South,3,171,2696.31,"Best purchase I've made this year!",Email
+2023-01-10,CUST1773,"Yara Scott",860.05,Books,South,15,340,8514.49,"Fantastic experience from start to finish!",Phone
+2024-10-10,CUST1774,"Aaron Baker",625.30,Books,South,8,23,4887.34,"Total disappointment, requesting a refund now.",Email
+2023-09-23,CUST1775,"Beth Nelson",554.70,Food & Beverage,Central,6,342,2189.96,"Great product, easy to use!",Online
+2023-08-31,CUST1776,"Eva Martinez",670.95,Sports,North,10,72,6226.42,"Works as described, nothing more nothing less.",In-Store
+2024-11-30,CUST1777,"Wendy King",659.69,Home & Garden,North,18,160,9974.51,"Amazing value for money, will buy again!",Email
+2024-06-01,CUST1778,"Julia Parker",1056.72,Books,Central,3,4,3157.48,"Top notch quality and fast delivery!",Mobile App
+2024-07-23,CUST1779,"Fiona Roberts",815.21,Sports,Central,2,353,1054.88,"It does the job but nothing exceptional.",Mobile App
+2023-10-18,CUST1780,"Karen Anderson",589.35,Health,Central,11,75,5996.64,"Will definitely order again soon!",Email
+2023-03-27,CUST1781,"Ethan Perez",1107.07,Clothing,North,20,329,14856.88,"Outstanding customer support team!",Mobile App
+2023-08-23,CUST1782,"Quinn Robinson",703.84,Electronics,West,8,52,5337.92,"Will definitely order again soon!",Online
+2024-08-06,CUST1783,"Karen Anderson",765.07,Books,East,15,26,11177.67,"Absolutely love it, perfect product!",Online
+2024-10-10,CUST1784,"Yara Scott",608.71,Sports,South,14,90,7754.97,"Outstanding customer support team!",Mobile App
+2023-02-26,CUST1785,"James Davis",1166.41,Beauty,West,7,270,5960.36,"It does the job but nothing exceptional.",In-Store
+2023-04-23,CUST1786,"David Brown",1144.58,Home & Garden,South,3,229,2647.41,"Fantastic experience from start to finish!",Phone
+2023-03-05,CUST1787,"Carol White",1006.70,Automotive,North,15,138,13016.63,"Fantastic experience from start to finish!",Online
+2023-04-26,CUST1788,"Beth Nelson",1258.83,Clothing,Central,20,353,16289.26,"Outstanding customer support team!",In-Store
+2023-05-20,CUST1789,"Zoe Green",1176.23,Books,North,3,308,2441.85,"Wonderful experience, very satisfied!",Email
+2023-10-02,CUST1790,"David Brown",585.64,Food & Beverage,Central,13,53,7209.81,"Superb quality and quick shipping!",In-Store
+2023-12-23,CUST1791,"Grace Lee",819.11,Sports,West,10,272,5963.12,"Absolutely love it, perfect product!",Mobile App
+2023-11-07,CUST1792,"Mike Collins",638.10,Clothing,West,4,48,2429.88,"Wonderful experience, very satisfied!",Mobile App
+2024-11-06,CUST1793,"Uma Allen",702.27,Electronics,South,18,296,8899.17,"Excellent product, very happy with my purchase!",Online
+2023-09-02,CUST1794,"Chris Carter",675.55,Beauty,South,8,265,3972.23,"Wonderful experience, very satisfied!",Phone
+2024-11-06,CUST1795,"Chris Carter",632.39,Health,North,12,316,5190.66,"Outstanding customer support team!",Email
+2023-07-16,CUST1796,"Victor Young",839.91,Toys,Central,1,11,830.67,"Confusing setup process but works once done.",Mobile App
+2024-09-07,CUST1797,"Bob Smith",640.10,Health,North,2,43,1225.15,"Fast delivery and great quality.",Mobile App
+2023-09-14,CUST1798,"Tina Hall",646.08,Clothing,Central,17,307,7611.47,"Fast delivery and great quality.",Phone
+2024-01-23,CUST1799,"Tina Hall",911.66,Food & Beverage,Central,19,170,14376.88,"Wonderful experience, very satisfied!",Mobile App
+2024-10-04,CUST1800,"Mike Collins",611.49,Sports,West,14,17,8415.33,"Exceeded all my expectations completely!",Phone
+2023-08-17,CUST1801,"Tina Hall",756.04,Health,East,17,6,12775.56,"Excellent product, very happy with my purchase!",Email
+2023-12-31,CUST1802,"Quinn Robinson",723.61,Beauty,Central,13,90,8560.31,"Product is okay but not worth the price.",Phone
+2024-06-27,CUST1803,"Noah Harris",1194.92,Beauty,South,16,281,13746.36,"Amazing value for money, will buy again!",Email
+2023-07-17,CUST1804,"Mia Jackson",986.07,Food & Beverage,South,14,57,13018.10,"Great product, easy to use!",Phone
+2024-11-15,CUST1805,"Uma Allen",717.82,Sports,Central,9,5,6428.08,"Excellent product, very happy with my purchase!",Email
+2023-08-02,CUST1806,"Nancy Stewart",781.90,Beauty,Central,17,301,9291.32,"Fast delivery and great quality.",Phone
+2023-06-19,CUST1807,"James Davis",908.16,Health,West,13,214,9279.58,"Fantastic experience from start to finish!",Mobile App
+2024-11-20,CUST1808,"Mia Jackson",667.03,Electronics,Central,14,309,6452.85,"Product is okay but not worth the price.",In-Store
+2023-03-20,CUST1809,"Mike Collins",1043.77,Sports,East,12,266,9193.53,"Amazing value for money, will buy again!",Online
+2024-03-02,CUST1810,"Hannah Phillips",1130.43,Sports,North,4,173,3739.46,"Five stars for quality and service!",Phone
+2023-05-09,CUST1811,"Beth Nelson",1194.03,Health,Central,1,5,1188.06,"Wonderful experience, very satisfied!",Email
+2023-03-26,CUST1812,"Noah Harris",1222.10,Sports,South,4,196,3930.27,"Outstanding customer support team!",In-Store
+2024-01-01,CUST1813,"Nancy Stewart",862.17,Electronics,Central,7,201,4822.12,"Will definitely order again soon!",Mobile App
+2024-11-23,CUST1814,"Diana Mitchell",635.68,Beauty,Central,12,312,5248.17,"Confusing setup process but works once done.",Online
+2023-06-21,CUST1815,"Beth Nelson",1034.43,Clothing,North,18,193,15026.13,"Five stars for quality and service!",In-Store
+2023-11-23,CUST1816,"Samuel Walker",724.22,Sports,East,5,33,3501.60,"Great product, easy to use!",In-Store
+2024-07-03,CUST1817,"Henry Taylor",829.20,Health,East,19,41,15108.85,"Outstanding customer support team!",Email
+2023-04-09,CUST1818,"Chris Carter",1251.93,Toys,North,10,223,9727.50,"Superb quality and quick shipping!",Mobile App
+2024-07-17,CUST1819,"Mia Jackson",797.91,Sports,North,18,328,9651.52,"Best purchase I've made this year!",Online
+2023-07-12,CUST1820,"Henry Taylor",828.98,Books,Central,6,7,4939.06,"Excellent product, very happy with my purchase!",Phone
+2023-12-25,CUST1821,"Grace Lee",703.40,Automotive,East,18,320,8609.62,"Fast delivery and great quality.",In-Store
+2023-05-01,CUST1822,"Aaron Baker",1131.28,Clothing,Central,11,279,8972.18,"Great product, easy to use!",In-Store
+2024-02-23,CUST1823,"Yara Scott",954.60,Clothing,West,20,93,17316.44,"Absolutely love it, perfect product!",In-Store
+2023-10-06,CUST1824,"Fiona Roberts",674.36,Books,South,11,157,6253.34,"Excellent product, very happy with my purchase!",In-Store
+2024-09-23,CUST1825,"Noah Harris",716.13,Food & Beverage,South,16,191,9269.59,"Top notch quality and fast delivery!",In-Store
+2024-05-18,CUST1826,"Rachel Lewis",1117.61,Beauty,East,11,4,12244.54,"Fantastic experience from start to finish!",In-Store
+2023-11-03,CUST1827,"Kevin Evans",562.81,Books,East,14,73,7304.15,"Outstanding customer support team!",In-Store
+2024-06-02,CUST1828,"Carol White",1044.44,Electronics,North,16,169,13886.87,"Outstanding customer support team!",Online
+2024-05-05,CUST1829,"Chris Carter",1174.56,Home & Garden,South,17,353,12918.99,"Highly recommend to everyone!",Phone
+2023-04-30,CUST1830,"Quinn Robinson",1225.40,Toys,East,3,358,2360.12,"Superb quality and quick shipping!",Phone
+2024-03-12,CUST1831,"Samuel Walker",1323.38,Beauty,North,5,136,5717.00,"Outstanding customer support team!",Online
+2023-10-23,CUST1832,"Karen Anderson",606.41,Toys,South,19,157,9712.87,"Confusing setup process but works once done.",In-Store
+2023-03-07,CUST1833,"Zoe Green",1357.57,Automotive,North,8,257,8069.40,"Excellent product, very happy with my purchase!",Mobile App
+2024-01-09,CUST1834,"Karen Anderson",843.97,Food & Beverage,Central,19,277,11593.62,"Superb quality and quick shipping!",Email
+2024-12-02,CUST1835,"Karen Anderson",776.69,Beauty,Central,10,202,6197.99,"Average product, nothing special about it.",Mobile App
+2023-12-10,CUST1836,"Peter Garcia",867.43,Food & Beverage,East,5,27,4220.05,"Best purchase I've made this year!",Phone
+2023-11-30,CUST1837,"Zoe Green",620.64,Clothing,East,9,227,4317.79,"Will definitely order again soon!",Phone
+2023-10-28,CUST1838,"James Davis",685.51,Electronics,Central,1,267,502.48,"Will definitely order again soon!",In-Store
+2023-06-01,CUST1839,"Chris Carter",1054.77,Automotive,North,10,273,7668.18,"Will definitely order again soon!",In-Store
+2024-08-25,CUST1840,"Henry Taylor",705.19,Toys,Central,13,198,7352.31,"Will definitely order again soon!",In-Store
+2024-04-02,CUST1841,"Liam Thomas",1276.88,Home & Garden,West,2,183,2086.42,"Fast delivery and great quality.",Mobile App
+2023-03-06,CUST1842,"Bob Smith",1258.33,Toys,West,12,147,12880.27,"Top notch quality and fast delivery!",In-Store
+2024-08-01,CUST1843,"Ian Campbell",785.16,Beauty,North,9,27,6875.65,"Top notch quality and fast delivery!",Mobile App
+2023-04-29,CUST1844,"James Davis",1128.74,Clothing,West,7,3,7877.48,"Will definitely order again soon!",Phone
+2023-06-29,CUST1845,"Zoe Green",1212.79,Automotive,West,1,225,939.91,"Superb quality and quick shipping!",Phone
+2023-01-04,CUST1846,"Zoe Green",1006.44,Health,East,12,315,8272.94,"Customer service was completely unhelpful.",Phone
+2024-09-12,CUST1847,"Alice Johnson",567.02,Automotive,Central,13,278,5322.05,"Highly recommend to everyone!",Email
+2024-01-25,CUST1848,"Quinn Robinson",1050.39,Books,North,10,129,9148.90,"Confusing setup process but works once done.",Email
+2023-07-05,CUST1849,"Bob Smith",879.60,Sports,West,4,247,2649.36,"Best purchase I've made this year!",Email
+2023-05-09,CUST1850,"Grace Lee",1061.27,Automotive,Central,7,179,6099.12,"Instructions were unclear but product works well.",In-Store
+2023-10-22,CUST1851,"Peter Garcia",631.87,Toys,Central,16,127,8825.96,"Highly recommend to everyone!",Online
+2024-01-12,CUST1852,"David Brown",894.47,Home & Garden,West,4,23,3495.59,"Will definitely order again soon!",Mobile App
+2023-05-17,CUST1853,"Tina Hall",1339.67,Books,East,4,202,4276.23,"Fast delivery and great quality.",Email
+2023-10-13,CUST1854,"Mike Collins",650.07,Automotive,East,18,175,9653.54,"Exceeded all my expectations completely!",Online
+2023-05-09,CUST1855,"Peter Garcia",1371.10,Clothing,North,2,315,1878.41,"Great product, easy to use!",Email
+2024-09-06,CUST1856,"Zoe Green",627.14,Beauty,East,8,189,4068.88,"Superb quality and quick shipping!",Online
+2024-02-08,CUST1857,"Liam Thomas",1072.25,Sports,North,17,172,15092.99,"Absolutely love it, perfect product!",Phone
+2024-01-11,CUST1858,"James Davis",1066.76,Beauty,West,1,315,730.73,"Best purchase I've made this year!",Phone
+2024-07-20,CUST1859,"Eva Martinez",1065.30,Sports,Central,20,46,20325.92,"Great product, easy to use!",Mobile App
+2024-05-02,CUST1860,"Frank Wilson",1072.08,Books,North,17,286,13012.91,"Confusing setup process but works once done.",Email
+2024-10-27,CUST1861,"Karen Anderson",619.84,Electronics,West,17,74,9757.52,"Exceeded all my expectations completely!",Email
+2023-11-27,CUST1862,"Xavier Wright",611.19,Food & Beverage,North,9,226,4257.55,"Average product, nothing special about it.",Email
+2023-10-14,CUST1863,"Diana Mitchell",553.27,Clothing,Central,2,310,763.51,"Will definitely order again soon!",In-Store
+2024-09-12,CUST1864,"Wendy King",682.00,Home & Garden,West,4,78,2515.22,"Superb quality and quick shipping!",Online
+2023-04-26,CUST1865,"Xavier Wright",1106.10,Sports,East,7,204,6163.19,"Product is okay but not worth the price.",Phone
+2023-06-30,CUST1866,"Noah Harris",1061.74,Electronics,East,18,136,16512.18,"Product is okay but not worth the price.",Email
+2023-12-21,CUST1867,"Alice Johnson",788.82,Sports,West,13,138,8839.52,"Will definitely order again soon!",Online
+2023-07-27,CUST1868,"Chris Carter",923.70,Sports,South,7,326,4358.02,"Outstanding customer support team!",Mobile App
+2024-09-11,CUST1869,"Eva Martinez",645.30,Clothing,Central,6,121,3403.31,"Exceeded all my expectations completely!",Mobile App
+2023-11-02,CUST1870,"Nancy Stewart",757.50,Automotive,Central,2,38,1457.43,"Top notch quality and fast delivery!",Email
+2024-12-05,CUST1871,"Olivia Martin",877.55,Automotive,North,8,27,6830.85,"Highly recommend to everyone!",In-Store
+2023-12-22,CUST1872,"Hannah Phillips",897.85,Beauty,West,14,281,9037.76,"Quality is shockingly bad for the price.",Phone
+2023-04-18,CUST1873,"Chris Carter",1369.91,Food & Beverage,South,18,192,19923.97,"Excellent product, very happy with my purchase!",Online
+2024-08-17,CUST1874,"Xavier Wright",699.94,Sports,North,12,5,8357.28,"Absolutely love it, perfect product!",Email
+2024-03-26,CUST1875,"Mia Jackson",1130.99,Health,North,20,48,21534.05,"Amazing value for money, will buy again!",Phone
+2023-08-15,CUST1876,"Peter Garcia",828.23,Health,Central,5,259,3068.59,"Best purchase I've made this year!",In-Store
+2023-01-18,CUST1877,"Bob Smith",928.47,Sports,East,3,14,2746.41,"Wonderful experience, very satisfied!",In-Store
+2024-04-21,CUST1878,"Eva Martinez",1147.13,Sports,South,11,67,11773.00,"Product arrived late and was missing parts.",Online
+2023-08-01,CUST1879,"Samuel Walker",888.89,Books,Central,3,79,2456.00,"Shipping was slow but product quality is great.",Phone
+2024-06-02,CUST1880,"Grace Lee",1255.85,Toys,West,3,174,3112.00,"Confusing setup process but works once done.",Phone
+2023-05-04,CUST1881,"Alice Johnson",1401.10,Food & Beverage,South,18,280,18158.26,"Great product, easy to use!",Mobile App
+2023-12-01,CUST1882,"James Davis",821.43,Automotive,West,3,7,2447.04,"Outstanding customer support team!",Online
+2023-06-22,CUST1883,"Iris Chen",1194.62,Beauty,Central,18,258,15955.34,"Fantastic experience from start to finish!",Online
+2024-10-03,CUST1884,"Mike Collins",710.50,Automotive,North,7,324,3362.09,"Confusing setup process but works once done.",Mobile App
+2024-06-03,CUST1885,"Victor Young",1042.07,Electronics,East,17,144,15164.20,"It does the job but nothing exceptional.",Mobile App
+2023-08-23,CUST1886,"Mike Collins",709.91,Electronics,North,5,299,2488.23,"Product is okay but not worth the price.",In-Store
+2024-09-03,CUST1887,"Ethan Perez",740.60,Toys,Central,19,24,13733.69,"Fantastic experience from start to finish!",Phone
+2024-10-31,CUST1888,"Rachel Lewis",652.82,Sports,West,8,217,4089.26,"Fast delivery and great quality.",Online
+2023-12-27,CUST1889,"James Davis",711.32,Home & Garden,North,17,100,10883.20,"Excellent product, very happy with my purchase!",Phone
+2023-09-20,CUST1890,"Mia Jackson",659.20,Toys,North,9,44,5671.76,"Excellent product, very happy with my purchase!",Mobile App
+2023-01-08,CUST1891,"Yara Scott",920.41,Home & Garden,North,7,131,5598.85,"Five stars for quality and service!",Mobile App
+2024-09-29,CUST1892,"Samuel Walker",592.75,Home & Garden,South,2,228,915.21,"Amazing value for money, will buy again!",Online
+2023-02-26,CUST1893,"Olivia Martin",1145.68,Food & Beverage,North,11,269,9212.41,"Outstanding customer support team!",Mobile App
+2024-08-12,CUST1894,"Noah Harris",854.48,Health,West,5,149,3635.81,"Fast delivery and great quality.",Phone
+2024-04-08,CUST1895,"Julia Parker",1312.06,Health,North,2,176,2162.27,"Excellent product, very happy with my purchase!",Mobile App
+2024-09-23,CUST1896,"Julia Parker",599.95,Automotive,South,11,258,4896.79,"Superb quality and quick shipping!",Online
+2024-03-03,CUST1897,"David Brown",1420.17,Clothing,North,16,271,16564.86,"Highly recommend to everyone!",Email
+2023-11-29,CUST1898,"Liam Thomas",736.09,Health,Central,15,336,7331.46,"Great product, easy to use!",Online
+2023-09-14,CUST1899,"Rachel Lewis",578.66,Health,West,18,330,6978.64,"Decent product, could be better packaged.",Online
+2023-04-27,CUST1900,"Alice Johnson",1482.94,Clothing,West,18,273,19405.75,"Will definitely order again soon!",In-Store
+2023-06-19,CUST1901,"Fiona Roberts",1236.73,Toys,North,9,209,8804.28,"Five stars for quality and service!",In-Store
+2024-10-17,CUST1902,"Zoe Green",619.86,Food & Beverage,Central,18,199,8937.14,"Absolutely love it, perfect product!",Email
+2023-03-29,CUST1903,"Uma Allen",1229.44,Health,West,18,352,14340.19,"Fantastic experience from start to finish!",Phone
+2024-01-30,CUST1904,"Henry Taylor",882.19,Books,South,6,104,4742.65,"Fantastic experience from start to finish!",In-Store
+2024-03-03,CUST1905,"Eva Martinez",1166.90,Clothing,East,15,43,16750.85,"Will definitely order again soon!",Email
+2023-02-19,CUST1906,"Peter Garcia",1145.64,Books,South,12,150,11685.53,"Absolutely love it, perfect product!",Phone
+2023-12-17,CUST1907,"Noah Harris",924.40,Home & Garden,Central,3,105,2482.01,"Best purchase I've made this year!",Online
+2024-12-05,CUST1908,"Fiona Roberts",842.89,Automotive,North,17,83,13139.81,"Top notch quality and fast delivery!",In-Store
+2024-10-26,CUST1909,"Julia Parker",667.14,Electronics,West,3,49,1903.35,"Five stars for quality and service!",Online
+2024-06-10,CUST1910,"Karen Anderson",1095.25,Clothing,West,8,151,7438.94,"Superb quality and quick shipping!",Online
+2024-09-26,CUST1911,"Uma Allen",690.92,Automotive,North,3,20,2031.30,"Five stars for quality and service!",Phone
+2023-06-01,CUST1912,"Noah Harris",1313.23,Books,West,9,55,11169.02,"Disappointed with the product durability.",Email
+2023-01-11,CUST1913,"Liam Thomas",1006.53,Food & Beverage,West,14,365,8948.05,"Fantastic experience from start to finish!",Online
+2024-05-24,CUST1914,"Henry Taylor",1315.43,Toys,North,1,145,1124.69,"Outstanding customer support team!",In-Store
+2023-02-08,CUST1915,"Olivia Martin",1041.49,Toys,Central,7,283,5227.24,"Fast delivery and great quality.",Phone
+2023-01-08,CUST1916,"Xavier Wright",1059.23,Books,West,6,7,6310.89,"Great product, easy to use!",Online
+2024-06-25,CUST1917,"Peter Garcia",1330.23,Health,West,1,291,943.13,"Amazing value for money, will buy again!",Email
+2023-03-10,CUST1918,"Henry Taylor",1134.35,Beauty,North,14,362,10132.01,"Exceeded all my expectations completely!",Mobile App
+2023-06-30,CUST1919,"Diana Mitchell",1193.96,Beauty,Central,5,220,4656.44,"Five stars for quality and service!",Email
+2024-12-05,CUST1920,"Beth Nelson",726.17,Electronics,North,10,124,6361.25,"Will definitely order again soon!",Phone
+2024-12-06,CUST1921,"Rachel Lewis",732.47,Health,East,20,265,10767.31,"Five stars for quality and service!",Phone
+2023-06-09,CUST1922,"Beth Nelson",1283.58,Food & Beverage,North,14,47,17125.52,"Great product, easy to use!",In-Store
+2023-01-11,CUST1923,"James Davis",963.26,Home & Garden,Central,12,331,7733.05,"Instructions were unclear but product works well.",Online
+2023-03-14,CUST1924,"Samuel Walker",1428.99,Toys,East,1,119,1258.94,"Amazing value for money, will buy again!",Email
+2024-03-07,CUST1925,"Julia Parker",1208.05,Health,Central,17,342,13513.25,"Best purchase I've made this year!",Mobile App
+2023-11-04,CUST1926,"Diana Mitchell",749.46,Beauty,East,19,153,12061.06,"Outstanding customer support team!",In-Store
+2023-03-11,CUST1927,"Mike Collins",1252.08,Home & Garden,Central,18,108,20103.40,"Fantastic experience from start to finish!",Online
+2023-07-12,CUST1928,"Kevin Evans",890.40,Beauty,South,18,205,12741.62,"Absolutely love it, perfect product!",In-Store
+2023-09-29,CUST1929,"Victor Young",774.43,Clothing,South,3,18,2281.47,"Works as described, nothing more nothing less.",Mobile App
+2024-07-21,CUST1930,"Fiona Roberts",1143.48,Books,East,19,44,20770.17,"Best purchase I've made this year!",Email
+2023-07-06,CUST1931,"Beth Nelson",914.99,Clothing,West,6,83,5034.27,"Fast delivery and great quality.",Online
+2023-12-02,CUST1932,"Eva Martinez",860.10,Beauty,Central,12,62,9681.29,"Exceeded all my expectations completely!",In-Store
+2023-06-23,CUST1933,"Victor Young",1015.20,Clothing,Central,6,42,5835.37,"Decent product, could be better packaged.",Online
+2024-10-10,CUST1934,"George Turner",556.28,Health,North,7,39,3742.10,"Best purchase I've made this year!",Phone
+2024-01-02,CUST1935,"Zoe Green",974.97,Toys,West,6,157,4931.40,"Exceeded all my expectations completely!",Mobile App
+2024-05-08,CUST1936,"Wendy King",1445.93,Electronics,East,17,147,20967.43,"Highly recommend to everyone!",Online
+2024-05-21,CUST1937,"Tina Hall",1271.69,Books,South,20,361,16252.20,"Stopped working after just two days.",Online
+2023-08-07,CUST1938,"Peter Garcia",728.39,Sports,South,17,131,10760.51,"Average product, nothing special about it.",Phone
+2024-07-28,CUST1939,"Iris Chen",1063.01,Automotive,West,1,114,941.83,"Absolutely love it, perfect product!",Email
+2023-10-26,CUST1940,"Carol White",617.42,Food & Beverage,East,19,103,10522.69,"Best purchase I've made this year!",Mobile App
+2024-02-25,CUST1941,"Diana Mitchell",1124.34,Home & Garden,Central,8,303,6269.32,"Highly recommend to everyone!",In-Store
+2023-07-13,CUST1942,"Uma Allen",883.14,Beauty,West,2,126,1543.73,"Five stars for quality and service!",In-Store
+2024-11-22,CUST1943,"Carol White",635.30,Books,Central,1,60,597.18,"Exceeded all my expectations completely!",Online
+2023-10-15,CUST1944,"Quinn Robinson",606.83,Automotive,South,7,8,4213.83,"Decent product, could be better packaged.",Email
+2023-07-23,CUST1945,"Julia Parker",903.18,Food & Beverage,Central,9,298,5706.29,"Disappointed with the product durability.",Email
+2023-08-22,CUST1946,"Alice Johnson",731.93,Food & Beverage,South,12,168,7307.59,"Excellent product, very happy with my purchase!",Online
+2023-07-03,CUST1947,"Nancy Stewart",1139.29,Toys,North,9,310,7074.99,"Exceeded all my expectations completely!",Phone
+2023-06-10,CUST1948,"Karen Anderson",1020.45,Toys,Central,3,312,2106.21,"Amazing value for money, will buy again!",Mobile App
+2024-01-02,CUST1949,"Quinn Robinson",1043.16,Electronics,East,18,60,17650.27,"Exceeded all my expectations completely!",Mobile App
+2023-12-09,CUST1950,"James Davis",785.57,Food & Beverage,West,11,265,6351.33,"Great product, easy to use!",Phone
+2024-10-11,CUST1951,"Bob Smith",2642.69,Home & Garden,Central,10,139,22753.56,"Amazing value for money, will buy again!",Email
+2023-08-23,CUST1952,"Laura Edwards",3154.07,Clothing,North,14,210,34884.01,"Excellent product, very happy with my purchase!",Online
+2024-03-14,CUST1953,"Ian Campbell",5699.24,Food & Beverage,West,19,196,87061.59,"Amazing value for money, will buy again!",Email
+2023-07-04,CUST1954,"Uma Allen",3504.44,Toys,North,19,101,59859.34,"Top notch quality and fast delivery!",Phone
+2024-08-18,CUST1955,"Peter Garcia",3441.71,Toys,West,5,51,16330.91,"Quality is shockingly bad for the price.",Online
+2023-12-22,CUST1956,"Quinn Robinson",3129.97,Toys,North,2,266,4594.80,"Confusing setup process but works once done.",Online
+2024-09-02,CUST1957,"Chris Carter",779.24,Books,West,2,319,1061.32,"Great product, easy to use!",In-Store
+2024-08-25,CUST1958,"Iris Chen",868.15,Food & Beverage,North,9,301,5461.53,"Best purchase I've made this year!",Phone
+2023-01-26,CUST1959,"Beth Nelson",899.61,Electronics,East,4,217,2817.58,"Amazing value for money, will buy again!",Email
+2024-10-07,CUST1960,"Karen Anderson",585.40,Home & Garden,South,10,77,5403.24,"Best purchase I've made this year!",Mobile App
+2023-12-30,CUST1961,"Ethan Perez",776.00,Beauty,Central,7,93,4926.82,"Top notch quality and fast delivery!",Online
+2024-05-27,CUST1962,"Uma Allen",1191.69,Automotive,West,4,283,3417.77,"Product doesn't match the description online.",Online
+2024-03-27,CUST1963,"Chris Carter",1403.21,Home & Garden,West,9,43,12085.85,"Amazing value for money, will buy again!",Mobile App
+2024-02-13,CUST1964,"Quinn Robinson",1074.03,Sports,North,17,172,15118.05,"Best purchase I've made this year!",Mobile App
+2023-03-12,CUST1965,"Eva Martinez",1265.69,Sports,North,9,188,9249.66,"Will definitely order again soon!",Mobile App
+2023-12-23,CUST1966,"Olivia Martin",819.21,Health,North,10,200,6553.68,"Absolutely love it, perfect product!",Phone
+2023-04-14,CUST1967,"Kevin Evans",1463.22,Electronics,South,14,171,16982.13,"Highly recommend to everyone!",Phone
+2023-04-22,CUST1968,"Hannah Phillips",1403.95,Sports,East,7,197,7891.60,"Fast delivery and great quality.",In-Store
+2024-01-05,CUST1969,"Xavier Wright",990.81,Automotive,Central,19,284,13478.98,"Highly recommend to everyone!",Mobile App
+2024-04-14,CUST1970,"Liam Thomas",1363.14,Electronics,South,4,312,3751.36,"Great product, easy to use!",In-Store
+2024-04-29,CUST1971,"Olivia Martin",1577.80,Health,East,8,254,9416.31,"Excellent product, very happy with my purchase!",Email
+2023-10-29,CUST1972,"Diana Mitchell",656.33,Food & Beverage,West,18,148,10065.48,"Five stars for quality and service!",Mobile App
+2024-08-05,CUST1973,"Mike Collins",913.05,Automotive,East,6,12,5412.56,"Will definitely order again soon!",In-Store
+2023-03-22,CUST1974,"Peter Garcia",1433.95,Beauty,East,19,160,22885.84,"Will definitely order again soon!",Mobile App
+2023-12-28,CUST1975,"Mike Collins",899.98,Health,West,20,1,17981.60,"Excellent product, very happy with my purchase!",In-Store
+2023-06-06,CUST1976,"Noah Harris",1277.04,Food & Beverage,West,15,335,12738.47,"Fantastic experience from start to finish!",In-Store
+2024-06-26,CUST1977,"Hannah Phillips",1347.15,Home & Garden,North,15,227,15620.20,"Customer service was completely unhelpful.",Mobile App
+2023-08-06,CUST1978,"Laura Edwards",873.98,Food & Beverage,South,20,195,14071.08,"Instructions were unclear but product works well.",Phone
+2023-02-10,CUST1979,"Laura Edwards",1223.95,Beauty,Central,18,8,21854.85,"Excellent product, very happy with my purchase!",Email
+2024-04-01,CUST1980,"Victor Young",1187.00,Books,West,11,294,9218.24,"Great product, easy to use!",Phone
+2024-09-14,CUST1981,"Eva Martinez",798.14,Sports,Central,9,144,6148.87,"Absolutely love it, perfect product!",Email
+2023-09-05,CUST1982,"Peter Garcia",632.30,Sports,Central,16,186,8235.08,"Excellent product, very happy with my purchase!",Email
+2023-11-18,CUST1983,"Tina Hall",820.07,Toys,South,11,327,6070.98,"Absolutely love it, perfect product!",In-Store
+2023-08-16,CUST1984,"Samuel Walker",911.98,Food & Beverage,East,9,267,6016.33,"Excellent product, very happy with my purchase!",Phone
+2024-03-15,CUST1985,"Wendy King",1438.27,Sports,West,4,127,5022.44,"Excellent product, very happy with my purchase!",In-Store
+2024-05-15,CUST1986,"Victor Young",1356.66,Automotive,Central,8,300,7597.30,"Wonderful experience, very satisfied!",Phone
+2024-06-01,CUST1987,"David Brown",1082.89,Sports,West,3,8,3222.68,"Confusing setup process but works once done.",Online
+2024-07-11,CUST1988,"James Davis",1012.52,Electronics,Central,9,99,8210.52,"Complete waste of money, avoid this.",Online
+2023-01-26,CUST1989,"Kevin Evans",931.64,Food & Beverage,West,20,309,12875.26,"Amazing value for money, will buy again!",Email
+2024-10-02,CUST1990,"Noah Harris",598.85,Food & Beverage,East,19,245,8590.50,"Highly recommend to everyone!",In-Store
+2024-10-05,CUST1991,"Victor Young",595.63,Toys,Central,13,132,6721.09,"Worst purchase I have ever made.",Email
+2023-10-25,CUST1992,"Chris Carter",645.26,Home & Garden,Central,13,260,6207.40,"Exceeded all my expectations completely!",Mobile App
+2024-11-04,CUST1993,"Laura Edwards",646.09,Books,North,5,126,2823.41,"Instructions were unclear but product works well.",Email
+2023-08-10,CUST1994,"Yara Scott",882.10,Sports,North,18,153,13448.50,"Absolutely love it, perfect product!",In-Store
+2024-12-02,CUST1995,"Quinn Robinson",761.28,Sports,East,4,172,2521.36,"Fantastic experience from start to finish!",Email
+2023-07-10,CUST1996,"Mia Jackson",1057.14,Clothing,East,8,295,5962.27,"Outstanding customer support team!",Phone
+2023-09-09,CUST1997,"David Brown",802.95,Clothing,South,15,118,10623.03,"Exceeded all my expectations completely!",Mobile App
+2024-01-16,CUST1998,"Karen Anderson",940.53,Sports,West,2,355,1213.28,"It does the job but nothing exceptional.",Mobile App
+2023-05-22,CUST1999,"Henry Taylor",1363.51,Home & Garden,South,12,316,11191.69,"Outstanding customer support team!",Phone
+2024-05-14,CUST2000,"David Brown",1246.85,Toys,North,5,224,4837.78,"Superb quality and quick shipping!",Online

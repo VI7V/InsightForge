@@ -1,0 +1,38 @@
+{
+  "name": "insightforge-frontend",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.9.0",
+    "ajv": "^8.18.0",
+    "ajv-keywords": "^5.1.0",
+    "graphql": "^16.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.10.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
