@@ -23,6 +23,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test"
   },
+  "overrides": {
+    "ajv": "^8.18.0",
+    "ajv-keywords": "^5.1.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
