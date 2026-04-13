@@ -19,10 +19,10 @@
     "@types/react-dom": "^18.2.0"
   },
   "scripts": {
-  "start": "SKIP_PREFLIGHT_CHECK=true react-scripts start",
-  "build": "SKIP_PREFLIGHT_CHECK=true react-scripts build",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
   "test": "react-scripts test"
-},
+  },
   "overrides": {
     "ajv": "^8.18.0",
     "ajv-keywords": "^5.1.0",
