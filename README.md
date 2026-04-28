@@ -3,6 +3,8 @@
 
 A production-ready full-stack SPA with authentication, CSV history, dark/light mode, and 4 detailed analysis pages — deployable on Vercel + Railway/Render.
 
+𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐋𝐈𝐍𝐊 -> https://insight-forge-w4it.vercel.app
+
 ---
 
 ## 🏗️ Full File Structure
