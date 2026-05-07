@@ -1,4 +1,4 @@
-# InsightForge v2.0
+# InsightForge
 ### AI-Powered Business Intelligence Platform
 
 A production-ready full-stack SPA with authentication, CSV history, dark/light mode, and 4 detailed analysis pages — deployable on Vercel + Railway/Render.
